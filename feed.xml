@@ -15,5 +15,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://kojackie.github.io/chuangyi-podcast/cover.jpg"/>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-  </channel>
+    <item>
+    <title>創意每天聽 - 2026年3月23日</title>
+    <description><![CDATA[大家早安！歡迎來到創新早餐，我是小雅！  我是阿凱，今天是2026年3月24日，星期二，讓我們一起來看看昨天全球和台灣有哪些讓人眼睛一亮的創新消息！  對！今天的新聞真的很精彩，我看到的時候嘴巴都張開來了！  哈哈，是嗎？那我們就先從台灣說起吧！  好！第一個要跟大家說的，是經濟部IDDI計畫的超強成果。他們推動設計驅動產業創新，結果一口氣拿下了23項國際設計大獎！你聽到這個數字有沒有嚇到？  2...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-23.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-23.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 24 Mar 2026 00:39:46 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-03-23</guid>
+  </item>
+</channel>
 </rss>
