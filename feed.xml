@@ -8,7 +8,12 @@
     <link>https://kojackie.github.io/chuangyi-podcast/</link>
     <description>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</description>
     <language>zh-tw</language>
+    <managingEditor>kojackie.tw@gmail.com (Jackie Ko)</managingEditor>
     <itunes:author>Jackie Ko</itunes:author>
+    <itunes:owner>
+      <itunes:name>Jackie Ko</itunes:name>
+      <itunes:email>kojackie.tw@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:summary>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</itunes:summary>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
@@ -17,7 +22,7 @@
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
     <title>創意每天聽 - 2026年3月23日</title>
-    <description><![CDATA[大家早安！歡迎來到創新早餐，我是小雅！  我是阿凱，今天是2026年3月24日，星期二，讓我們一起來看看昨天全球和台灣有哪些讓人眼睛一亮的創新消息！  對！今天的新聞真的很精彩，我看到的時候嘴巴都張開來了！  哈哈，是嗎？那我們就先從台灣說起吧！  好！第一個要跟大家說的，是經濟部IDDI計畫的超強成果。他們推動設計驅動產業創新，結果一口氣拿下了23項國際設計大獎！你聽到這個數字有沒有嚇到？  2...]]></description>
+    <description><![CDATA[大家早安！歡迎收聽創意每天聽，我是主持人Jackie！  我是小綠，今天是2026年3月24日，跟我們一起來看看昨天台灣和全球發生了什麼驚人的創新故事！  第一則新聞：「逆風飛翔，我看到的時候我就忍不住開口了！  首先，是這！第一個要跟大家分享的，是個充滿IDDl小老闆的故事。他們創新設計出創業新模式，創作一件風靡下了23台灣設計大獎！你覺得這個數字有什麼特殊意義嗎？  2...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-23.mp3" type="audio/mpeg" length="0"/>
     <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-23.srt" type="application/srt"/>
     <itunes:duration>08:00</itunes:duration>
