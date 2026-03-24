@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>創意每天聽</title>
+    <link>https://kojackie.github.io/chuangyi-podcast/</link>
+    <description>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</description>
+    <language>zh-tw</language>
+    <itunes:author>Jackie Ko</itunes:author>
+    <itunes:summary>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</itunes:summary>
+    <itunes:category text="Business"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://kojackie.github.io/chuangyi-podcast/cover.jpg"/>
+    <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
