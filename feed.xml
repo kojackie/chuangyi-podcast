@@ -20,7 +20,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://kojackie.github.io/chuangyi-podcast/cover.jpg"/>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-      <item>
+        <item>
+    <title>創意每天聽 - 2026年3月25日</title>
+    <description><![CDATA[大家早安！歡迎收聽創新早餐，我是小雅。   我是阿凱，今天帶來兩個超有趣的創新故事，一個讓演員消失，一個讓火箭變便宜。   哇，這樣說聽起來好刺激！我們先從第一個故事講起吧，就是那個AI微劇平台。   對！北京有一家新創公司，剛剛募到了三千四百萬美元，他們做的事情非常大膽——用AI演員完全取代真人演員。   等等，AI演員？就是那種完全由電腦生成、會講話會演戲的虛擬角色嗎？   沒錯！而且不只是動...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-25.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-25.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 25 Mar 2026 22:31:15 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-03-25</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年3月24日</title>
     <description><![CDATA[大家早安！歡迎收聽創新早餐，我是小雅！  我是阿凱，今天是2026年3月25日，讓我們一起用創新的思維開啟這一天！  阿凱，昨天新聞真的超精彩，我看完之後整個人都精神起來了，比咖啡還有效！  哈哈，我知道你在說哪一則，我們今天有台灣、有全球，還有一些真的讓人下巴掉下來的案例。  對！我們先從台灣說起。金管會最近在推一件事，我覺得超有野心——他們想讓台灣的創新板，變成亞洲的那斯達克！  這個方向很有...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-24.mp3" type="audio/mpeg" length="0"/>
