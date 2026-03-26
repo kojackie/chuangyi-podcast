@@ -6,15 +6,15 @@
   <channel>
     <title>創意每天聽</title>
     <link>https://kojackie.github.io/chuangyi-podcast/</link>
-    <description>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</description>
+    <description>這是小柯做給自己聽的 Podcast。每天早上刷牙、洗臉的那幾分鐘，讓 AI 精選的全球反常識創新故事輕輕滲入你的腦。不需要手，只需要耳朵。用一個「啊！」啟動美好的一天。如果你也想在早晨找到靈感，歡迎訂閱一起聽。</description>
     <language>zh-tw</language>
     <managingEditor>kojackie.tw@gmail.com (小柯玩科技)</managingEditor>
     <itunes:author>小柯玩科技</itunes:author>
     <itunes:owner>
-      <itunes:name>Xiaoko</itunes:name>
+      <itunes:name>小柯玩科技</itunes:name>
       <itunes:email>kojackie.tw@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:summary>給自己聽的 Podcast 讓創新案例陪你刷牙、洗臉、動動腦。</itunes:summary>
+    <itunes:summary>這是小柯做給自己聽的 Podcast。每天早上刷牙、洗臉的那幾分鐘，讓 AI 精選的全球反常識創新故事輕輕滲入你的腦。不需要手，只需要耳朵。用一個「啊！」啟動美好的一天。如果你也想在早晨找到靈感，歡迎訂閱一起聽。</itunes:summary>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
