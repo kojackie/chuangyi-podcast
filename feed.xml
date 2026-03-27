@@ -20,7 +20,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://kojackie.github.io/chuangyi-podcast/cover.jpg"/>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-        <item>
+          <item>
+    <title>創意每天聽 - 2026年3月26日</title>
+    <description><![CDATA[歡迎回來！今天的新聞真的讓我看了直呼太猛，第一條就是——祖克柏幫自己打造了一個 AI CEO！   對，這個消息超級有趣。不是 AI 幫他寫郵件、整理會議記錄，是真的讓 AI 來輔助做高層決策，等於在拆解組織裡的人情包袱。   你說「人情包袱」這四個字太準了！大公司最怕什麼？不是策略失誤，是開個會要先搞清楚誰是誰的人，然後才決定說什麼話。   這就是辦公室政治的本質。但如果決策流程裡加入一個 AI...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 27 Mar 2026 00:09:43 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-03-26</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年3月25日</title>
     <description><![CDATA[大家早安！歡迎收聽創新早餐，我是小雅。   我是阿凱，今天帶來兩個超有趣的創新故事，一個讓演員消失，一個讓火箭變便宜。   哇，這樣說聽起來好刺激！我們先從第一個故事講起吧，就是那個AI微劇平台。   對！北京有一家新創公司，剛剛募到了三千四百萬美元，他們做的事情非常大膽——用AI演員完全取代真人演員。   等等，AI演員？就是那種完全由電腦生成、會講話會演戲的虛擬角色嗎？   沒錯！而且不只是動...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-25.mp3" type="audio/mpeg" length="0"/>
