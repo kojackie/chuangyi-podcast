@@ -24,7 +24,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://kojackie.github.io/chuangyi-podcast/cover.jpg"/>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-            <item>
+              <item>
+    <title>創意每天聽 - 2026年3月27日</title>
+    <description><![CDATA[哇！阿凱，你聽說昨天那個來自台灣的創新案例了嗎？我聽到都傻眼了！  當然聽說了，小雅。兩個工程師，做出傳統30人團隊的產能，這數據真的太驚人了。  對啊！兩個對三十個，這是放大十五倍耶！我的天！這根本是超人吧？  的確，它完全顛覆了我們對「團隊規模」和「生產力」的傳統認知。   就是說啊！一般來說，要多做點事，我們直覺就是多請幾個人，對吧？  沒錯，傳統思維是「人海戰術」，人力資源越多，產能就越高...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-03-27.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-03-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 28 Mar 2026 12:58:24 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-03-27</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年3月27日</title>
     <description><![CDATA[好，今天的新聞真的讓我眼睛一亮，我們先從一個讓工程師界集體驚呼的消息說起！  對，就是那個「兩個工程師頂三十個人」的故事。這不是科幻小說，是台灣正在發生的事。  你說的是AI編碼代理的那則新聞！想像一下，你老闆突然說，我們不用再招人了，AI幫我們搞定。  而且不是說裁員那種恐怖版本，是說這兩個工程師用AI代理工具，真的把產能放大了十五倍。  十五倍！我算了一下，如果你薪水不變，老闆等於省了十三個人...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/%E5%89%B5%E6%96%B0%E9%A9%9A%E5%A5%87_2026-03-27.wav" type="audio/wav" length="0"/>
