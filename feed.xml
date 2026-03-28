@@ -6,7 +6,7 @@
   <channel>
     <title>創意每天聽</title>
     <link>https://kojackie.github.io/chuangyi-podcast/</link>
-    <description>這是小柯做給自己聽的 Podcast。每天早上刷牙、洗臉的那幾分鐘，讓 AI 精選的全球反常識創新故事輕輕滲入你的腦。不需要手，只需要耳朵。用一個「啊！」啟動美好的一天。如果你也想在早晨找到靈感，歡迎訂閱一起聽。</description>
+    <description>AI 時代，限制我們的不再是「執行力」，而是「想像力」。當 AI 讓夢想觸手可及，我們是否具備刻劃未來的能力？「創意每天聽」是小柯為自己打造陪伴刷牙、洗臉、換衣服的 Podcast。收集全世界的創新故事，讓靈感成為生活日常。邀請你與我一起，在每日早晨啟動創意的開關。</description>
     <language>zh-tw</language>
     <managingEditor>kojackie.tw@gmail.com (小柯玩科技)</managingEditor>
     <itunes:author>小柯玩科技</itunes:author>
@@ -14,7 +14,7 @@
       <itunes:name>小柯玩科技</itunes:name>
       <itunes:email>kojackie.tw@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:summary>這是小柯做給自己聽的 Podcast。每天早上刷牙、洗臉的那幾分鐘，讓 AI 精選的全球反常識創新故事輕輕滲入你的腦。不需要手，只需要耳朵。用一個「啊！」啟動美好的一天。如果你也想在早晨找到靈感，歡迎訂閱一起聽。</itunes:summary>
+    <itunes:summary>AI 時代，限制我們的不再是「執行力」，而是「想像力」。當 AI 讓夢想觸手可及，我們是否具備刻劃未來的能力？「創意每天聽」是小柯為自己打造陪伴刷牙、洗臉、換衣服的 Podcast。收集全世界的創新故事，讓靈感成為生活日常。邀請你與我一起，在每日早晨啟動創意的開關。</itunes:summary>
     <itunes:category text="Business"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
