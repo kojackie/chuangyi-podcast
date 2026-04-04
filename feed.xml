@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                              <item>
+                                <item>
+    <title>創意每天聽 - 2026年4月4日</title>
+    <description><![CDATA[昨天看到一個新聞，讓我真的是「哇！他竟然可以這樣玩！」完全刷新我對做生意的認知。   聽起來很有趣，是什麼案例讓你這麼驚訝？   就是 SpaceX 的 IPO 嘛，它準備上市，很多華爾街大銀行都搶著想當顧問。結果 Elon Musk 竟然要求，這些銀行必須訂閱他的 AI 聊天機器人 Grok，才有資格參與。   嗯，這個操作確實有點出乎意料。一般公司在找承銷商的時候，通常會看銀行的聲譽、發行能力...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-04.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-04.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 04 Apr 2026 22:02:34 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-04</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月3日</title>
     <description><![CDATA[昨天看到一則新聞，我整個腦袋都被震驚了，忍不住想跟你分享。  喔？聽起來很特別，是什麼讓你這麼驚訝？   是關於機器人訓練的。我們不是常常聽說AI模型需要大量數據來訓練嗎？  對，沒錯，而且通常都是由專業團隊來執行。   你可能沒想到，現在連這麼複雜的「類人機器人」，居然是靠像Uber Eats外送員一樣的零工，在客廳裡用手機「教」出來的！  哇，這確實出乎意料！訓練類人機器人，我會想像是在實驗室...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-03.wav" type="audio/wav" length="0"/>
