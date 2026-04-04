@@ -5,45 +5,177 @@
       "date": "2026年4月3日",
       "topics": [
         {
-          "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+          "title": "兩兄弟與AI：18億美金公司只要2個人？",
           "keywords": [
-            "AI efficiency",
-            "lean operations",
-            "startup",
-            "few employees",
-            "high value"
+            "AI效率",
+            "精簡團隊",
+            "創業",
+            "少人化",
+            "高估值"
           ],
-          "innovationPoint": "AI enables 2-person team to build $1.8B company"
+          "innovationPoint": "AI 讓兩兄弟打造 18 億美元公司"
         }
       ]
     },
     {
       "date": "2026年4月2日",
-      "topics": []
+      "topics": [
+        {
+          "title": "兩人團隊，18億美元？AI顛覆你的想像！",
+          "keywords": [
+            "AI效率",
+            "精簡團隊",
+            "創業",
+            "兩人公司",
+            "高估值"
+          ],
+          "innovationPoint": "兩人團隊靠 AI 創造 18 億美元價值"
+        }
+      ]
     },
     {
       "date": "2026年4月1日",
-      "topics": []
+      "topics": [
+        {
+          "title": "AI加速器：2人勝過30人團隊？",
+          "keywords": [
+            "AI效率",
+            "小團隊",
+            "生產力",
+            "顛覆",
+            "AI加速器"
+          ],
+          "innovationPoint": "AI 讓 2 人團隊超越 30 人團隊"
+        }
+      ]
     },
     {
       "date": "2026年3月31日",
-      "topics": []
+      "topics": [
+        {
+          "title": "廢棄物是寶藏：AI如何重塑科技回收產業？",
+          "keywords": [
+            "AI",
+            "回收",
+            "廢棄物",
+            "循環經濟",
+            "科技"
+          ],
+          "innovationPoint": "AI 將廢棄物轉化為商業機會"
+        }
+      ]
     },
     {
       "date": "2026年3月30日",
-      "topics": []
+      "topics": [
+        {
+          "title": "兩位滑雪者的啟示：小眾市場如何擊敗巨頭？",
+          "keywords": [
+            "小眾市場",
+            "利基",
+            "滑雪",
+            "創業",
+            "逆向策略"
+          ],
+          "innovationPoint": "鎖定小眾市場打敗大公司"
+        }
+      ]
     },
     {
       "date": "2026年3月29日",
-      "topics": []
+      "topics": [
+        {
+          "title": "Sonder交友：故意難用，反而更紅？",
+          "keywords": [
+            "Sonder",
+            "交友App",
+            "反常識設計",
+            "用戶體驗",
+            "增長"
+          ],
+          "innovationPoint": "刻意設計摩擦感反而提升留存率"
+        }
+      ]
     },
     {
       "date": "2026年3月28日",
-      "topics": []
+      "topics": [
+        {
+          "title": "LinkedIn的「謎題大師」：專業社群怎玩出新商機？",
+          "keywords": [
+            "LinkedIn",
+            "謎題",
+            "社群行銷",
+            "病毒傳播",
+            "商機"
+          ],
+          "innovationPoint": "用謎題在專業社群創造病毒式傳播"
+        }
+      ]
     },
     {
       "date": "2026年3月27日",
-      "topics": []
+      "topics": [
+        {
+          "title": "「無腦克隆體」測試新藥？生物科技如何顛覆倫理界線",
+          "keywords": [
+            "生物科技",
+            "克隆",
+            "倫理",
+            "新藥",
+            "顛覆"
+          ],
+          "innovationPoint": "無腦克隆體加速藥物測試突破倫理爭議"
+        }
+      ]
+    },
+    {
+      "date": "2026年3月26日",
+      "topics": [
+        {
+          "title": "資料中心上太空，不只科幻片？",
+          "keywords": [
+            "資料中心",
+            "太空",
+            "SpaceX",
+            "基礎設施",
+            "科技"
+          ],
+          "innovationPoint": "太空資料中心從科幻變為商業現實"
+        }
+      ]
+    },
+    {
+      "date": "2026年3月25日",
+      "topics": [
+        {
+          "title": "科幻成真？體外子宮顛覆生命想像",
+          "keywords": [
+            "體外子宮",
+            "生物科技",
+            "倫理",
+            "生殖科技",
+            "未來"
+          ],
+          "innovationPoint": "人工子宮技術挑戰生命倫理與社會結構"
+        }
+      ]
+    },
+    {
+      "date": "2026年3月24日",
+      "topics": [
+        {
+          "title": "氦氣危機：晶片業的隱形死穴",
+          "keywords": [
+            "氦氣",
+            "晶片",
+            "供應鏈",
+            "資源危機",
+            "半導體"
+          ],
+          "innovationPoint": "氦氣短缺成為半導體產業隱藏致命弱點"
+        }
+      ]
     }
   ]
 }
