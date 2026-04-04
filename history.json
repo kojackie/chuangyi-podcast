@@ -3,7 +3,19 @@
   "episodes": [
     {
       "date": "2026年4月3日",
-      "topics": []
+      "topics": [
+        {
+          "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+          "keywords": [
+            "AI efficiency",
+            "lean operations",
+            "startup",
+            "few employees",
+            "high value"
+          ],
+          "innovationPoint": "AI enables 2-person team to build $1.8B company"
+        }
+      ]
     },
     {
       "date": "2026年4月2日",
