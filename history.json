@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-03",
+  "lastUpdated": "2026-04-04",
   "episodes": [
+    {
+      "date": "2026年4月3日",
+      "topics": [
+        {
+          "title": "The gig workers who are training humanoid robots at home",
+          "keywords": [
+            "零工經濟",
+            "機器人訓練",
+            "人形機器人",
+            "分散式AI",
+            "人類回圈"
+          ],
+          "innovationPoint": "創新點：透過全球分散的零工經濟模式，讓普通人在家中使用智慧手機，錄製自身動作來訓練複雜的類人機器人行為，顛覆了傳統機器人訓練模式。"
+        }
+      ]
+    },
     {
       "date": "2026年4月3日",
       "topics": [
