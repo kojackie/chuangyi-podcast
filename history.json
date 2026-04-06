@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-05",
+  "lastUpdated": "2026-04-06",
   "episodes": [
+    {
+      "date": "2026年4月6日",
+      "topics": [
+        {
+          "title": "Show HN: We unionized Maxwell's Demon– A paper on labor rights in thermodynamics",
+          "keywords": [
+            "反常識",
+            "勞動倫理",
+            "AI權利",
+            "科幻哲學",
+            "跨領域思考"
+          ],
+          "innovationPoint": "創新點：將物理學中虛構的「馬克士威妖」視為勞工，並以學術論文的形式探討其勞動權利，挑戰了「勞動」和「主體」的傳統定義。"
+        }
+      ]
+    },
     {
       "date": "2026年4月5日",
       "topics": [
@@ -207,22 +223,6 @@
             "未來"
           ],
           "innovationPoint": "人工子宮技術挑戰生命倫理與社會結構"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月24日",
-      "topics": [
-        {
-          "title": "氦氣危機：晶片業的隱形死穴",
-          "keywords": [
-            "氦氣",
-            "晶片",
-            "供應鏈",
-            "資源危機",
-            "半導體"
-          ],
-          "innovationPoint": "氦氣短缺成為半導體產業隱藏致命弱點"
         }
       ]
     }
