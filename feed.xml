@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                        <item>
+                                          <item>
+    <title>創意每天聽 - 2026年4月9日</title>
+    <description><![CDATA[你有沒有想過，如果我們能預測一場選舉的結果，甚至任何大規模的社會行為，會對我們的生活帶來多大的改變？   這確實是一個很有意思的點。傳統上，我們會用民調、社會學研究去分析，但這些方法往往有其局限性。   對，今天我想跟你分享一個案例，他們做了一件特別的事。他們創造了6.5萬個AI合成人格，去預測英國議會的選舉結果。   6.5萬個AI人格，聽起來數量龐大。這點讓我很意外，因為一般公司或研究機構，通...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-09.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-09.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 09 Apr 2026 23:02:33 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-09</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月8日</title>
     <description><![CDATA[今天我們來聊一個很有趣的案例，它讓我想起，有時候最簡單的方式，反而能解決最複雜的問題。   嗯，你說的是哪個案例？昨天 TechCrunch 提到的一個關於 AI agent Poke 的做法？   對，就是這個。它把 AI 自動化流程簡化到，只要發個簡訊就能搞定。這點讓我特別驚訝。   驚訝在哪裡？一般公司或開發者，不是都傾向把 AI 做得功能越來越強大，介面越來越精細嗎？   就是這樣啊！我們...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-08.wav" type="audio/wav" length="0"/>
