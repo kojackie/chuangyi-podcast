@@ -2,6 +2,22 @@
   "lastUpdated": "2026-04-09",
   "episodes": [
     {
+      "date": "2026年4月9日",
+      "topics": [
+        {
+          "title": "Show HN: 65K synthetic personas project 136 English council elections",
+          "keywords": [
+            "AI模擬",
+            "合成人格",
+            "選舉預測",
+            "社會科學",
+            "數據洞察"
+          ],
+          "innovationPoint": "創新點：利用6.5萬個高度複雜的AI合成人格，精準模擬並預測真實世界的選舉結果，顛覆了傳統社會科學研究和市場預測的方法，展現了AI在「大規模社會模擬」上的巨大潛力。"
+        }
+      ]
+    },
+    {
       "date": "2026年4月8日",
       "topics": [
         {
@@ -207,22 +223,6 @@
             "商機"
           ],
           "innovationPoint": "用謎題在專業社群創造病毒式傳播"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月27日",
-      "topics": [
-        {
-          "title": "「無腦克隆體」測試新藥？生物科技如何顛覆倫理界線",
-          "keywords": [
-            "生物科技",
-            "克隆",
-            "倫理",
-            "新藥",
-            "顛覆"
-          ],
-          "innovationPoint": "無腦克隆體加速藥物測試突破倫理爭議"
         }
       ]
     }
