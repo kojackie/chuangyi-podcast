@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-07",
+  "lastUpdated": "2026-04-09",
   "episodes": [
+    {
+      "date": "2026年4月8日",
+      "topics": [
+        {
+          "title": "AI agent Poke makes setting up automations as easy as sending a text",
+          "keywords": [
+            "AI代理",
+            "極致簡化",
+            "文本互動",
+            "使用者體驗",
+            "自動化"
+          ],
+          "innovationPoint": "創新點：將複雜的AI自動化流程極致簡化，讓使用者透過發送簡訊就能完成任務，無需複雜設定或技術知識，顛覆了傳統AI工具的使用門檻。"
+        }
+      ]
+    },
     {
       "date": "2026年4月7日",
       "topics": [
@@ -207,22 +223,6 @@
             "顛覆"
           ],
           "innovationPoint": "無腦克隆體加速藥物測試突破倫理爭議"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月26日",
-      "topics": [
-        {
-          "title": "資料中心上太空，不只科幻片？",
-          "keywords": [
-            "資料中心",
-            "太空",
-            "SpaceX",
-            "基礎設施",
-            "科技"
-          ],
-          "innovationPoint": "太空資料中心從科幻變為商業現實"
         }
       ]
     }
