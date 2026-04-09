@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                      <item>
+                                        <item>
+    <title>創意每天聽 - 2026年4月8日</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例，它讓我想起，有時候最簡單的方式，反而能解決最複雜的問題。   嗯，你說的是哪個案例？昨天 TechCrunch 提到的一個關於 AI agent Poke 的做法？   對，就是這個。它把 AI 自動化流程簡化到，只要發個簡訊就能搞定。這點讓我特別驚訝。   驚訝在哪裡？一般公司或開發者，不是都傾向把 AI 做得功能越來越強大，介面越來越精細嗎？   就是這樣啊！我們...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-08.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-08.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 09 Apr 2026 00:01:01 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-08</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月7日</title>
     <description><![CDATA[昨天我看到一則新聞，Meta 和 Block 這兩家大型科技公司，他們在考慮廢掉「管理者」這個職稱耶，你聽說了嗎？   我有注意到這則報導，確實讓人思考很多。廢除管理者，這點你覺得最讓你感到意外的是什麼？   就是這種想法本身啊！我們從小到大，不管是學校社團還是公司，不都習慣有組長、主管、經理這種角色嗎？感覺沒有管理者，事情會亂成一團。   沒錯，一般公司之所以不這樣做，是因為管理職能被視為確保效...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-07.wav" type="audio/wav" length="0"/>
