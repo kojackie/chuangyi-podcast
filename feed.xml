@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                          <item>
+                                            <item>
+    <title>創意每天聽 - 2026年4月10日</title>
+    <description><![CDATA[昨天看到一個案例，讓我覺得很有意思。想像一下，現在大家做線上課程都追求影音、直播、社群互動，恨不得把所有媒體形式都塞進去。   嗯，這是很直覺的發展，畢竟多媒體內容在學習體驗上通常更豐富。   對啊。但這個「Hacker News」上的案例，他們做了一個Django應用程式，專門用來打造「只透過電子郵件傳遞內容」的學習平台。   只用電子郵件？這真的出乎意料，在數位時代，大家不是都在避免電子郵件的...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-10.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-10.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 10 Apr 2026 22:32:38 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-10</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月9日</title>
     <description><![CDATA[你有沒有想過，如果我們能預測一場選舉的結果，甚至任何大規模的社會行為，會對我們的生活帶來多大的改變？   這確實是一個很有意思的點。傳統上，我們會用民調、社會學研究去分析，但這些方法往往有其局限性。   對，今天我想跟你分享一個案例，他們做了一件特別的事。他們創造了6.5萬個AI合成人格，去預測英國議會的選舉結果。   6.5萬個AI人格，聽起來數量龐大。這點讓我很意外，因為一般公司或研究機構，通...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-09.wav" type="audio/wav" length="0"/>
