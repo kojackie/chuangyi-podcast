@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-10",
   "episodes": [
+    {
+      "date": "2026年4月10日",
+      "topics": [
+        {
+          "title": "Show HN: Django app for email-based learning platforms",
+          "keywords": [
+            "電子郵件學習",
+            "減法創新",
+            "數位落差",
+            "可近性",
+            "簡化設計",
+            "利基市場"
+          ],
+          "innovationPoint": "創新點：在所有人都追求多媒體、複雜互動的數位時代，這個團隊反其道而行，打造一個僅透過電子郵件傳遞內容的學習平台，專為網路頻寬有限、受審查地區或追求極簡學習體驗的用戶服務，以「減法創新」思維開創了被忽視的龐大市場。"
+        }
+      ]
+    },
     {
       "date": "2026年4月9日",
       "topics": [
@@ -207,22 +224,6 @@
             "增長"
           ],
           "innovationPoint": "刻意設計摩擦感反而提升留存率"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月28日",
-      "topics": [
-        {
-          "title": "LinkedIn的「謎題大師」：專業社群怎玩出新商機？",
-          "keywords": [
-            "LinkedIn",
-            "謎題",
-            "社群行銷",
-            "病毒傳播",
-            "商機"
-          ],
-          "innovationPoint": "用謎題在專業社群創造病毒式傳播"
         }
       ]
     }
