@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                            <item>
+                                              <item>
+    <title>創意每天聽 - 2026年4月11日</title>
+    <description><![CDATA[昨天我們收到一個來自「TechCrunch創新」的案例，說的是AMC將他們的一部劇集《The Audacity》的首映禮，拆成了21個部分在TikTok上播放。   嗯，這確實是一個很不一樣的做法。一般來說，影視作品的首映，大家都會想辦法搞得盛大、完整，讓觀眾有儀式感。   對啊！就像我們習慣看電影或追劇，都是完整的一集一集，誰會想到要把它切得這麼零碎，還在短影音平台播呢？這點就讓我覺得很出乎意料...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-11.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 11 Apr 2026 21:02:57 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-11</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月10日</title>
     <description><![CDATA[昨天看到一個案例，讓我覺得很有意思。想像一下，現在大家做線上課程都追求影音、直播、社群互動，恨不得把所有媒體形式都塞進去。   嗯，這是很直覺的發展，畢竟多媒體內容在學習體驗上通常更豐富。   對啊。但這個「Hacker News」上的案例，他們做了一個Django應用程式，專門用來打造「只透過電子郵件傳遞內容」的學習平台。   只用電子郵件？這真的出乎意料，在數位時代，大家不是都在避免電子郵件的...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-10.wav" type="audio/wav" length="0"/>
