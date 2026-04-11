@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-10",
+  "lastUpdated": "2026-04-11",
   "episodes": [
+    {
+      "date": "2026年4月11日",
+      "topics": [
+        {
+          "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+          "keywords": [
+            "內容發布",
+            "平台原生",
+            "社群媒體策略",
+            "碎片化內容",
+            "觀眾參與"
+          ],
+          "innovationPoint": "創新點：AMC顛覆傳統影視作品發布模式，將一部劇集的首映禮拆解成21個TikTok短片，將社群媒體平台從宣傳工具轉變為內容發布的核心載體，開創「平台原生化」的內容消費體驗。"
+        }
+      ]
+    },
     {
       "date": "2026年4月10日",
       "topics": [
@@ -208,22 +224,6 @@
             "逆向策略"
           ],
           "innovationPoint": "鎖定小眾市場打敗大公司"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月29日",
-      "topics": [
-        {
-          "title": "Sonder交友：故意難用，反而更紅？",
-          "keywords": [
-            "Sonder",
-            "交友App",
-            "反常識設計",
-            "用戶體驗",
-            "增長"
-          ],
-          "innovationPoint": "刻意設計摩擦感反而提升留存率"
         }
       ]
     }
