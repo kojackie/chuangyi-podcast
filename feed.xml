@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                              <item>
+                                                <item>
+    <title>創意每天聽 - 2026年4月12日</title>
+    <description><![CDATA[今天想跟你聊一個很有意思的應用程式，叫做 Grateful App。它特別的地方是，它是一個社群產品，但卻反其道而行。   怎麼說反其道而行？現在主流的社群媒體不都在追求用戶數量、演算法優化，讓大家盡可能地連結到更多人嗎？   對，這就是出乎意料的地方。Grateful App 刻意把社群功能限定在「熟人圈子」，而且不是靠演算法來推薦內容，而是直接用時間排序。   喔，用時間排序，這點在現在的社群...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-12.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 13 Apr 2026 00:03:56 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-12</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月11日</title>
     <description><![CDATA[昨天我們收到一個來自「TechCrunch創新」的案例，說的是AMC將他們的一部劇集《The Audacity》的首映禮，拆成了21個部分在TikTok上播放。   嗯，這確實是一個很不一樣的做法。一般來說，影視作品的首映，大家都會想辦法搞得盛大、完整，讓觀眾有儀式感。   對啊！就像我們習慣看電影或追劇，都是完整的一集一集，誰會想到要把它切得這麼零碎，還在短影音平台播呢？這點就讓我覺得很出乎意料...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-11.wav" type="audio/wav" length="0"/>
