@@ -2,6 +2,24 @@
   "lastUpdated": "2026-04-14",
   "episodes": [
     {
+      "date": "2026年4月14日",
+      "topics": [
+        {
+          "title": "Show HN: ILTY – AI mental health companion that does not pat your back",
+          "keywords": [
+            "AI",
+            "心理健康",
+            "產品設計",
+            "反常識",
+            "使用者經驗",
+            "市場區隔",
+            "差異化"
+          ],
+          "innovationPoint": "創新點：在主流心理健康應用普遍採用溫和、鼓勵性的支持模式時，ILTY反其道而行，刻意設計成「不拍背」的AI伴侶，以直接、非過度安慰的方式，精準服務那些尋求更務實、直接回饋的特定用戶群。"
+        }
+      ]
+    },
+    {
       "date": "2026年4月13日",
       "topics": [
         {
@@ -208,22 +226,6 @@
             "高估值"
           ],
           "innovationPoint": "兩人團隊靠 AI 創造 18 億美元價值"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月1日",
-      "topics": [
-        {
-          "title": "AI加速器：2人勝過30人團隊？",
-          "keywords": [
-            "AI效率",
-            "小團隊",
-            "生產力",
-            "顛覆",
-            "AI加速器"
-          ],
-          "innovationPoint": "AI 讓 2 人團隊超越 30 人團隊"
         }
       ]
     }
