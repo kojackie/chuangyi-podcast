@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                <item>
+                                                  <item>
+    <title>創意每天聽 - 2026年4月13日</title>
+    <description><![CDATA[你有沒有想過，有時候那些最不起眼、最需要花時間累積的事情，反而能創造出意想不到的巨大價值？   確實，我們常常習慣追求短期效益，或是依賴大型組織的力量。但這次的案例，確實讓我們看到一種不同的可能性。   沒錯，今天我們要聊的，是美國一位名叫 Aadam Jacobs 的音樂愛好者，他做了一件非常特別的事。   他從 1980 年代開始，數十年如一日地錄製他參加的演唱會。累積了超過一萬卷錄音帶，這些...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-13.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-13.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 14 Apr 2026 00:04:34 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-13</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月12日</title>
     <description><![CDATA[今天想跟你聊一個很有意思的應用程式，叫做 Grateful App。它特別的地方是，它是一個社群產品，但卻反其道而行。   怎麼說反其道而行？現在主流的社群媒體不都在追求用戶數量、演算法優化，讓大家盡可能地連結到更多人嗎？   對，這就是出乎意料的地方。Grateful App 刻意把社群功能限定在「熟人圈子」，而且不是靠演算法來推薦內容，而是直接用時間排序。   喔，用時間排序，這點在現在的社群...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-12.wav" type="audio/wav" length="0"/>
