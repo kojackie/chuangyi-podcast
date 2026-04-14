@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-14",
   "episodes": [
+    {
+      "date": "2026年4月13日",
+      "topics": [
+        {
+          "title": "Thousands of rare concert recordings are landing on the Internet Archive &#8212; listen now",
+          "keywords": [
+            "個人典藏",
+            "文化保存",
+            "類比轉數位",
+            "長期主義",
+            "稀有內容"
+          ],
+          "innovationPoint": "創新點：一位普通音樂愛好者數十年如一日地錄製萬餘場類比演唱會錄音，最終透過數位化成為全球性的文化寶藏，證明在快速數位化的時代，個人化、長期的「慢工出細活」仍能創造無可取代的巨大價值。"
+        }
+      ]
+    },
     {
       "date": "2026年4月12日",
       "topics": [
@@ -208,22 +224,6 @@
             "AI加速器"
           ],
           "innovationPoint": "AI 讓 2 人團隊超越 30 人團隊"
-        }
-      ]
-    },
-    {
-      "date": "2026年3月31日",
-      "topics": [
-        {
-          "title": "廢棄物是寶藏：AI如何重塑科技回收產業？",
-          "keywords": [
-            "AI",
-            "回收",
-            "廢棄物",
-            "循環經濟",
-            "科技"
-          ],
-          "innovationPoint": "AI 將廢棄物轉化為商業機會"
         }
       ]
     }
