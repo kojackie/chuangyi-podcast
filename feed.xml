@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                    <item>
+                                                      <item>
+    <title>創意每天聽 - 2026年4月15日</title>
+    <description><![CDATA[欸，你昨天有沒有看到那個關於維基百科的新聞？我覺得很有意思。   當然有。維基百科做了一個實驗性 App，讓使用者可以把裡面的內容混搭，變成數位剪貼簿，對吧？   對！聽起來是不是很不一樣？我們印象中維基百科就是那個很嚴謹、很客觀的知識庫嘛。   沒錯。這點其實很不尋常。一般來說，像維基百科這樣的平台，最重視的就是資料的正確性、中立性。   他們會盡可能避免個人情感或主觀表達。所以他們會投入大量資...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-15.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-15.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 15 Apr 2026 21:03:16 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-15</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月14日</title>
     <description><![CDATA[今天想跟大家聊一個很有意思的案例，它跟我們對「心理健康應用」的想像，可能有點不一樣。   沒錯，這是一個來自 Hacker News 的產品，叫做 ILTY，它標榜自己是一個「不拍背」的 AI 心理健康伴侶。   聽到「不拍背」，我就覺得很特別。你想想看，我們平常看到的心理健康App，是不是都走溫和、鼓勵的路線？   大部分確實是這樣。主流產品會提供很多安慰、正向肯定，讓你感覺被支持。這也是大家普...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-14.wav" type="audio/wav" length="0"/>
