@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-04-15",
   "episodes": [
+    {
+      "date": "2026年4月15日",
+      "topics": [
+        {
+          "title": "Show HN: Experimental app for remixing and sharing Wikipedia content",
+          "keywords": [
+            "Wikipedia",
+            "內容再創造",
+            "數位剪貼簿",
+            "個人化知識",
+            "社群互動"
+          ],
+          "innovationPoint": "創新點：維基百科的團隊顛覆了其作為客觀知識庫的傳統定位，開發了一款實驗性App，讓用戶能將百科內容重新混搭（remix）成數位剪貼簿，將嚴謹的資訊轉化為個人化、具創意的內容，探索知識社群與個人表達的新形式。"
+        }
+      ]
+    },
     {
       "date": "2026年4月14日",
       "topics": [
@@ -210,22 +226,6 @@
             "高估值"
           ],
           "innovationPoint": "AI 讓兩兄弟打造 18 億美元公司"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月2日",
-      "topics": [
-        {
-          "title": "兩人團隊，18億美元？AI顛覆你的想像！",
-          "keywords": [
-            "AI效率",
-            "精簡團隊",
-            "創業",
-            "兩人公司",
-            "高估值"
-          ],
-          "innovationPoint": "兩人團隊靠 AI 創造 18 億美元價值"
         }
       ]
     }
