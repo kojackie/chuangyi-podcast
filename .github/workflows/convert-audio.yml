@@ -1,0 +1,41 @@
+name: Convert WAV to MP3
+
+on:
+    push:
+      paths:
+        - 'audio/*.wav'
+
+jobs:
+    convert:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+
+        - name: Install ffmpeg
+          run: sudo apt-get install -y ffmpeg
+
+        - name: Convert WAV to MP3
+          run: |
+            for f in audio/*.wav; do
+              [ -f "$f" ] || continue
+              mp3="${f%.wav}.mp3"
+              if [ ! -f "$mp3" ]; then
+                ffmpeg -i "$f" -codec:a libmp3lame -b:a 128k -ar 44100 "$mp3"
+                echo "Converted: $f -> $mp3"
+              fi
+            done
+
+        - name: Remove WAV files
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            for f in audio/*.wav; do
+              [ -f "$f" ] || continue
+              git rm "$f"
+              echo "Removed: $f"
+            done
+            git add audio/*.mp3 2>/dev/null || true
+            git diff --staged --quiet || git commit -m "chore: convert audio WAV to MP3"
+            git push
