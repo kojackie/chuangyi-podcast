@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-15",
+  "lastUpdated": "2026-04-16",
   "episodes": [
+    {
+      "date": "2026年4月16日",
+      "topics": [
+        {
+          "title": "Show HN I made my vacation rental bookable by AI agents–no Airbnb, 0% commission",
+          "keywords": [
+            "AI代理",
+            "去中介化",
+            "平台經濟",
+            "零佣金",
+            "商業模式創新"
+          ],
+          "innovationPoint": "創新點：該案例展示了如何利用AI智能體實現房源的直接預訂，完全繞過Airbnb等平台及其高昂佣金，顛覆了傳統平台經濟下『中介服務』的必要性，為各行各業探索『去中介化』的商業模式提供了具體可行的路徑。"
+        }
+      ]
+    },
     {
       "date": "2026年4月15日",
       "topics": [
@@ -210,22 +226,6 @@
             "人類回圈"
           ],
           "innovationPoint": "創新點：透過全球分散的零工經濟模式，讓普通人在家中使用智慧手機，錄製自身動作來訓練複雜的類人機器人行為，顛覆了傳統機器人訓練模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月3日",
-      "topics": [
-        {
-          "title": "兩兄弟與AI：18億美金公司只要2個人？",
-          "keywords": [
-            "AI效率",
-            "精簡團隊",
-            "創業",
-            "少人化",
-            "高估值"
-          ],
-          "innovationPoint": "AI 讓兩兄弟打造 18 億美元公司"
         }
       ]
     }
