@@ -31,15 +31,10 @@ jobs:
             fi
           done
 
-      - name: Remove WAV files and push
+      - name: Push MP3 files (keep WAV)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          for f in audio/*.wav; do
-            [ -f "$f" ] || continue
-            git rm "$f"
-            echo "Removed: $f"
-          done
           git add audio/*.mp3 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: convert audio WAV to MP3"
+          git diff --staged --quiet || git commit -m "chore: convert audio WAV to MP3 (WAV kept)"
           git push
