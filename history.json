@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-16",
+  "lastUpdated": "2026-04-17",
   "episodes": [
+    {
+      "date": "2026年4月17日",
+      "topics": [
+        {
+          "title": "Show HN: AI agents should browse your site, not call your API",
+          "keywords": [
+            "AI agent",
+            "DOM-native",
+            "API bypass",
+            "去中介化",
+            "自動化架構"
+          ],
+          "innovationPoint": "創新點：該案例挑戰傳統AI與系統互動模式，提出AI智能體應直接透過瀏覽網頁（DOM-native execution）而非依賴API來操作，顛覆了軟體設計中「代理與API整合」的慣例，為AI自動化開闢了更直接、更高效且能繼承既有權限的全新路徑。"
+        }
+      ]
+    },
     {
       "date": "2026年4月16日",
       "topics": [
@@ -210,22 +226,6 @@
             "綁定銷售"
           ],
           "innovationPoint": "創新點：Elon Musk利用SpaceX IPO的巨大吸引力，要求華爾街銀行必須訂閱其AI聊天機器人Grok，將金融市場的「入場券」與其新AI產品的推廣強制綁定，創造出前所未見的交叉銷售模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月3日",
-      "topics": [
-        {
-          "title": "The gig workers who are training humanoid robots at home",
-          "keywords": [
-            "零工經濟",
-            "機器人訓練",
-            "人形機器人",
-            "分散式AI",
-            "人類回圈"
-          ],
-          "innovationPoint": "創新點：透過全球分散的零工經濟模式，讓普通人在家中使用智慧手機，錄製自身動作來訓練複雜的類人機器人行為，顛覆了傳統機器人訓練模式。"
         }
       ]
     }
