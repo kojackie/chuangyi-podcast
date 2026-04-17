@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                          <item>
+                                                            <item>
+    <title>創意每天聽 - 2026年4月17日</title>
+    <description><![CDATA[昨天我看到一個在 Hacker News 上的案例，他們提出了一個想法，說 AI 智能體應該直接瀏覽你的網站，而不是透過呼叫 API 來跟系統互動。這讓我覺得挺出乎意料的。  確實，這點很有趣。因為我們通常的認知是，如果要讓 AI 應用程式與你的後端系統溝通，最正規、最安全的方式就是提供一套定義好的 API。  對啊，就像我們平常在用 App，後面一定會跟某個伺服器交換資料，而那個交換的管道就是 ...]]></description>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-17.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-17.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 17 Apr 2026 23:28:44 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-17</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月17日</title>
     <description><![CDATA[昨天我們收到一個案例，讓我看了很有感覺。現在的孩子啊，每天拿著手機、平板，眼睛都快黏在螢幕上了。   嗯，這確實是現代父母普遍的焦慮。想讓孩子放下3C產品，但好像也很難找到什麼有趣的東西來取代。   對啊，所以我看到這個案例的時候，就覺得特別有意思。它是一個賣「懷舊童年嗜好」的生意，主打讓孩子遠離螢幕，結果今年的營收預計能達到一千兩百萬美元。   一千兩百萬美元！這數字確實很亮眼。在一個大家都覺得...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-17.mp3" type="audio/mpeg" length="0"/>
