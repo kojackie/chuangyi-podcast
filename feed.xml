@@ -32,7 +32,7 @@
                                                             <item>
     <title>創意每天聽 - 2026年4月17日</title>
     <description><![CDATA[昨天我看到一個在 Hacker News 上的案例，他們提出了一個想法，說 AI 智能體應該直接瀏覽你的網站，而不是透過呼叫 API 來跟系統互動。這讓我覺得挺出乎意料的。  確實，這點很有趣。因為我們通常的認知是，如果要讓 AI 應用程式與你的後端系統溝通，最正規、最安全的方式就是提供一套定義好的 API。  對啊，就像我們平常在用 App，後面一定會跟某個伺服器交換資料，而那個交換的管道就是 ...]]></description>
-    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-17.mp3" type="audio/mpeg" length="0"/>
+    <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-17-v2.mp3" type="audio/mpeg" length="0"/>
     <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-17.srt" type="application/srt"/>
     <itunes:duration>08:00</itunes:duration>
     <pubDate>Fri, 17 Apr 2026 23:28:44 GMT</pubDate>
