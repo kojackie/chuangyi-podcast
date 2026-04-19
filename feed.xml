@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                              <item>
+                                                                <item>
+    <title>創意每天聽 - 2026年4月19日</title>
+    <description><![CDATA[你有沒有想過，機器人有一天會比人類跑得更快、更遠，而且是在馬拉松這種需要高度體力與耐力的項目上？   確實，這是一個蠻有意思的觀察。我昨天看到一個新聞，北京半程馬拉松上，機器人居然打破了人類的紀錄。這點真的讓我有點意外。   對啊，這就是我們要聊的案例。想想看，過去我們覺得機器人在重複性、精準性高的工作上很有優勢，但體育競賽這種需要極限身體表現的領域，一直都是人類的專長。   沒錯，一般人會覺得機...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-19.wav" type="audio/wav" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-19.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 19 Apr 2026 21:02:59 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-19</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月18日</title>
     <description><![CDATA[你有沒有想過，我們每天用的手機，從以前的兩年換一支，到現在一年就想換新的？  確實，現代社會好像總是在追逐最新的產品、最快的迭代。大家都覺得「新」才代表進步。  對啊，可是昨天看到「MIT科技評論」分享的一個案例，讓我思考了一個出乎意料的觀點。  喔？是關於什麼的？  這個案例標題很直接，叫做「The case for fixing everything」，他們提出「修復一切」才是可持續發展與創新...]]></description>
     <enclosure url="https://kojackie.github.io/chuangyi-podcast/audio/episode-2026-04-18.wav" type="audio/mpeg" length="0"/>
