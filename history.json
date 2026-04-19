@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-17",
+  "lastUpdated": "2026-04-19",
   "episodes": [
+    {
+      "date": "2026年4月18日",
+      "topics": [
+        {
+          "title": "The case for fixing everything",
+          "keywords": [
+            "維護",
+            "可持續性",
+            "反思",
+            "長青價值",
+            "典範轉移"
+          ],
+          "innovationPoint": "創新點：挑戰了現代社會對「新」的過度追求，透過強調維護（Maintenance）的文明重要性，提出「修復一切」才是可持續發展與創新的深層基礎，顛覆了只看增長、不重保養的思維模式。"
+        }
+      ]
+    },
     {
       "date": "2026年4月17日",
       "topics": [
@@ -209,23 +225,6 @@
             "科技邊界"
           ],
           "innovationPoint": "創新點：預測市場平台Polymarket允許用戶對敏感的軍事救援行動結果下注，迫使其因倫理爭議而移除，揭示了新興技術在「一切皆可交易」的邏輯下可能觸及的社會倫理界限。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月4日",
-      "topics": [
-        {
-          "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
-          "keywords": [
-            "Elon Musk",
-            "SpaceX IPO",
-            "Grok",
-            "AI推廣",
-            "市場策略",
-            "綁定銷售"
-          ],
-          "innovationPoint": "創新點：Elon Musk利用SpaceX IPO的巨大吸引力，要求華爾街銀行必須訂閱其AI聊天機器人Grok，將金融市場的「入場券」與其新AI產品的推廣強制綁定，創造出前所未見的交叉銷售模式。"
         }
       ]
     }
