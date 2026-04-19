@@ -2,6 +2,22 @@
   "lastUpdated": "2026-04-19",
   "episodes": [
     {
+      "date": "2026年4月19日",
+      "topics": [
+        {
+          "title": "Robots beat human records at Beijing half-marathon",
+          "keywords": [
+            "機器人",
+            "極限性能",
+            "耐力競賽",
+            "AI應用",
+            "運動科技"
+          ],
+          "innovationPoint": "創新點：在人類傳統優勢的體力與耐力競賽中，機器人不僅達到頂尖表現，甚至超越了人類紀錄，這顛覆了我們對機器能力界限的認知，並預示了未來在極限性能優化方面的巨大潛力。"
+        }
+      ]
+    },
+    {
       "date": "2026年4月18日",
       "topics": [
         {
@@ -209,22 +225,6 @@
             "跨領域思考"
           ],
           "innovationPoint": "創新點：將物理學中虛構的「馬克士威妖」視為勞工，並以學術論文的形式探討其勞動權利，挑戰了「勞動」和「主體」的傳統定義。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月5日",
-      "topics": [
-        {
-          "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-          "keywords": [
-            "Polymarket",
-            "預測市場",
-            "倫理爭議",
-            "軍事救援",
-            "科技邊界"
-          ],
-          "innovationPoint": "創新點：預測市場平台Polymarket允許用戶對敏感的軍事救援行動結果下注，迫使其因倫理爭議而移除，揭示了新興技術在「一切皆可交易」的邏輯下可能觸及的社會倫理界限。"
         }
       ]
     }
