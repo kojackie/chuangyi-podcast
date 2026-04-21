@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-19",
+  "lastUpdated": "2026-04-21",
   "episodes": [
+    {
+      "date": "2026年4月20日",
+      "topics": [
+        {
+          "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+          "keywords": [
+            "AI替身",
+            "勞資倫理",
+            "未來工作",
+            "反抗",
+            "數位轉型"
+          ],
+          "innovationPoint": "創新點：該案例揭露了AI時代一個反常識的倫理困境——企業要求員工親手訓練將取代自己工作的AI分身，並引發了員工的集體反彈，挑戰了勞資關係與數位轉型的基本假設。"
+        }
+      ]
+    },
     {
       "date": "2026年4月19日",
       "topics": [
@@ -209,22 +225,6 @@
             "反常識管理"
           ],
           "innovationPoint": "創新點：大型科技公司Meta和Block透過AI重新定義企業組織架構，考慮廢除傳統「管理者」職稱，挑戰了根深蒂固的管理學典範，並引發對未來工作模式的深層思考。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月6日",
-      "topics": [
-        {
-          "title": "Show HN: We unionized Maxwell's Demon– A paper on labor rights in thermodynamics",
-          "keywords": [
-            "反常識",
-            "勞動倫理",
-            "AI權利",
-            "科幻哲學",
-            "跨領域思考"
-          ],
-          "innovationPoint": "創新點：將物理學中虛構的「馬克士威妖」視為勞工，並以學術論文的形式探討其勞動權利，挑戰了「勞動」和「主體」的傳統定義。"
         }
       ]
     }
