@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                  <item>
+                                                                    <item>
+    <title>創意每天聽 - 2026年4月21日</title>
+    <description><![CDATA[昨天看到一個新聞，紐約時報報導監獄裡的故事，覺得很特別。   嗯，通常大家對監獄的印象，就是資訊非常封閉，跟外界幾乎隔絕。   對啊，可是文章說，即使在完全沒有網路的監獄裡，囚犯們居然還是想辦法在利用AI來獲取知識、提升技能。   這點確實出乎意料。我們一般認為，沒有網路就等於沒有AI，更別說學習新東西了。   是啊，我一開始看到也覺得很不可思議。你想想，一個連上網都不被允許的環境，怎麼會跟最前沿...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-21.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-21.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 21 Apr 2026 21:10:00 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-21</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月20日</title>
     <description><![CDATA[昨天我們團隊看到一個案例，很有意思。是「MIT科技評論」提到，中國有些科技公司，竟然要求員工親手去訓練 AI 分身，而且這個分身，是要來取代他們自己的工作。   對，這個案例確實出乎意料。一般公司在導入 AI 的時候，多半會比較謹慎，避免直接刺激員工的反彈情緒。但他們卻直接把這層關係攤開來，這點特別值得關注。   我一開始聽到也覺得，這老闆怎麼想的？一般人想到自己的工作要被 AI 取代，應該會很抗...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-20.mp3" type="audio/mpeg" length="0"/>
