@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-21",
+  "lastUpdated": "2026-04-22",
   "episodes": [
+    {
+      "date": "2026年4月22日",
+      "topics": [
+        {
+          "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+          "keywords": [
+            "SpaceX",
+            "Cursor",
+            "策略收購",
+            "合作費",
+            "顛覆M&A"
+          ],
+          "innovationPoint": "創新點：SpaceX透過提供巨額「合作費」，而非傳統投資或直接收購，提前綁定具潛力的新創公司Cursor，開創了一種新型態的策略性收購前協作模式，顛覆了傳統M&A與融資的既有流程。"
+        }
+      ]
+    },
     {
       "date": "2026年4月21日",
       "topics": [
@@ -209,22 +225,6 @@
             "數據洞察"
           ],
           "innovationPoint": "創新點：利用6.5萬個高度複雜的AI合成人格，精準模擬並預測真實世界的選舉結果，顛覆了傳統社會科學研究和市場預測的方法，展現了AI在「大規模社會模擬」上的巨大潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月8日",
-      "topics": [
-        {
-          "title": "AI agent Poke makes setting up automations as easy as sending a text",
-          "keywords": [
-            "AI代理",
-            "極致簡化",
-            "文本互動",
-            "使用者體驗",
-            "自動化"
-          ],
-          "innovationPoint": "創新點：將複雜的AI自動化流程極致簡化，讓使用者透過發送簡訊就能完成任務，無需複雜設定或技術知識，顛覆了傳統AI工具的使用門檻。"
         }
       ]
     }
