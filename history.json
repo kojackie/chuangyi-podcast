@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-22",
+  "lastUpdated": "2026-04-23",
   "episodes": [
+    {
+      "date": "2026年4月23日",
+      "topics": [
+        {
+          "title": "Most Founders Think Debt Is Risky and Equity Is Safe. Here’s Why That Belief Is Costing Them.",
+          "keywords": [
+            "創業融資",
+            "債務",
+            "股權",
+            "資金策略",
+            "反常識"
+          ],
+          "innovationPoint": "創新點：該案例挑戰了創業圈普遍認為「債務是風險、股權是安全」的傳統觀念，揭示這種思維模式可能導致創業者付出更高昂代價，顛覆了企業融資策略的基本假設。"
+        }
+      ]
+    },
     {
       "date": "2026年4月22日",
       "topics": [
@@ -209,22 +225,6 @@
             "利基市場"
           ],
           "innovationPoint": "創新點：在所有人都追求多媒體、複雜互動的數位時代，這個團隊反其道而行，打造一個僅透過電子郵件傳遞內容的學習平台，專為網路頻寬有限、受審查地區或追求極簡學習體驗的用戶服務，以「減法創新」思維開創了被忽視的龐大市場。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月9日",
-      "topics": [
-        {
-          "title": "Show HN: 65K synthetic personas project 136 English council elections",
-          "keywords": [
-            "AI模擬",
-            "合成人格",
-            "選舉預測",
-            "社會科學",
-            "數據洞察"
-          ],
-          "innovationPoint": "創新點：利用6.5萬個高度複雜的AI合成人格，精準模擬並預測真實世界的選舉結果，顛覆了傳統社會科學研究和市場預測的方法，展現了AI在「大規模社會模擬」上的巨大潛力。"
         }
       ]
     }
