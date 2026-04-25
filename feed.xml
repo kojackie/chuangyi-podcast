@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                          <item>
+                                                                            <item>
+    <title>創意每天聽 - 2026年4月25日</title>
+    <description><![CDATA[昨天的創新案例，讓我看到一個非常出乎意料的現象。一個人的企業，竟然可以創造出 8000 萬美元的價值。   對，這確實讓人感到訝異。傳統上，我們總覺得要做大生意，就需要大團隊、大辦公室，很多資源堆疊。   就是啊，一般公司為了達到這樣的規模，可能需要幾百甚至上千名員工，還有龐大的營運成本。這個案例完全顛覆了這種想法。   沒錯，這個案例的核心就是利用 AI 的極高槓桿效應。它展示了 AI 如何讓一...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-25.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-25.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 25 Apr 2026 22:37:45 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-25</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月24日</title>
     <description><![CDATA[昨天的創新案例，我覺得很有趣，是關於台灣企業怎麼用AI顛覆我們對B2B軟體的想像。   是啊，這則新聞提到AI讓客製化商業軟體重新成為主流，這點讓我蠻意外的，畢竟過去B2B軟體市場，主流一直都是追求標準化、規模化。   對，這就是我感到驚訝的地方。一般公司不是都覺得，客製化軟體又貴又慢嗎？而且通常只有大企業才負擔得起。中小企業根本不敢想。   沒錯，標準化SaaS的好處就是成本低、部署快。你只要付...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-24.mp3" type="audio/mpeg" length="0"/>
