@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-24",
+  "lastUpdated": "2026-04-25",
   "episodes": [
+    {
+      "date": "2026年4月25日",
+      "topics": [
+        {
+          "title": "The AI Playbook That Built an $80M 1-Person Business (You’re 1 Prompt Away and Don’t Know It)",
+          "keywords": [
+            "AI創業",
+            "一人公司",
+            "超高效率",
+            "商業模式創新",
+            "槓桿效應"
+          ],
+          "innovationPoint": "創新點：該案例顛覆了傳統創業對人力與規模的普遍認知，展示了如何利用AI的極高槓桿效應，讓一個單獨的個體也能創建並經營價值高達8000萬美元的企業。"
+        }
+      ]
+    },
     {
       "date": "2026年4月24日",
       "topics": [
@@ -208,22 +224,6 @@
             "數位福祉"
           ],
           "innovationPoint": "創新點：在主流社群媒體追求規模、演算法與廣泛連結的時代，Grateful App反其道而行，刻意將社交功能限定在小而私密的「熟人圈子」，並以時間排序取代演算法，重新定義社群連結的價值，證明「少即是多」在社群產品中亦能成功。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月11日",
-      "topics": [
-        {
-          "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
-          "keywords": [
-            "內容發布",
-            "平台原生",
-            "社群媒體策略",
-            "碎片化內容",
-            "觀眾參與"
-          ],
-          "innovationPoint": "創新點：AMC顛覆傳統影視作品發布模式，將一部劇集的首映禮拆解成21個TikTok短片，將社群媒體平台從宣傳工具轉變為內容發布的核心載體，開創「平台原生化」的內容消費體驗。"
         }
       ]
     }
