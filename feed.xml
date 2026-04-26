@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                            <item>
+                                                                              <item>
+    <title>創意每天聽 - 2026年4月26日</title>
+    <description><![CDATA[昨天看到一個蠻有意思的創新案例，是關於 AI 伴侶服務的，但它的做法跟我們平常接觸的 AI 應用很不一樣。   哦？怎麼說？是技術上特別，還是商業模式有新意？   兩者都有。它是一款叫做「Hacker News」的 AI 伴侶，最特別的地方在於，它強調不把你的私密對話存到雲端，而是讓你自己的設備來運行 AI。   不存雲端？這點出乎意料。主流的 AI 服務，像是你提到的 Replika 或 Cha...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 26 Apr 2026 22:38:28 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-26</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月25日</title>
     <description><![CDATA[昨天的創新案例，讓我看到一個非常出乎意料的現象。一個人的企業，竟然可以創造出 8000 萬美元的價值。   對，這確實讓人感到訝異。傳統上，我們總覺得要做大生意，就需要大團隊、大辦公室，很多資源堆疊。   就是啊，一般公司為了達到這樣的規模，可能需要幾百甚至上千名員工，還有龐大的營運成本。這個案例完全顛覆了這種想法。   沒錯，這個案例的核心就是利用 AI 的極高槓桿效應。它展示了 AI 如何讓一...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-25.mp3" type="audio/mpeg" length="0"/>
