@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-25",
+  "lastUpdated": "2026-04-26",
   "episodes": [
+    {
+      "date": "2026年4月26日",
+      "topics": [
+        {
+          "title": "Show HN: I read Replika's privacy policy and then built a competitor",
+          "keywords": [
+            "AI隱私",
+            "本地化AI",
+            "邊緣運算",
+            "數據主權",
+            "AI伴侶"
+          ],
+          "innovationPoint": "創新點：該案例顛覆了主流AI服務將用戶高度私密對話儲存於雲端的作法，透過「本地化AI推論」技術，讓用戶能在自己的設備上安全運行AI伴侶，開創了注重隱私和數據主權的AI產品新範式。"
+        }
+      ]
+    },
     {
       "date": "2026年4月25日",
       "topics": [
@@ -208,22 +224,6 @@
             "稀有內容"
           ],
           "innovationPoint": "創新點：一位普通音樂愛好者數十年如一日地錄製萬餘場類比演唱會錄音，最終透過數位化成為全球性的文化寶藏，證明在快速數位化的時代，個人化、長期的「慢工出細活」仍能創造無可取代的巨大價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月12日",
-      "topics": [
-        {
-          "title": "Show HN: A social feed with no strangers",
-          "keywords": [
-            "社群媒體",
-            "反主流",
-            "熟人社交",
-            "減法創新",
-            "數位福祉"
-          ],
-          "innovationPoint": "創新點：在主流社群媒體追求規模、演算法與廣泛連結的時代，Grateful App反其道而行，刻意將社交功能限定在小而私密的「熟人圈子」，並以時間排序取代演算法，重新定義社群連結的價值，證明「少即是多」在社群產品中亦能成功。"
         }
       ]
     }
