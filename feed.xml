@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                              <item>
+                                                                                <item>
+    <title>創意每天聽 - 2026年4月27日</title>
+    <description><![CDATA[嘿，你最近有沒有為了整理那些海量的資料，覺得自己快要被淹沒了？尤其是要做一些新的分析，沒有足夠的「參考資料」就特別焦慮。   我懂那種感覺。很多時候，我們做任何事情都習慣先找大量的案例、數據，才能開始動手，特別是跟 AI 相關的應用。大家都覺得 AI 訓練一定要有超多資料。   對啊！所以今天這個案例，我看到的時候，第一個想法就是「原來可以這樣做？」它完全挑戰了我們對 AI 的認知。   沒錯，這...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-04-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 27 Apr 2026 22:37:50 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-04-27</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年4月26日</title>
     <description><![CDATA[昨天看到一個蠻有意思的創新案例，是關於 AI 伴侶服務的，但它的做法跟我們平常接觸的 AI 應用很不一樣。   哦？怎麼說？是技術上特別，還是商業模式有新意？   兩者都有。它是一款叫做「Hacker News」的 AI 伴侶，最特別的地方在於，它強調不把你的私密對話存到雲端，而是讓你自己的設備來運行 AI。   不存雲端？這點出乎意料。主流的 AI 服務，像是你提到的 Replika 或 Cha...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-04-26.mp3" type="audio/mpeg" length="0"/>
