@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-27",
+  "lastUpdated": "2026-04-28",
   "episodes": [
+    {
+      "date": "2026年4月28日",
+      "topics": [
+        {
+          "title": "He Joined a Brand With Barely Any Tech — and Now It’s Chasing 750 Stores. His Secret to Growth Starts With the Cashiers.",
+          "keywords": [
+            "傳統產業轉型",
+            "人本服務",
+            "低科技成長",
+            "零售業創新",
+            "顛覆式策略"
+          ],
+          "innovationPoint": "創新點：該案例顛覆了現代商業對科技過度依賴的普遍認知，展示了即使品牌「幾乎不使用科技」，透過聚焦於最基礎的「收銀員」等關鍵人際接觸點，也能在傳統服務業中實現大規模的企業擴張，達到數百家門店的驚人成長。"
+        }
+      ]
+    },
     {
       "date": "2026年4月27日",
       "topics": [
@@ -206,24 +222,6 @@
             "社群互動"
           ],
           "innovationPoint": "創新點：維基百科的團隊顛覆了其作為客觀知識庫的傳統定位，開發了一款實驗性App，讓用戶能將百科內容重新混搭（remix）成數位剪貼簿，將嚴謹的資訊轉化為個人化、具創意的內容，探索知識社群與個人表達的新形式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月14日",
-      "topics": [
-        {
-          "title": "Show HN: ILTY – AI mental health companion that does not pat your back",
-          "keywords": [
-            "AI",
-            "心理健康",
-            "產品設計",
-            "反常識",
-            "使用者經驗",
-            "市場區隔",
-            "差異化"
-          ],
-          "innovationPoint": "創新點：在主流心理健康應用普遍採用溫和、鼓勵性的支持模式時，ILTY反其道而行，刻意設計成「不拍背」的AI伴侶，以直接、非過度安慰的方式，精準服務那些尋求更務實、直接回饋的特定用戶群。"
         }
       ]
     }
