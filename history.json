@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-28",
+  "lastUpdated": "2026-04-29",
   "episodes": [
+    {
+      "date": "2026年4月29日",
+      "topics": [
+        {
+          "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+          "keywords": [
+            "社會創新",
+            "教育科技",
+            "家長權益",
+            "反科技",
+            "數位素養"
+          ],
+          "innovationPoint": "創新點：該案例顛覆了「科技導入教育必然帶來進步」的普遍認知，展示了家長社群透過集體行動成功反轉學校的數位化工具政策，創造了以人文價值為核心的「去科技化」社會創新模式。"
+        }
+      ]
+    },
     {
       "date": "2026年4月28日",
       "topics": [
@@ -206,22 +222,6 @@
             "商業模式創新"
           ],
           "innovationPoint": "創新點：該案例展示了如何利用AI智能體實現房源的直接預訂，完全繞過Airbnb等平台及其高昂佣金，顛覆了傳統平台經濟下『中介服務』的必要性，為各行各業探索『去中介化』的商業模式提供了具體可行的路徑。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月15日",
-      "topics": [
-        {
-          "title": "Show HN: Experimental app for remixing and sharing Wikipedia content",
-          "keywords": [
-            "Wikipedia",
-            "內容再創造",
-            "數位剪貼簿",
-            "個人化知識",
-            "社群互動"
-          ],
-          "innovationPoint": "創新點：維基百科的團隊顛覆了其作為客觀知識庫的傳統定位，開發了一款實驗性App，讓用戶能將百科內容重新混搭（remix）成數位剪貼簿，將嚴謹的資訊轉化為個人化、具創意的內容，探索知識社群與個人表達的新形式。"
         }
       ]
     }
