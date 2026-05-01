@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-30",
+  "lastUpdated": "2026-05-01",
   "episodes": [
+    {
+      "date": "2026年5月1日",
+      "topics": [
+        {
+          "title": "Big Tech is moving data out of the Gulf through Iraqi oil pipelines",
+          "keywords": [
+            "跨界合作",
+            "基礎設施再利用",
+            "數據傳輸",
+            "油管",
+            "策略性合作"
+          ],
+          "innovationPoint": "創新點：科技巨頭不再只依賴既有通訊基礎設施，轉而透過與傳統能源產業跨界合作，將數據光纖嵌入伊拉克舊油管中，創造出意想不到的數據傳輸新路徑與備援方案。"
+        }
+      ]
+    },
     {
       "date": "2026年4月30日",
       "topics": [
@@ -206,22 +222,6 @@
             "典範轉移"
           ],
           "innovationPoint": "創新點：挑戰了現代社會對「新」的過度追求，透過強調維護（Maintenance）的文明重要性，提出「修復一切」才是可持續發展與創新的深層基礎，顛覆了只看增長、不重保養的思維模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月17日",
-      "topics": [
-        {
-          "title": "Show HN: AI agents should browse your site, not call your API",
-          "keywords": [
-            "AI agent",
-            "DOM-native",
-            "API bypass",
-            "去中介化",
-            "自動化架構"
-          ],
-          "innovationPoint": "創新點：該案例挑戰傳統AI與系統互動模式，提出AI智能體應直接透過瀏覽網頁（DOM-native execution）而非依賴API來操作，顛覆了軟體設計中「代理與API整合」的慣例，為AI自動化開闢了更直接、更高效且能繼承既有權限的全新路徑。"
         }
       ]
     }
