@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-01",
+  "lastUpdated": "2026-05-02",
   "episodes": [
+    {
+      "date": "2026年5月2日",
+      "topics": [
+        {
+          "title": "Y Combinator built its empire on software. Its latest investment thesis says the garage is no longer enough.",
+          "keywords": [
+            "Y Combinator",
+            "創業趨勢",
+            "硬體新創",
+            "投資策略",
+            "深度科技"
+          ],
+          "innovationPoint": "創新點：全球最知名的軟體新創加速器Y Combinator，其最新投資策略竟轉向要求高資本、高硬體的深度科技，顛覆了過往對「軟體優先、輕資產」創業模式的刻板印象。"
+        }
+      ]
+    },
     {
       "date": "2026年5月1日",
       "topics": [
@@ -206,22 +222,6 @@
             "運動科技"
           ],
           "innovationPoint": "創新點：在人類傳統優勢的體力與耐力競賽中，機器人不僅達到頂尖表現，甚至超越了人類紀錄，這顛覆了我們對機器能力界限的認知，並預示了未來在極限性能優化方面的巨大潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月18日",
-      "topics": [
-        {
-          "title": "The case for fixing everything",
-          "keywords": [
-            "維護",
-            "可持續性",
-            "反思",
-            "長青價值",
-            "典範轉移"
-          ],
-          "innovationPoint": "創新點：挑戰了現代社會對「新」的過度追求，透過強調維護（Maintenance）的文明重要性，提出「修復一切」才是可持續發展與創新的深層基礎，顛覆了只看增長、不重保養的思維模式。"
         }
       ]
     }
