@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-02",
+  "lastUpdated": "2026-05-03",
   "episodes": [
+    {
+      "date": "2026年5月3日",
+      "topics": [
+        {
+          "title": "How the vinyl revival fills the gaps streaming left behind",
+          "keywords": [
+            "黑膠復興",
+            "消費心理",
+            "實體價值",
+            "串流缺口",
+            "反常識商業"
+          ],
+          "innovationPoint": "創新點：在數位串流稱霸的時代，黑膠唱片作為『過時』的實體媒介卻意外復興，顛覆了科技進步必然取代舊事物的常識，揭示了消費者對實體、儀式感與收藏價值的深層需求。"
+        }
+      ]
+    },
     {
       "date": "2026年5月2日",
       "topics": [
@@ -206,22 +222,6 @@
             "數位轉型"
           ],
           "innovationPoint": "創新點：該案例揭露了AI時代一個反常識的倫理困境——企業要求員工親手訓練將取代自己工作的AI分身，並引發了員工的集體反彈，挑戰了勞資關係與數位轉型的基本假設。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月19日",
-      "topics": [
-        {
-          "title": "Robots beat human records at Beijing half-marathon",
-          "keywords": [
-            "機器人",
-            "極限性能",
-            "耐力競賽",
-            "AI應用",
-            "運動科技"
-          ],
-          "innovationPoint": "創新點：在人類傳統優勢的體力與耐力競賽中，機器人不僅達到頂尖表現，甚至超越了人類紀錄，這顛覆了我們對機器能力界限的認知，並預示了未來在極限性能優化方面的巨大潛力。"
         }
       ]
     }
