@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "2026-05-05",
+  "lastUpdated": "2026-05-06",
   "episodes": [
+    {
+      "date": "2026年5月6日",
+      "topics": []
+    },
     {
       "date": "2026年5月5日",
       "topics": [
@@ -206,22 +210,6 @@
             "反常識"
           ],
           "innovationPoint": "創新點：該案例挑戰了創業圈普遍認為「債務是風險、股權是安全」的傳統觀念，揭示這種思維模式可能導致創業者付出更高昂代價，顛覆了企業融資策略的基本假設。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月22日",
-      "topics": [
-        {
-          "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-          "keywords": [
-            "SpaceX",
-            "Cursor",
-            "策略收購",
-            "合作費",
-            "顛覆M&A"
-          ],
-          "innovationPoint": "創新點：SpaceX透過提供巨額「合作費」，而非傳統投資或直接收購，提前綁定具潛力的新創公司Cursor，開創了一種新型態的策略性收購前協作模式，顛覆了傳統M&A與融資的既有流程。"
         }
       ]
     }
