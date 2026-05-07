@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                  <item>
+                                                                                                    <item>
+    <title>創意每天聽 - 2026年5月7日</title>
+    <description><![CDATA[昨天「MIT科技評論」有一篇報導很有意思，說的是美國正在考慮推動「陽台太陽能」。   陽台太陽能？聽起來就跟我們印象中那種大型太陽能電廠很不一樣。   對啊，它就是讓你可以在家裡陽台，裝上那種「即插即用」的太陽能模組。不需要專業人士來安裝，自己動手就行。   這點其實不容易做到。過去太陽能給人的感覺就是很複雜、要很多專業技術才能搞定。現在變成像家電一樣插上就能用，這中間的轉變很大。   我一開始聽...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-07.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-05-07.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 07 May 2026 22:38:58 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-05-07</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年5月6日</title>
     <description><![CDATA[昨天看到一個新聞很有趣，講到輝達跟一家叫做 Span 的電錶新創公司合作，他們想把迷你的 AI 資料中心裝在一般住家的外牆上。   嗯，這個做法確實有點出乎意料，尤其是輝達這樣的大公司，竟然會想到利用住宅的電力來解決算力短缺的問題。   對啊，你可能會覺得，住宅的電費相對高，而且電力穩定性也可能不如專業機房。一般公司怎麼會去想這個？   這點其實不容易做到。他們主要的切入點，可能是在極端算力荒的情...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-06.mp3" type="audio/mpeg" length="0"/>
