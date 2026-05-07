@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-06",
+  "lastUpdated": "2026-05-07",
   "episodes": [
+    {
+      "date": "2026年5月7日",
+      "topics": [
+        {
+          "title": "The balcony solar boom is coming to the US",
+          "keywords": [
+            "陽台太陽能",
+            "即插即用",
+            "能源普及",
+            "綠能",
+            "DIY"
+          ],
+          "innovationPoint": "創新點：傳統上需要專業安裝的大型太陽能系統，如今透過「即插即用」的陽台太陽能模組，大幅降低技術與財務門檻，讓普通家庭也能輕鬆參與綠能生產，實現能源的去中心化與普及化。"
+        }
+      ]
+    },
     {
       "date": "2026年5月6日",
       "topics": []
@@ -194,22 +210,6 @@
             "顛覆"
           ],
           "innovationPoint": "創新點：該案例提出AI技術將顛覆SaaS產業的標準化模式，讓過去昂貴且耗時的「客製化開發」商業軟體重新成為主流，挑戰了B2B軟體市場長期以來追求標準化、規模化的普遍認知。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月23日",
-      "topics": [
-        {
-          "title": "Most Founders Think Debt Is Risky and Equity Is Safe. Here’s Why That Belief Is Costing Them.",
-          "keywords": [
-            "創業融資",
-            "債務",
-            "股權",
-            "資金策略",
-            "反常識"
-          ],
-          "innovationPoint": "創新點：該案例挑戰了創業圈普遍認為「債務是風險、股權是安全」的傳統觀念，揭示這種思維模式可能導致創業者付出更高昂代價，顛覆了企業融資策略的基本假設。"
         }
       ]
     }
