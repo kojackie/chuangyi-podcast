@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-07",
+  "lastUpdated": "2026-05-08",
   "episodes": [
+    {
+      "date": "2026年5月8日",
+      "topics": [
+        {
+          "title": "‘It’s Yelling, Be Honest’ — How This Couple Divorced, But Still Grew Their Business to 16 Locations and $1.4 Million In Revenue",
+          "keywords": [
+            "離婚創業",
+            "合作模式",
+            "商業韌性",
+            "人際關係創新",
+            "逆境成長"
+          ],
+          "innovationPoint": "創新點：這對離婚的夫妻顛覆了普遍認知，他們不僅沒有讓婚姻破裂影響事業，反而透過建立新的合作模式與坦誠溝通，共同將事業從逆境推向成功，證明了個人關係的轉變也能催生獨特的商業韌性與成長策略。"
+        }
+      ]
+    },
     {
       "date": "2026年5月7日",
       "topics": [
@@ -194,22 +210,6 @@
             "槓桿效應"
           ],
           "innovationPoint": "創新點：該案例顛覆了傳統創業對人力與規模的普遍認知，展示了如何利用AI的極高槓桿效應，讓一個單獨的個體也能創建並經營價值高達8000萬美元的企業。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月24日",
-      "topics": [
-        {
-          "title": "企業拋棄 B2B 軟體引發 SaaS 末日？AI 助力「客製化開發」商業軟體正逐漸改變角色",
-          "keywords": [
-            "AI",
-            "SaaS",
-            "客製化",
-            "商業軟體",
-            "顛覆"
-          ],
-          "innovationPoint": "創新點：該案例提出AI技術將顛覆SaaS產業的標準化模式，讓過去昂貴且耗時的「客製化開發」商業軟體重新成為主流，挑戰了B2B軟體市場長期以來追求標準化、規模化的普遍認知。"
         }
       ]
     }
