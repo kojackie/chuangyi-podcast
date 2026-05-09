@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-08",
+  "lastUpdated": "2026-05-09",
   "episodes": [
+    {
+      "date": "2026年5月9日",
+      "topics": [
+        {
+          "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
+          "keywords": [
+            "AI限制",
+            "人類價值",
+            "健康服務創新",
+            "反AI趨勢",
+            "商業模式差異"
+          ],
+          "innovationPoint": "創新點：在科技巨頭推出AI健康教練的同時，競爭對手Whoop卻選擇反其道而行，透過提供「真人醫生視訊諮詢」服務，顛覆了AI至上的趨勢，凸顯了在健康等關鍵領域中，人際連結與專業信任的不可取代性。"
+        }
+      ]
+    },
     {
       "date": "2026年5月8日",
       "topics": [
@@ -194,22 +210,6 @@
             "AI伴侶"
           ],
           "innovationPoint": "創新點：該案例顛覆了主流AI服務將用戶高度私密對話儲存於雲端的作法，透過「本地化AI推論」技術，讓用戶能在自己的設備上安全運行AI伴侶，開創了注重隱私和數據主權的AI產品新範式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月25日",
-      "topics": [
-        {
-          "title": "The AI Playbook That Built an $80M 1-Person Business (You’re 1 Prompt Away and Don’t Know It)",
-          "keywords": [
-            "AI創業",
-            "一人公司",
-            "超高效率",
-            "商業模式創新",
-            "槓桿效應"
-          ],
-          "innovationPoint": "創新點：該案例顛覆了傳統創業對人力與規模的普遍認知，展示了如何利用AI的極高槓桿效應，讓一個單獨的個體也能創建並經營價值高達8000萬美元的企業。"
         }
       ]
     }
