@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                        <item>
+                                                                                                          <item>
+    <title>創意每天聽 - 2026年5月10日</title>
+    <description><![CDATA[我們今天來聊一個非常出乎意料的案例，跟資本市場的估值有關。  沒錯，聽到這個數字你可能會有點驚訝，這是一家叫做 Quantinuum 的公司。  對，這家公司最近申請 IPO，預計估值可以達到 200 億美元。  但有趣的是，他們在 2025 年的營收只有 3090 萬美元。而且他們的核心產品，也就是量子電腦，其實還沒有完全成熟。  3000 多萬的營收，卻有 200 億的估值？這之間的差距大到讓...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-10.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-05-10.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 10 May 2026 22:37:53 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-05-10</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年5月9日</title>
     <description><![CDATA[你有沒有想過，現在幾乎什麼東西都跟AI沾上邊，健康管理也是一樣。   是啊，Google最近就推出了他們的新產品，一台99美元的無螢幕健身追蹤器，叫Fitbit Air，還有一個每月9.99美元的AI健康教練，背後用的是Gemini AI。   對啊，這聽起來很合理，用AI來分析健康數據，給我們建議，又快又方便。不過，我看到一個很特別的案例，跟Google的做法完全相反。   喔？你是說Whoop...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-09.mp3" type="audio/mpeg" length="0"/>
