@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "episodes": [
+    {
+      "date": "2026年5月10日",
+      "topics": [
+        {
+          "title": "Quantinuum filed for an IPO worth 20 billion dollars. It has 31 million in revenue and a quantum computer that does not exist yet.",
+          "keywords": [
+            "量子計算",
+            "IPO",
+            "估值",
+            "反常識",
+            "未來科技"
+          ],
+          "innovationPoint": "創新點：Quantinuum 以其尚未完全成熟的量子電腦技術，卻在IPO中獲得200億美元的驚人估值，顛覆了傳統對公司營收與產品成熟度在資本市場中估值的認知。"
+        }
+      ]
+    },
     {
       "date": "2026年5月9日",
       "topics": [
@@ -194,22 +210,6 @@
             "深度學習範式"
           ],
           "innovationPoint": "創新點：該案例顛覆了當前AI極度依賴海量人類數據的普遍認知，旨在開發一種能「不使用人類數據自行學習」的AI，這可能徹底改變AI的訓練方式與數據隱私問題。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月26日",
-      "topics": [
-        {
-          "title": "Show HN: I read Replika's privacy policy and then built a competitor",
-          "keywords": [
-            "AI隱私",
-            "本地化AI",
-            "邊緣運算",
-            "數據主權",
-            "AI伴侶"
-          ],
-          "innovationPoint": "創新點：該案例顛覆了主流AI服務將用戶高度私密對話儲存於雲端的作法，透過「本地化AI推論」技術，讓用戶能在自己的設備上安全運行AI伴侶，開創了注重隱私和數據主權的AI產品新範式。"
         }
       ]
     }
