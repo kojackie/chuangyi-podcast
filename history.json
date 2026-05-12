@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-11",
+  "lastUpdated": "2026-05-12",
   "episodes": [
+    {
+      "date": "2026年5月12日",
+      "topics": [
+        {
+          "title": "In the Scramble to Power AI, Investors Bet $140 Million on Data Centers at Sea",
+          "keywords": [
+            "資料中心",
+            "海上",
+            "再生能源",
+            "基礎設施創新",
+            "跨界成功"
+          ],
+          "innovationPoint": "創新點：為了解決AI對能源和散熱的巨大需求，這家新創顛覆了資料中心必須在陸地集中建設的常識，以高度創新的方式將資料中心搬遷至海上，利用波浪發電與海水冷卻，打造永續且具備反常識的基礎設施解決方案。"
+        }
+      ]
+    },
     {
       "date": "2026年5月11日",
       "topics": [
@@ -194,22 +210,6 @@
             "數位素養"
           ],
           "innovationPoint": "創新點：該案例顛覆了「科技導入教育必然帶來進步」的普遍認知，展示了家長社群透過集體行動成功反轉學校的數位化工具政策，創造了以人文價值為核心的「去科技化」社會創新模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月28日",
-      "topics": [
-        {
-          "title": "He Joined a Brand With Barely Any Tech — and Now It’s Chasing 750 Stores. His Secret to Growth Starts With the Cashiers.",
-          "keywords": [
-            "傳統產業轉型",
-            "人本服務",
-            "低科技成長",
-            "零售業創新",
-            "顛覆式策略"
-          ],
-          "innovationPoint": "創新點：該案例顛覆了現代商業對科技過度依賴的普遍認知，展示了即使品牌「幾乎不使用科技」，透過聚焦於最基礎的「收銀員」等關鍵人際接觸點，也能在傳統服務業中實現大規模的企業擴張，達到數百家門店的驚人成長。"
         }
       ]
     }
