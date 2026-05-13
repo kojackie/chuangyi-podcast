@@ -1,6 +1,47 @@
 {
-  "lastUpdated": "2026-05-12",
+  "lastUpdated": "2026-05-13",
   "episodes": [
+    {
+      "date": "2026年5月12日",
+      "topics": [
+        {
+          "title": "These Seven AI Rings Translate Sign Language in Real Time",
+          "keywords": [
+            "穿戴裝置",
+            "AI應用",
+            "社會創新",
+            "無障礙科技",
+            "溝通工具",
+            "人文關懷"
+          ],
+          "innovationPoint": "創新點：這款AI戒指顛覆了傳統手語翻譯的模式，將微型穿戴裝置與嵌入式AI結合，實現即時且無障礙的溝通，為聽障社群創造了具革命性的人文應用突破。"
+        },
+        {
+          "title": "A Berlin side project just became the orchestration layer of SAP’s AI platform. n8n is now worth $5.2 billion.",
+          "keywords": [
+            "副業創業",
+            "開源軟體",
+            "工作流自動化",
+            "企業級應用",
+            "商業模式創新",
+            "價值整合"
+          ],
+          "innovationPoint": "創新點：一個始於柏林的個人副業，因不滿現有昂貴且封閉的流程自動化工具，最終發展成為SAP核心AI平台的關鍵協調層，並獲得52億美元估值，顛覆了創業必須高資本投入的常識。"
+        },
+        {
+          "title": "SAP’s CEO asked if it will still be a software company. Its stock price already answered.",
+          "keywords": [
+            "企業轉型",
+            "商業策略",
+            "AI時代挑戰",
+            "軟體服務",
+            "價值重塑",
+            "反思與定位"
+          ],
+          "innovationPoint": "創新點：歐洲最值錢的軟體公司SAP的CEO公開質疑公司未來是否仍是「軟體公司」，這不僅是個大膽提問，更揭示了在AI時代下，所有科技巨頭都需重新定義核心業務與價值定位的戰略轉型。"
+        }
+      ]
+    },
     {
       "date": "2026年5月12日",
       "topics": [
@@ -194,22 +235,6 @@
             "社群營銷"
           ],
           "innovationPoint": "創新點：該案例顛覆了「成功必須依附於頂尖大公司」的普遍認知，展示了即使放棄高薪機會，憑藉獨特願景和勇氣，個體創業者也能打造出擁有數十萬用戶的熱門產品，證明了在AI浪潮下，獨立創新仍具巨大潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月29日",
-      "topics": [
-        {
-          "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
-          "keywords": [
-            "社會創新",
-            "教育科技",
-            "家長權益",
-            "反科技",
-            "數位素養"
-          ],
-          "innovationPoint": "創新點：該案例顛覆了「科技導入教育必然帶來進步」的普遍認知，展示了家長社群透過集體行動成功反轉學校的數位化工具政策，創造了以人文價值為核心的「去科技化」社會創新模式。"
         }
       ]
     }
