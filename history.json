@@ -2,6 +2,22 @@
   "lastUpdated": "2026-05-13",
   "episodes": [
     {
+      "date": "2026年5月13日",
+      "topics": [
+        {
+          "title": "I Studied How AI Recommends Local Businesses. Here’s What Actually Drives Visibility.",
+          "keywords": [
+            "AI推薦",
+            "在地商家",
+            "可見度",
+            "行銷策略",
+            "中小企業"
+          ],
+          "innovationPoint": "創新點：透過深入研究AI對在地商家推薦機制的影響，這項發現顛覆了許多商家對提升線上可見度的傳統認知，揭示了真正驅動AI推薦的關鍵因素，為在地服務業、餐飲業和零售業提供了具體且反常識的精準行銷策略。"
+        }
+      ]
+    },
+    {
       "date": "2026年5月12日",
       "topics": [
         {
@@ -219,22 +235,6 @@
             "策略性合作"
           ],
           "innovationPoint": "創新點：科技巨頭不再只依賴既有通訊基礎設施，轉而透過與傳統能源產業跨界合作，將數據光纖嵌入伊拉克舊油管中，創造出意想不到的數據傳輸新路徑與備援方案。"
-        }
-      ]
-    },
-    {
-      "date": "2026年4月30日",
-      "topics": [
-        {
-          "title": "I Turned Down a Near-Million Dollar Job With OpenAI. Now My App Has 500,000 People On the Waitlist.",
-          "keywords": [
-            "創業成功",
-            "反主流選擇",
-            "商業模式創新",
-            "個人品牌",
-            "社群營銷"
-          ],
-          "innovationPoint": "創新點：該案例顛覆了「成功必須依附於頂尖大公司」的普遍認知，展示了即使放棄高薪機會，憑藉獨特願景和勇氣，個體創業者也能打造出擁有數十萬用戶的熱門產品，證明了在AI浪潮下，獨立創新仍具巨大潛力。"
         }
       ]
     }
