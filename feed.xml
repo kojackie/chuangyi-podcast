@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                    <item>
+                                                                                                                      <item>
+    <title>創意每天聽 - 2026年5月14日</title>
+    <description><![CDATA[昨天有個新聞，Tesla Semi 電動卡車終於正式開始生產和交付了。這個消息其實很有意思。  的確，這差不多是個十年計畫了。他們在 2017 年就宣布要推出，現在終於看到第一輛車從生產線上下來。  對啊，電動車大家都知道，但重型卡車這種又重又長途運輸的，總覺得離電動化很遠。  傳統上來看，重型運輸對電池續航力、充電基礎設施和車輛載重能力都有極高要求，這些都是電動化最難克服的挑戰。  所以，Tes...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-14.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-05-14.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 14 May 2026 22:37:51 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-05-14</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年5月13日</title>
     <description><![CDATA[今天要聊的案例很有意思，它直接關係到許多在地商家，像是你家巷口的小吃店，或是你常去的咖啡廳，它們要怎麼讓AI推薦給更多人。   是的，這篇研究探討了AI如何推薦在地商家，結果發現了一些出乎意料的關鍵因素，和我們一般認知的不太一樣。   我覺得最詫異的地方是，大家可能都覺得要做好社群行銷、狂發廣告，或是累積很多好評價，AI才會看到你。但這篇文章說的，可能都不是最核心的。   沒錯，一般公司為了提高線...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-13.mp3" type="audio/mpeg" length="0"/>
