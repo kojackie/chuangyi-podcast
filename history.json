@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-14",
   "episodes": [
+    {
+      "date": "2026年5月14日",
+      "topics": [
+        {
+          "title": "The Tesla Semi could be a big deal for electric trucking",
+          "keywords": [
+            "電動卡車",
+            "物流轉型",
+            "永續運輸",
+            "重型電動化",
+            "產業顛覆",
+            "傳統產業突破"
+          ],
+          "innovationPoint": "創新點：Tesla Semi的正式生產與交付，象徵著電動化技術在過去被認為極難實現的重型運輸領域取得重大突破，挑戰了傳統對重型電動卡車可行性的質疑，並預示了物流產業向永續、高效電動化轉型的巨大潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年5月13日",
       "topics": [
@@ -219,22 +236,6 @@
             "深度科技"
           ],
           "innovationPoint": "創新點：全球最知名的軟體新創加速器Y Combinator，其最新投資策略竟轉向要求高資本、高硬體的深度科技，顛覆了過往對「軟體優先、輕資產」創業模式的刻板印象。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月1日",
-      "topics": [
-        {
-          "title": "Big Tech is moving data out of the Gulf through Iraqi oil pipelines",
-          "keywords": [
-            "跨界合作",
-            "基礎設施再利用",
-            "數據傳輸",
-            "油管",
-            "策略性合作"
-          ],
-          "innovationPoint": "創新點：科技巨頭不再只依賴既有通訊基礎設施，轉而透過與傳統能源產業跨界合作，將數據光纖嵌入伊拉克舊油管中，創造出意想不到的數據傳輸新路徑與備援方案。"
         }
       ]
     }
