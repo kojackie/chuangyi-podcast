@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-14",
+  "lastUpdated": "2026-05-15",
   "episodes": [
+    {
+      "date": "2026年5月15日",
+      "topics": [
+        {
+          "title": "Revolut is offering every employee GBP1,000 to sell business banking. The real prize is a $200 billion IPO.",
+          "keywords": [
+            "全員銷售",
+            "員工激勵",
+            "內部行銷",
+            "業務拓展",
+            "金融服務"
+          ],
+          "innovationPoint": "英國金融科技公司Revolut為鼓勵員工銷售企業銀行服務，提供每人1000英鎊獎金，顛覆了傳統業務部門專責銷售的常識，以「全員銷售」模式驅動公司成長。"
+        }
+      ]
+    },
     {
       "date": "2026年5月14日",
       "topics": [
@@ -220,22 +236,6 @@
             "反常識商業"
           ],
           "innovationPoint": "創新點：在數位串流稱霸的時代，黑膠唱片作為『過時』的實體媒介卻意外復興，顛覆了科技進步必然取代舊事物的常識，揭示了消費者對實體、儀式感與收藏價值的深層需求。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月2日",
-      "topics": [
-        {
-          "title": "Y Combinator built its empire on software. Its latest investment thesis says the garage is no longer enough.",
-          "keywords": [
-            "Y Combinator",
-            "創業趨勢",
-            "硬體新創",
-            "投資策略",
-            "深度科技"
-          ],
-          "innovationPoint": "創新點：全球最知名的軟體新創加速器Y Combinator，其最新投資策略竟轉向要求高資本、高硬體的深度科技，顛覆了過往對「軟體優先、輕資產」創業模式的刻板印象。"
         }
       ]
     }
