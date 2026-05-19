@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-18",
+  "lastUpdated": "2026-05-19",
   "episodes": [
+    {
+      "date": "2026年5月19日",
+      "topics": [
+        {
+          "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+          "keywords": [
+            "生物科技",
+            "3D列印",
+            "人造孵化",
+            "生命科學突破",
+            "精準控制"
+          ],
+          "innovationPoint": "創新點：Colossal Biosciences成功在3D列印的人工蛋殼中孵化出小雞，顛覆了傳統對生命孵化過程的認知，展示了透過完全人造環境精準控制生物生長的潛力，為生物科技、農業及瀕危物種復育開啟全新路徑。"
+        }
+      ]
+    },
     {
       "date": "2026年5月18日",
       "topics": [
@@ -234,10 +250,6 @@
           "innovationPoint": "創新點：傳統上需要專業安裝的大型太陽能系統，如今透過「即插即用」的陽台太陽能模組，大幅降低技術與財務門檻，讓普通家庭也能輕鬆參與綠能生產，實現能源的去中心化與普及化。"
         }
       ]
-    },
-    {
-      "date": "2026年5月6日",
-      "topics": []
     }
   ]
 }
