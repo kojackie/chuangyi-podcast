@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                <item>
+                                                                                                                                  <item>
+    <title>創意每天聽 - 2026年5月20日</title>
+    <description><![CDATA[昨天我們收到一個來自「Singularity Hub」的案例，討論到地殼下的岩石居然可以生產氫氣，我覺得這點蠻有趣的。  的確，這個發現出乎意料，因為我們普遍認為氫氣主要來自電解水或天然氣重整，很少會想到從岩石裡來。  對啊，它顛覆了我們對能源來源的想像。一般公司或個人聽到這個，可能都會覺得太科幻了，怎麼可能從石頭裡變出能源？  傳統的能源產業確實會聚焦在已知且規模化的技術上，對於這種非主流或實驗...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-20.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-05-20.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 20 May 2026 22:38:20 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-05-20</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年5月19日</title>
     <description><![CDATA[你有沒有想過，平常我們看見的雞蛋，如果不是真的蛋殼，而是人工的，那會是什麼樣子？   聽起來像是科幻片的情節，但今天我們要聊的案例，就真的把這個想像變成了現實。   對，就是 Colossal Biosciences 這家公司，他們居然在 3D 列印的人工蛋殼裡，成功孵化出了小雞。這件事情，真的讓我覺得很不一樣。   是很不一樣。一般公司或個人，誰會想到要從雞蛋這個這麼自然的環節去下手？我們養雞不...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-05-19.mp3" type="audio/mpeg" length="0"/>
