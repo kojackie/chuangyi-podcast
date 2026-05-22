@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-21",
+  "lastUpdated": "2026-05-22",
   "episodes": [
+    {
+      "date": "2026年5月22日",
+      "topics": [
+        {
+          "title": "Starbucks pulls its AI inventory tool nine months in, after it kept confusing the milks",
+          "keywords": [
+            "AI落地",
+            "零售業",
+            "庫存管理",
+            "失敗案例",
+            "數位轉型挑戰"
+          ],
+          "innovationPoint": "創新點：星巴克在導入AI庫存管理工具九個月後，因其頻繁「分不清牛奶種類」而最終撤除，顛覆了人們對AI在零售業能「無縫」提升效率的普遍期待，揭示了AI技術落地實體場域時，面對複雜現實環境的巨大挑戰與細節盲點。"
+        }
+      ]
+    },
     {
       "date": "2026年5月21日",
       "topics": []
@@ -220,22 +236,6 @@
             "未來科技"
           ],
           "innovationPoint": "創新點：Quantinuum 以其尚未完全成熟的量子電腦技術，卻在IPO中獲得200億美元的驚人估值，顛覆了傳統對公司營收與產品成熟度在資本市場中估值的認知。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月9日",
-      "topics": [
-        {
-          "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
-          "keywords": [
-            "AI限制",
-            "人類價值",
-            "健康服務創新",
-            "反AI趨勢",
-            "商業模式差異"
-          ],
-          "innovationPoint": "創新點：在科技巨頭推出AI健康教練的同時，競爭對手Whoop卻選擇反其道而行，透過提供「真人醫生視訊諮詢」服務，顛覆了AI至上的趨勢，凸顯了在健康等關鍵領域中，人際連結與專業信任的不可取代性。"
         }
       ]
     }
