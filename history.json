@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-24",
+  "lastUpdated": "2026-05-25",
   "episodes": [
+    {
+      "date": "2026年5月25日",
+      "topics": [
+        {
+          "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+          "keywords": [
+            "反常識",
+            "商業模式反轉",
+            "體育創新",
+            "禁藥",
+            "極限挑戰"
+          ],
+          "innovationPoint": "創新點：『強化運動會（Enhanced Games）』公然鼓勵選手使用禁藥，顛覆了現代體育強調公平競爭與道德倫理的基石，以追求『人類表現極限』為核心訴求，開創了一種反常識的體育商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年5月24日",
       "topics": [
@@ -220,22 +236,6 @@
             "反思與定位"
           ],
           "innovationPoint": "創新點：歐洲最值錢的軟體公司SAP的CEO公開質疑公司未來是否仍是「軟體公司」，這不僅是個大膽提問，更揭示了在AI時代下，所有科技巨頭都需重新定義核心業務與價值定位的戰略轉型。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月12日",
-      "topics": [
-        {
-          "title": "In the Scramble to Power AI, Investors Bet $140 Million on Data Centers at Sea",
-          "keywords": [
-            "資料中心",
-            "海上",
-            "再生能源",
-            "基礎設施創新",
-            "跨界成功"
-          ],
-          "innovationPoint": "創新點：為了解決AI對能源和散熱的巨大需求，這家新創顛覆了資料中心必須在陸地集中建設的常識，以高度創新的方式將資料中心搬遷至海上，利用波浪發電與海水冷卻，打造永續且具備反常識的基礎設施解決方案。"
         }
       ]
     }
