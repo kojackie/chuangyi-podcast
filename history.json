@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-26",
+  "lastUpdated": "2026-05-27",
   "episodes": [
+    {
+      "date": "2026年5月27日",
+      "topics": [
+        {
+          "title": "Spotify and Netflix are paying Jay Shetty up to $100 million to take his podcast off YouTube",
+          "keywords": [
+            "內容經濟",
+            "獨家授權",
+            "商業模式反轉",
+            "平台競爭",
+            "IP價值"
+          ],
+          "innovationPoint": "創新點：Spotify和Netflix願意斥資高達1億美元，將熱門播客節目從YouTube獨家簽下，顛覆了內容『最大化分發』的傳統策略，轉而強調『獨家內容的戰略性價值』與其在平台競爭中的關鍵作用。"
+        }
+      ]
+    },
     {
       "date": "2026年5月26日",
       "topics": [
@@ -195,22 +211,6 @@
             "傳統產業突破"
           ],
           "innovationPoint": "創新點：Tesla Semi的正式生產與交付，象徵著電動化技術在過去被認為極難實現的重型運輸領域取得重大突破，挑戰了傳統對重型電動卡車可行性的質疑，並預示了物流產業向永續、高效電動化轉型的巨大潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月13日",
-      "topics": [
-        {
-          "title": "I Studied How AI Recommends Local Businesses. Here’s What Actually Drives Visibility.",
-          "keywords": [
-            "AI推薦",
-            "在地商家",
-            "可見度",
-            "行銷策略",
-            "中小企業"
-          ],
-          "innovationPoint": "創新點：透過深入研究AI對在地商家推薦機制的影響，這項發現顛覆了許多商家對提升線上可見度的傳統認知，揭示了真正驅動AI推薦的關鍵因素，為在地服務業、餐飲業和零售業提供了具體且反常識的精準行銷策略。"
         }
       ]
     }
