@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-27",
+  "lastUpdated": "2026-05-28",
   "episodes": [
+    {
+      "date": "2026年5月28日",
+      "topics": [
+        {
+          "title": "China’s tech rise is creating a new kind of tourism",
+          "keywords": [
+            "科技觀光",
+            "產業轉型",
+            "商業服務",
+            "中國創新",
+            "工廠旅遊"
+          ],
+          "innovationPoint": "創新點：中國將其科技發展與製造業優勢轉化為獨特的「科技產業觀光」，吸引外國遊客參訪工廠與AI新創，顛覆傳統觀光模式，開創了新的商業服務與國家品牌宣傳方式。"
+        }
+      ]
+    },
     {
       "date": "2026年5月27日",
       "topics": [
@@ -194,23 +210,6 @@
             "金融服務"
           ],
           "innovationPoint": "英國金融科技公司Revolut為鼓勵員工銷售企業銀行服務，提供每人1000英鎊獎金，顛覆了傳統業務部門專責銷售的常識，以「全員銷售」模式驅動公司成長。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月14日",
-      "topics": [
-        {
-          "title": "The Tesla Semi could be a big deal for electric trucking",
-          "keywords": [
-            "電動卡車",
-            "物流轉型",
-            "永續運輸",
-            "重型電動化",
-            "產業顛覆",
-            "傳統產業突破"
-          ],
-          "innovationPoint": "創新點：Tesla Semi的正式生產與交付，象徵著電動化技術在過去被認為極難實現的重型運輸領域取得重大突破，挑戰了傳統對重型電動卡車可行性的質疑，並預示了物流產業向永續、高效電動化轉型的巨大潛力。"
         }
       ]
     }
