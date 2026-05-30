@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-28",
+  "lastUpdated": "2026-05-30",
   "episodes": [
+    {
+      "date": "2026年5月29日",
+      "topics": [
+        {
+          "title": "Sodium Is Cheap, Abundant, and Now Powering Batteries That Could Rival Lithium - Singularity Hub",
+          "keywords": [
+            "鈉離子電池",
+            "能源儲存",
+            "材料科學",
+            "替代方案",
+            "成本優勢"
+          ],
+          "innovationPoint": "創新點：鈉離子電池因其材料便宜且儲量豐富，正迅速發展並展現出足以與鋰電池匹敵的性能，顛覆了長期以來由鋰獨霸的儲能市場，為能源產業提供更具成本效益與供應鏈韌性的替代方案。"
+        }
+      ]
+    },
     {
       "date": "2026年5月28日",
       "topics": [
@@ -194,22 +210,6 @@
             "規模化生產"
           ],
           "innovationPoint": "創新點：中國短劇產業透過將AI深度整合到內容生成、編劇與製作流程中，實現了前所未有的高效率、低成本與大規模內容生產，顛覆了傳統影視製作的時間與資源限制，將AI從單純的輔助工具升級為核心的內容工廠引擎。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月15日",
-      "topics": [
-        {
-          "title": "Revolut is offering every employee GBP1,000 to sell business banking. The real prize is a $200 billion IPO.",
-          "keywords": [
-            "全員銷售",
-            "員工激勵",
-            "內部行銷",
-            "業務拓展",
-            "金融服務"
-          ],
-          "innovationPoint": "英國金融科技公司Revolut為鼓勵員工銷售企業銀行服務，提供每人1000英鎊獎金，顛覆了傳統業務部門專責銷售的常識，以「全員銷售」模式驅動公司成長。"
         }
       ]
     }
