@@ -3,7 +3,7 @@ name: Convert WAV to MP3
 on:
   push:
     paths:
-      - '"audio/*.wav"'
+      - 'audio/*.wav'
   workflow_dispatch:
 
 permissions:
