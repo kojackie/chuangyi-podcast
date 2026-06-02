@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-02",
   "episodes": [
+    {
+      "date": "2026年6月1日",
+      "topics": [
+        {
+          "title": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
+          "keywords": [
+            "AI客服",
+            "資安漏洞",
+            "反常識",
+            "數位信任",
+            "平台安全"
+          ],
+          "innovationPoint": "創新點：駭客利用Meta自家AI客服聊天機器人的漏洞，在未經傳統釣魚或惡意軟體的情況下，成功重設密碼並劫持Instagram帳號，揭示了AI輔助系統中反常識的嚴重資安弱點。"
+        }
+      ]
+    },
     {
       "date": "2026年5月29日",
       "topics": [
@@ -194,22 +210,6 @@
             "醫療創新"
           ],
           "innovationPoint": "創新點：Dr. Jeffrey L. Brown顛覆了傳統醫療僅治療症狀的模式，透過先進測試深入探究『荷爾蒙不平衡的根本原因』，將醫療服務從標準化療程轉變為高度個人化的『精準健康管理』，提供病患更深層、更有效的解決方案。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月16日",
-      "topics": [
-        {
-          "title": "How Chinese short dramas became AI content machines",
-          "keywords": [
-            "AI內容生成",
-            "短劇產業",
-            "內容工廠",
-            "低成本製作",
-            "規模化生產"
-          ],
-          "innovationPoint": "創新點：中國短劇產業透過將AI深度整合到內容生成、編劇與製作流程中，實現了前所未有的高效率、低成本與大規模內容生產，顛覆了傳統影視製作的時間與資源限制，將AI從單純的輔助工具升級為核心的內容工廠引擎。"
         }
       ]
     }
