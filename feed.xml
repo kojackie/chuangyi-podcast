@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                          <item>
+                                                                                                                                                            <item>
+    <title>創意每天聽 - 2026年6月2日</title>
+    <description><![CDATA[嗨，今天想跟大家聊一個很有趣的案例。你可能以為，要創業成功、估值達到九位數，需要什麼高科技、什麼獨門秘方吧？  通常是這樣想沒錯，尤其在現在這個時代，大家總覺得要有很新穎的技術才能脫穎而出。  對啊，但今天這個案例真的出乎意料，它是一家做「現場活動」的公司，叫做 Breakaway。他們從大學校園起步，現在估值已經達到九位數了。  現場活動？這點倒是讓我有點詫異。現場活動這類型的服務，門檻感覺沒有...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-02.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-02.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 02 Jun 2026 22:39:57 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-02</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年6月1日</title>
     <description><![CDATA[昨天的創新案例，其實跟我最近在想的事情有點關係。你說，如果哪天我Instagram帳號被盜了，我通常會怎麼做？  通常你會試著透過綁定的Email或手機號碼，發送重設密碼連結。不然就是找客服，提供一些證明來確認身分。  對！但這次這個案例很出乎意料。駭客竟然是透過Meta自家的AI客服聊天機器人，在沒拿到我的Email、沒有釣魚連結，甚至沒有安裝任何惡意軟體的情況下，就成功重設密碼，把帳號劫走了。...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-01.mp3" type="audio/mpeg" length="0"/>
