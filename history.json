@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-04",
   "episodes": [
+    {
+      "date": "2026年6月5日",
+      "topics": [
+        {
+          "title": "China is training a robot future — one folded shirt at a time",
+          "keywords": [
+            "機器人訓練",
+            "低成本數據",
+            "實體場域AI",
+            "傳統產業轉型",
+            "製造業自動化"
+          ],
+          "innovationPoint": "創新點：中國透過「本地化、低成本」策略，在家庭與工廠等實體場域，以摺疊衣服等日常任務收集數據訓練機器人，顛覆了高成本、研究導向的AI數據採集模式，為AI在製造業落地提供獨特且務實的路徑。"
+        }
+      ]
+    },
     {
       "date": "2026年6月4日",
       "topics": [
@@ -194,22 +210,6 @@
             "新興資源"
           ],
           "innovationPoint": "創新點：科學家發現地球地殼下70%的岩石含有可自然裂解並釋放氫氣的礦物，潛力巨大，挑戰了我們對氫氣主要來源（電解水、天然氣重整）的傳統認知，開啟了透過「地質自然反應」大規模獲取清潔能源的全新途徑。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月19日",
-      "topics": [
-        {
-          "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-          "keywords": [
-            "生物科技",
-            "3D列印",
-            "人造孵化",
-            "生命科學突破",
-            "精準控制"
-          ],
-          "innovationPoint": "創新點：Colossal Biosciences成功在3D列印的人工蛋殼中孵化出小雞，顛覆了傳統對生命孵化過程的認知，展示了透過完全人造環境精準控制生物生長的潛力，為生物科技、農業及瀕危物種復育開啟全新路徑。"
         }
       ]
     }
