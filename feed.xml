@@ -29,7 +29,16 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                <item>
+                                                                                                                                                                  <item>
+    <title>創意每天聽 - 2026年6月6日</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例，一個 MIT 的新創公司，他們想挑戰現在鋰市場被少數國家壟斷的局面。   嗯，這確實是一個出乎意料的目標。通常大家想到資源壟斷，會覺得很難動搖，畢竟這些國家有天然的地理優勢。   對啊，你可能沒想到，他們不是去開發新的鋰礦源，而是直接從「採礦」跟「提煉」的技術下手。這讓我很詫異，因為一般公司很少會直接去挑戰這麼底層的製程。   這點其實不容易做到。他們具體是怎麼做的？...]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-06.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-06.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 05 Jun 2026 22:39:16 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-06</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年6月5日</title>
     <description><![CDATA[你有沒有想過，未來家裡會不會有機器人幫你摺衣服？   當然想過，但總覺得那是很遙遠、很高科技的事情，成本一定很高吧。   對啊，我們一般都覺得是實驗室裡高大上的研究。但最近看到中國一個做法，讓我挺詫異的，他們竟然是從「摺衣服」這種日常小事開始，訓練機器人。   摺衣服？這跟我們想像的AI訓練很不一樣。一般公司不都是在實驗室裡，用很高精密的設備去模擬各種情況嗎？   沒錯，這點就是讓我驚訝的地方。他...]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-05.mp3" type="audio/mpeg" length="0"/>
