@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-04",
+  "lastUpdated": "2026-06-05",
   "episodes": [
+    {
+      "date": "2026年6月6日",
+      "topics": [
+        {
+          "title": "Three Countries Own the Lithium Market. An MIT Startup Wants to Break Their Grip.",
+          "keywords": [
+            "鋰礦",
+            "供應鏈",
+            "採礦技術",
+            "資源去中心化",
+            "MIT新創"
+          ],
+          "innovationPoint": "創新點：一個MIT新創公司透過開發全新的「鋰岩石」採礦與提煉技術，不僅能大幅降低成本、減少污染，更能挑戰少數國家壟斷的鋰市場格局，為全球關鍵資源供應鏈帶來去中心化的顛覆性商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年6月5日",
       "topics": [
@@ -196,22 +212,6 @@
     {
       "date": "2026年5月21日",
       "topics": []
-    },
-    {
-      "date": "2026年5月20日",
-      "topics": [
-        {
-          "title": "70% of the Rock Under Our Feet Can Produce Hydrogen. Tapping It Could Power Your Town.",
-          "keywords": [
-            "氫能源",
-            "地質產氫",
-            "清潔能源",
-            "反常識",
-            "新興資源"
-          ],
-          "innovationPoint": "創新點：科學家發現地球地殼下70%的岩石含有可自然裂解並釋放氫氣的礦物，潛力巨大，挑戰了我們對氫氣主要來源（電解水、天然氣重整）的傳統認知，開啟了透過「地質自然反應」大規模獲取清潔能源的全新途徑。"
-        }
-      ]
     }
   ]
 }
