@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-05",
+  "lastUpdated": "2026-06-06",
   "episodes": [
+    {
+      "date": "2026年6月7日",
+      "topics": [
+        {
+          "title": "4 AI Prompts That Tripled a One-Person Business’s Revenue in 12 Months (No Team, No Funding, No Guessing)",
+          "keywords": [
+            "AI工具",
+            "一人公司",
+            "營收成長",
+            "小資創業",
+            "效率槓桿"
+          ],
+          "innovationPoint": "創新點：一個人透過精準運用AI工具，在沒有團隊、沒有外部資金的狀況下，於一年內將業務營收翻三倍，顛覆了傳統對小企業成長所需資源的想像。"
+        }
+      ]
+    },
     {
       "date": "2026年6月6日",
       "topics": [
@@ -208,10 +224,6 @@
           "innovationPoint": "創新點：星巴克在導入AI庫存管理工具九個月後，因其頻繁「分不清牛奶種類」而最終撤除，顛覆了人們對AI在零售業能「無縫」提升效率的普遍期待，揭示了AI技術落地實體場域時，面對複雜現實環境的巨大挑戰與細節盲點。"
         }
       ]
-    },
-    {
-      "date": "2026年5月21日",
-      "topics": []
     }
   ]
 }
