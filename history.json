@@ -2,6 +2,22 @@
   "lastUpdated": "2026-06-07",
   "episodes": [
     {
+      "date": "2026年6月8日",
+      "topics": [
+        {
+          "title": "China wants slimmer EVs after batteries and features made them too heavy for parking spaces",
+          "keywords": [
+            "電動車瘦身",
+            "產品設計反思",
+            "城市化挑戰",
+            "場景化創新",
+            "製造業轉型"
+          ],
+          "innovationPoint": "創新點：中國電動車從追求極致性能與續航，反轉方向要求「減重」瘦身，以適應城市停車空間不足的現實痛點，顛覆了電動車設計的傳統思維。"
+        }
+      ]
+    },
+    {
       "date": "2026年6月7日",
       "topics": []
     },
@@ -194,22 +210,6 @@
             "人才策略"
           ],
           "innovationPoint": "創新點：頂尖顧問公司麥肯錫反其道而行，推出免費AI面試練習工具，顛覆高價人才培訓市場，以『戰略性價值開放』擴大潛力人才庫，並強化品牌公益形象。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月23日",
-      "topics": [
-        {
-          "title": "Berlin’s Peec AI more than doubled revenue to $10M ARR in six months. Its product helps brands show up in ChatGPT.",
-          "keywords": [
-            "AI搜尋優化",
-            "品牌能見度",
-            "新商業服務",
-            "ChatGPT行銷",
-            "快速成長"
-          ],
-          "innovationPoint": "創新點：Peec AI 洞察到在AI搜尋時代，品牌需面對「如何在生成式AI內容中展現」的全新痛點，迅速建立市場首創的『AI搜尋結果優化服務』，並在六個月內營收翻倍至1000萬美元，展現了快速識別新需求與規模化變現的能力。"
         }
       ]
     }
