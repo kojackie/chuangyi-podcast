@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                              <item>
+    <title>AI看懂手術！自動將手術影片轉化為病歷，醫療紀錄效率飆升的秘密</title>
+    <description><![CDATA[你有沒有想過，如果我們開會的時候，不用拼命做筆記，而是讓 AI 自動把會議錄影變成文字紀錄，還能自動抓出重點，那該多好？   嗯，聽起來很方便，但真的能做到這麼精準，尤其是在像手術這麼複雜的場景嗎？這點其實不容易做到。   對啊，這就是今天我們要分享的一個案例，它讓我很有感觸。法國有一家新創公司叫 Uncovr，他們就正在做這件事，但不是會議，而是把「手術影片」變成「臨床病歷紀錄」。   把手術影...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-11.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 10 Jun 2026 22:39:58 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-11</guid>
+  </item>
+  <item>
     <title>創意每天聽 - 2026年6月10日</title>
     <description><![CDATA[今天我們來聊一個很有意思的案例，跟傳統產業還有矽谷創投有關。你可能沒想到，這兩者之間能擦出什麼火花。   確實，聽起來就很有故事。特別是「AI滾動式收購」這個詞，本身就夠吸引人了，很難想像它具體怎麼運作。   對，這個做法最讓我詫異的地方就是「滾動式收購」。一般公司談收購，都是看準一家就大手筆買下，一次到位。   沒錯，而且通常是要等這家公司規模夠大、獲利穩定，才會被納入考量。這種傳統模式，風險低...
 
