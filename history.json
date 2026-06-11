@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-11",
   "episodes": [
+    {
+      "date": "2026年6月12日",
+      "topics": [
+        {
+          "title": "A Burger King's ransom: Rival Japan franchisees courted with $250,000",
+          "keywords": [
+            "日本",
+            "餐飲",
+            "市場競爭",
+            "併購",
+            "反常識商業策略"
+          ],
+          "innovationPoint": "創新點：日本漢堡王為擴張市場，反其道而行不直接競爭，而是花費高達25萬美元「贖回」競爭對手（或潛在對手）的黃金店面或區域經營權，創造獨特的市場清場策略，顛覆傳統競爭思維。"
+        }
+      ]
+    },
     {
       "date": "2026年6月11日",
       "topics": [
@@ -182,22 +198,6 @@
             "工廠旅遊"
           ],
           "innovationPoint": "創新點：中國將其科技發展與製造業優勢轉化為獨特的「科技產業觀光」，吸引外國遊客參訪工廠與AI新創，顛覆傳統觀光模式，開創了新的商業服務與國家品牌宣傳方式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月27日",
-      "topics": [
-        {
-          "title": "Spotify and Netflix are paying Jay Shetty up to $100 million to take his podcast off YouTube",
-          "keywords": [
-            "內容經濟",
-            "獨家授權",
-            "商業模式反轉",
-            "平台競爭",
-            "IP價值"
-          ],
-          "innovationPoint": "創新點：Spotify和Netflix願意斥資高達1億美元，將熱門播客節目從YouTube獨家簽下，顛覆了內容『最大化分發』的傳統策略，轉而強調『獨家內容的戰略性價值』與其在平台競爭中的關鍵作用。"
         }
       ]
     }
