@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                              <item>
+                                                                                                                                                                                <item>
+    <title>漢堡王奇招：花25萬美元「贖回」黃金店面，日本市場的超反常競爭術</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例。你知道嗎？漢堡王在日本市場，為了解決競爭問題，採取了一個很不一樣的策略。   是的，這個策略真的讓人印象深刻。他們不直接跟對手殺價或正面競爭，而是花錢去「買斷」競爭對手的黃金店面或經營權。   對，就是這個「贖回」的概念。他們願意花高達 25 萬美元，去說服那些有潛力的競爭對手加盟店主，讓他們加入漢堡王，或是直接把經營權讓出來。   這點其實很不尋常。一般公司會想盡辦...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-12.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 11 Jun 2026 22:39:53 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-12</guid>
+  </item>
+  <item>
     <title>AI看懂手術！自動將手術影片轉化為病歷，醫療紀錄效率飆升的秘密</title>
     <description><![CDATA[你有沒有想過，如果我們開會的時候，不用拼命做筆記，而是讓 AI 自動把會議錄影變成文字紀錄，還能自動抓出重點，那該多好？   嗯，聽起來很方便，但真的能做到這麼精準，尤其是在像手術這麼複雜的場景嗎？這點其實不容易做到。   對啊，這就是今天我們要分享的一個案例，它讓我很有感觸。法國有一家新創公司叫 Uncovr，他們就正在做這件事，但不是會議，而是把「手術影片」變成「臨床病歷紀錄」。   把手術影...
 
