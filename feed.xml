@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                <item>
+                                                                                                                                                                                  <item>
+    <title>影片AI生成只要0.005美元？印度新創如何用「超低價」打穿市場？</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例，來自印度的新創公司 Avataar AI。   他們推出了一個影音生成模型叫做 Varya，最讓人驚訝的點，就是它生成影音的成本超級低。   對啊，每秒只要 0.005 美元，換算成台幣大概才一毛多。更厲害的是，創辦人說這比市面上同類型的開源模型便宜了 27 倍！   這個數字確實很驚人。一般來說，影音生成模型的成本，像 Veo、Kling、Luma 這些，每秒可能要...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-13.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-13.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 12 Jun 2026 22:40:02 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-13</guid>
+  </item>
+  <item>
     <title>漢堡王奇招：花25萬美元「贖回」黃金店面，日本市場的超反常競爭術</title>
     <description><![CDATA[今天我們來聊一個很有趣的案例。你知道嗎？漢堡王在日本市場，為了解決競爭問題，採取了一個很不一樣的策略。   是的，這個策略真的讓人印象深刻。他們不直接跟對手殺價或正面競爭，而是花錢去「買斷」競爭對手的黃金店面或經營權。   對，就是這個「贖回」的概念。他們願意花高達 25 萬美元，去說服那些有潛力的競爭對手加盟店主，讓他們加入漢堡王，或是直接把經營權讓出來。   這點其實很不尋常。一般公司會想盡辦...
 
