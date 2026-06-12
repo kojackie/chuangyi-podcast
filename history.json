@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-11",
+  "lastUpdated": "2026-06-12",
   "episodes": [
+    {
+      "date": "2026年6月13日",
+      "topics": [
+        {
+          "title": "India’s Avataar AI launches a video model that costs $0.005 per second, 27x cheaper than rivals",
+          "keywords": [
+            "Avataar AI",
+            "影音生成",
+            "成本創新",
+            "印度新創",
+            "AI工具"
+          ],
+          "innovationPoint": "印度新創Avataar AI推出Varya影音生成模型，以每秒0.005美元的超低成本，比競爭對手便宜27倍，透過極致的成本效益顛覆AI影音內容創作市場。"
+        }
+      ]
+    },
     {
       "date": "2026年6月12日",
       "topics": [
@@ -182,22 +198,6 @@
             "成本優勢"
           ],
           "innovationPoint": "創新點：鈉離子電池因其材料便宜且儲量豐富，正迅速發展並展現出足以與鋰電池匹敵的性能，顛覆了長期以來由鋰獨霸的儲能市場，為能源產業提供更具成本效益與供應鏈韌性的替代方案。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月28日",
-      "topics": [
-        {
-          "title": "China’s tech rise is creating a new kind of tourism",
-          "keywords": [
-            "科技觀光",
-            "產業轉型",
-            "商業服務",
-            "中國創新",
-            "工廠旅遊"
-          ],
-          "innovationPoint": "創新點：中國將其科技發展與製造業優勢轉化為獨特的「科技產業觀光」，吸引外國遊客參訪工廠與AI新創，顛覆傳統觀光模式，開創了新的商業服務與國家品牌宣傳方式。"
         }
       ]
     }
