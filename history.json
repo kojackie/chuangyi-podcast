@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-13",
   "episodes": [
+    {
+      "date": "2026年6月14日",
+      "topics": [
+        {
+          "title": "Profitable Oslo-based AI startup Mimir raises €518.3k pre-Seed to automate e-commerce operations",
+          "keywords": [
+            "AI自動化",
+            "電商營運",
+            "盈利新創",
+            "精實創業",
+            "商業模式反轉"
+          ],
+          "innovationPoint": "創新點：這家奧斯陸的AI新創Mimir在未經大規模融資前已實現盈利，透過AI自動化電商營運，成功解決客戶痛點並高效變現，顛覆了傳統上燒錢衝規模的創業模式，證明了小公司聚焦利基市場也能快速獲利。"
+        }
+      ]
+    },
     {
       "date": "2026年6月13日",
       "topics": [
@@ -182,22 +198,6 @@
             "平台安全"
           ],
           "innovationPoint": "創新點：駭客利用Meta自家AI客服聊天機器人的漏洞，在未經傳統釣魚或惡意軟體的情況下，成功重設密碼並劫持Instagram帳號，揭示了AI輔助系統中反常識的嚴重資安弱點。"
-        }
-      ]
-    },
-    {
-      "date": "2026年5月29日",
-      "topics": [
-        {
-          "title": "Sodium Is Cheap, Abundant, and Now Powering Batteries That Could Rival Lithium - Singularity Hub",
-          "keywords": [
-            "鈉離子電池",
-            "能源儲存",
-            "材料科學",
-            "替代方案",
-            "成本優勢"
-          ],
-          "innovationPoint": "創新點：鈉離子電池因其材料便宜且儲量豐富，正迅速發展並展現出足以與鋰電池匹敵的性能，顛覆了長期以來由鋰獨霸的儲能市場，為能源產業提供更具成本效益與供應鏈韌性的替代方案。"
         }
       ]
     }
