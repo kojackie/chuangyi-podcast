@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "2026-06-13",
+  "lastUpdated": "2026-06-14",
   "episodes": [
+    {
+      "date": "2026年6月15日",
+      "topics": []
+    },
     {
       "date": "2026年6月14日",
       "topics": [
@@ -182,22 +186,6 @@
             "市場突破"
           ],
           "innovationPoint": "創新點：從大學校園起步的Breakaway，透過顛覆性的思維與策略打破傳統現場活動的模式，成功打造出估值達九位數的創新事業。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月1日",
-      "topics": [
-        {
-          "title": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
-          "keywords": [
-            "AI客服",
-            "資安漏洞",
-            "反常識",
-            "數位信任",
-            "平台安全"
-          ],
-          "innovationPoint": "創新點：駭客利用Meta自家AI客服聊天機器人的漏洞，在未經傳統釣魚或惡意軟體的情況下，成功重設密碼並劫持Instagram帳號，揭示了AI輔助系統中反常識的嚴重資安弱點。"
         }
       ]
     }
