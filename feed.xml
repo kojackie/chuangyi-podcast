@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                      <item>
+    <title>創意每天聽 - 2026年6月15日</title>
+    <description><![CDATA[欸，你最近有沒有覺得，大家講到 AI，好像都停留在聊天機器人那個層次？   嗯，有這種感覺。很多公司都覺得把 AI 導入工作流程，就是讓員工用用 ChatGPT，或者內部也做個類似的系統。   對啊，就像我們今天要聊的這個案例， TechOrange 科技報橘這篇文章就說，別把數位轉型只停在 AI 聊天對話框。   這點其實不容易做到。因為對很多企業來說，最直觀也最容易開始的，就是這種對話式的應用...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-15.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-15.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 14 Jun 2026 22:39:52 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-15</guid>
+  </item>
+  <item>
     <title>還沒大規模融資就賺錢！這間AI電商營運新創做對了什麼？</title>
     <description><![CDATA[今天要聊一個來自奧斯陸的AI新創公司 Mimir，他們做的事情蠻有意思的。他們最近完成了一輪 51.83 萬歐元的種子前融資。   嗯，51.83 萬歐元，相當於 60 萬美元，以現在的標準來看，這個金額其實不算特別大。特別是對於一家AI新創來說。   對啊，這就是出乎意料的地方。他們在還沒有大規模融資之前，就已經實現盈利了。這在現在的創業圈裡，你可能沒想到吧？很多新創都是先燒錢衝規模。   沒錯...
 
