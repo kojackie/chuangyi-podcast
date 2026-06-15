@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-15",
   "episodes": [
+    {
+      "date": "2026年6月16日",
+      "topics": [
+        {
+          "title": "This man with ALS is &#8220;the first power user&#8221; of a brain implant that lets him speak",
+          "keywords": [
+            "腦機介面",
+            "ALS",
+            "人機互動",
+            "醫療科技",
+            "極端用戶"
+          ],
+          "innovationPoint": "創新點：一位漸凍症患者透過腦機介面（BCI），不僅能「說話」，更成為每天使用數小時的「超級用戶」，展現了AI與醫療科技在解決極端人體痛點上的突破性潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年6月15日",
       "topics": []
@@ -170,22 +186,6 @@
             "故事行銷"
           ],
           "innovationPoint": "創新點：這對夫婦將海難的危機轉化為創業的契機，透過顛覆性的思維將個人興趣與困境轉化為成功的旅行事業，展現了從零到一打造獨特商業模式的韌性與創意。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月2日",
-      "topics": [
-        {
-          "title": "They Started Their Business in College. Now It’s Valued at Nine Figures. Here’s How Breakaway Broke the Mold for Live Events.",
-          "keywords": [
-            "現場活動",
-            "商業模式創新",
-            "新創成功",
-            "體驗經濟",
-            "市場突破"
-          ],
-          "innovationPoint": "創新點：從大學校園起步的Breakaway，透過顛覆性的思維與策略打破傳統現場活動的模式，成功打造出估值達九位數的創新事業。"
         }
       ]
     }
