@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "episodes": [
+    {
+      "date": "2026年6月17日",
+      "topics": [
+        {
+          "title": "Japan's tourism hotspots turn to dual pricing as crowds swell",
+          "keywords": [
+            "日本觀光",
+            "雙重定價",
+            "服務業創新",
+            "收益管理",
+            "反常識定價"
+          ],
+          "innovationPoint": "創新點：日本觀光熱點為解決人潮與地方居民生活品質衝突，反其道而行採取「雙重定價」，對本地人和外國遊客收取不同費用，既能控制人流又能提升整體觀光收益。"
+        }
+      ]
+    },
     {
       "date": "2026年6月16日",
       "topics": [
@@ -170,22 +186,6 @@
             "製造業自動化"
           ],
           "innovationPoint": "創新點：中國透過「本地化、低成本」策略，在家庭與工廠等實體場域，以摺疊衣服等日常任務收集數據訓練機器人，顛覆了高成本、研究導向的AI數據採集模式，為AI在製造業落地提供獨特且務實的路徑。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月4日",
-      "topics": [
-        {
-          "title": "From Stranded at Sea to a Lucrative Travel Business: How One Couple Turned a Side Hustle into the Life They Always Wanted",
-          "keywords": [
-            "危機轉機",
-            "側業創業",
-            "旅遊業創新",
-            "個人品牌",
-            "故事行銷"
-          ],
-          "innovationPoint": "創新點：這對夫婦將海難的危機轉化為創業的契機，透過顛覆性的思維將個人興趣與困境轉化為成功的旅行事業，展現了從零到一打造獨特商業模式的韌性與創意。"
         }
       ]
     }
