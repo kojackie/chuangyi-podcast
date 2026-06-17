@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-16",
+  "lastUpdated": "2026-06-17",
   "episodes": [
+    {
+      "date": "2026年6月18日",
+      "topics": [
+        {
+          "title": "3 Dads Invested $250 Each to Start a ‘Simple, Affordable’ Business. It Sold Out in 36 Hours and Hit $35M in Revenue: ‘Manifestation Is 100% Real.’",
+          "keywords": [
+            "小額創業",
+            "爆款商品",
+            "快速成功",
+            "低成本創業",
+            "商業模式創新"
+          ],
+          "innovationPoint": "創新點：三位爸爸以極低的初始資本（每人250美元），透過打造簡單實惠的爆款商品，在36小時內售罄，並迅速累積高達3500萬美元營收，顛覆了傳統對創業資金和規模的想像。"
+        }
+      ]
+    },
     {
       "date": "2026年6月17日",
       "topics": [
@@ -170,22 +186,6 @@
             "MIT新創"
           ],
           "innovationPoint": "創新點：一個MIT新創公司透過開發全新的「鋰岩石」採礦與提煉技術，不僅能大幅降低成本、減少污染，更能挑戰少數國家壟斷的鋰市場格局，為全球關鍵資源供應鏈帶來去中心化的顛覆性商業模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月5日",
-      "topics": [
-        {
-          "title": "China is training a robot future — one folded shirt at a time",
-          "keywords": [
-            "機器人訓練",
-            "低成本數據",
-            "實體場域AI",
-            "傳統產業轉型",
-            "製造業自動化"
-          ],
-          "innovationPoint": "創新點：中國透過「本地化、低成本」策略，在家庭與工廠等實體場域，以摺疊衣服等日常任務收集數據訓練機器人，顛覆了高成本、研究導向的AI數據採集模式，為AI在製造業落地提供獨特且務實的路徑。"
         }
       ]
     }
