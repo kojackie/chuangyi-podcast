@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-17",
+  "lastUpdated": "2026-06-19",
   "episodes": [
+    {
+      "date": "2026年6月20日",
+      "topics": [
+        {
+          "title": "When Americans choose Chinese AI",
+          "keywords": [
+            "AI成本效益",
+            "夠用就好",
+            "價格戰",
+            "市場區隔",
+            "中國AI"
+          ],
+          "innovationPoint": "創新點：中國AI新創DeepSeek在模型效能「夠用就好」的基礎上，大幅降低成本，以極具競爭力的價格打入市場，顛覆了AI業界一味追求頂級性能的常識，證明性價比策略也能搶占市場。"
+        }
+      ]
+    },
     {
       "date": "2026年6月18日",
       "topics": [
@@ -170,22 +186,6 @@
             "效率槓桿"
           ],
           "innovationPoint": "創新點：一個人透過精準運用AI工具，在沒有團隊、沒有外部資金的狀況下，於一年內將業務營收翻三倍，顛覆了傳統對小企業成長所需資源的想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月6日",
-      "topics": [
-        {
-          "title": "Three Countries Own the Lithium Market. An MIT Startup Wants to Break Their Grip.",
-          "keywords": [
-            "鋰礦",
-            "供應鏈",
-            "採礦技術",
-            "資源去中心化",
-            "MIT新創"
-          ],
-          "innovationPoint": "創新點：一個MIT新創公司透過開發全新的「鋰岩石」採礦與提煉技術，不僅能大幅降低成本、減少污染，更能挑戰少數國家壟斷的鋰市場格局，為全球關鍵資源供應鏈帶來去中心化的顛覆性商業模式。"
         }
       ]
     }
