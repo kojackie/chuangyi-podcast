@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-20",
   "episodes": [
+    {
+      "date": "2026年6月21日",
+      "topics": [
+        {
+          "title": "We Told Our Client to Ditch Their ‘Safe’ Content — and Engagement Jumped 4,646%. Here’s How You Can Do It, Too.",
+          "keywords": [
+            "內容行銷",
+            "反常識",
+            "品牌經營",
+            "社群參與度",
+            "中小企業行銷"
+          ],
+          "innovationPoint": "創新點：這家公司反其道而行，建議客戶放棄保守的內容策略，轉而採取更具風險但能引發共鳴的內容，結果讓參與度驚人地成長了4,646%，顛覆了傳統內容行銷中「求穩」的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年6月20日",
       "topics": [
@@ -172,22 +188,6 @@
     {
       "date": "2026年6月7日",
       "topics": []
-    },
-    {
-      "date": "2026年6月7日",
-      "topics": [
-        {
-          "title": "4 AI Prompts That Tripled a One-Person Business’s Revenue in 12 Months (No Team, No Funding, No Guessing)",
-          "keywords": [
-            "AI工具",
-            "一人公司",
-            "營收成長",
-            "小資創業",
-            "效率槓桿"
-          ],
-          "innovationPoint": "創新點：一個人透過精準運用AI工具，在沒有團隊、沒有外部資金的狀況下，於一年內將業務營收翻三倍，顛覆了傳統對小企業成長所需資源的想像。"
-        }
-      ]
     }
   ]
 }
