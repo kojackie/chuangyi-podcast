@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-22",
   "episodes": [
+    {
+      "date": "2026年6月23日",
+      "topics": [
+        {
+          "title": "I Built a 7-Figure Business Teaching People How to Engineer AI Prompts. My Advice Usually Boils Down to 3 Sentences.",
+          "keywords": [
+            "AI提示工程",
+            "知識變現",
+            "化繁為簡",
+            "七位數營收",
+            "教育訓練"
+          ],
+          "innovationPoint": "創新點：這位創業者將新興的AI提示工程技能，透過化繁為簡的「三句話」教學模式，成功打造出七位數美元營收的知識變現事業，顛覆了傳統對新技術學習與創業門檻的想像。"
+        }
+      ]
+    },
     {
       "date": "2026年6月22日",
       "topics": [
@@ -182,22 +198,6 @@
             "體育媒體"
           ],
           "innovationPoint": "創新點：Overtime體育媒體反其道而行，放棄傳統職業運動明星，轉而專注發掘年輕運動員與Z世代粉絲，透過社群平台發佈高互動性內容，成功創造出1.2億追蹤數與數億估值的全新商業模式，顛覆了體育媒體的既有市場策略。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月8日",
-      "topics": [
-        {
-          "title": "China wants slimmer EVs after batteries and features made them too heavy for parking spaces",
-          "keywords": [
-            "電動車瘦身",
-            "產品設計反思",
-            "城市化挑戰",
-            "場景化創新",
-            "製造業轉型"
-          ],
-          "innovationPoint": "創新點：中國電動車從追求極致性能與續航，反轉方向要求「減重」瘦身，以適應城市停車空間不足的現實痛點，顛覆了電動車設計的傳統思維。"
         }
       ]
     }
