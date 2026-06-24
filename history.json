@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-06-24",
   "episodes": [
+    {
+      "date": "2026年6月25日",
+      "topics": [
+        {
+          "title": "Activist investor homes in on Japan's Ajinomoto as chip-related stock",
+          "keywords": [
+            "跨產業應用",
+            "傳統產業轉型",
+            "核心技術重估",
+            "味之素",
+            "半導體材料"
+          ],
+          "innovationPoint": "創新點：以食品業聞名的日本味之素 (Ajinomoto)，其看似傳統的化學技術，竟被激進投資人視為半導體晶片製造的關鍵材料，凸顯了跨領域核心技術的意外價值與顛覆性商業潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年6月24日",
       "topics": [
@@ -196,10 +212,6 @@
           "innovationPoint": "創新點：法國新創Uncovr利用AI技術，突破性地將複雜的手術影片自動分析並轉化為精準的臨床病歷紀錄，大幅提升醫療文獻工作的效率與準確性，將AI落地於高精度的醫療實體場域，解決長久以來的痛點。"
         }
       ]
-    },
-    {
-      "date": "2026年6月10日",
-      "topics": []
     }
   ]
 }
