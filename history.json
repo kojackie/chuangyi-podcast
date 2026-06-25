@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "episodes": [
+    {
+      "date": "2026年6月26日",
+      "topics": [
+        {
+          "title": "Companies Could Soon Staff &#8216;Stubbornly Local&#8217; Jobs With Workers 4,000 Miles Away",
+          "keywords": [
+            "遠端操作",
+            "實體勞務",
+            "勞動力重組",
+            "跨國工作",
+            "全球化"
+          ],
+          "innovationPoint": "創新點：傳統上需要現場執行的「實體勞務」，如今透過遠端遙控技術，可由遠在千里之外的全球工作者操作，徹底顛覆勞動力市場的地理限制與供應模式。"
+        }
+      ]
+    },
     {
       "date": "2026年6月25日",
       "topics": [
@@ -194,22 +210,6 @@
             "反常識商業策略"
           ],
           "innovationPoint": "創新點：日本漢堡王為擴張市場，反其道而行不直接競爭，而是花費高達25萬美元「贖回」競爭對手（或潛在對手）的黃金店面或區域經營權，創造獨特的市場清場策略，顛覆傳統競爭思維。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月11日",
-      "topics": [
-        {
-          "title": "French surgical AI startup Uncovr raises €6 million to turn surgical video into clinical records",
-          "keywords": [
-            "AI醫療應用",
-            "手術紀錄自動化",
-            "醫療效率",
-            "精準病歷",
-            "實體場域AI"
-          ],
-          "innovationPoint": "創新點：法國新創Uncovr利用AI技術，突破性地將複雜的手術影片自動分析並轉化為精準的臨床病歷紀錄，大幅提升醫療文獻工作的效率與準確性，將AI落地於高精度的醫療實體場域，解決長久以來的痛點。"
         }
       ]
     }
