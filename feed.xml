@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                            <item>
+    <title>福特AI出包急召350工程師：機器取代不了老師傅</title>
+    <description><![CDATA[你有沒有想過，現在很多公司都在說要用 AI 取代人力，好像 AI 什麼都能做？   確實，這是很常見的說法，尤其是一些重複性高或數據分析的工作，大家都會想能不能讓 AI 接手。   但是，今天這個案例真的很特別，福特汽車就做了一件出乎意料的事。他們嘗試用 AI 取代工程師，結果搞砸了。   是的，福特汽車的副總裁 Charles Poon 親口承認，他們本來以為可以靠 AI 生產出高品質的產品，結...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 26 Jun 2026 22:40:21 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-27</guid>
+  </item>
+  <item>
     <title>顛覆勞力市場：千里之外遙控，你的工廠能用異國人才？</title>
     <description><![CDATA[嗨，今天我們要聊一個很有趣的案例，可能讓你對「工作」這件事有完全不同的想像。   沒錯，這個案例來自 Singularity Hub，它提出一個很出乎意料的點子：公司可以讓遠在千里之外的員工，操作那些傳統上必須在現場執行的「實體勞務」。   欸，這點就讓我很好奇了。我們一般不是都認為，挖土機、堆高機這些機器，一定要有人在駕駛座上操作嗎？怎麼可能遠在 4,000 英里之外的人也能動手？   這就是它...
 
