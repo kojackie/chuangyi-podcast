@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "episodes": [
+    {
+      "date": "2026年6月27日",
+      "topics": [
+        {
+          "title": "Ford had to rehire 350 engineers after its AI got vehicle quality wrong",
+          "keywords": [
+            "AI限制",
+            "人機協作",
+            "品質管理",
+            "傳統產業轉型",
+            "反常識"
+          ],
+          "innovationPoint": "創新點：汽車巨頭福特在錯誤嘗試用AI取代核心工程師後，被迫重新聘用350名經驗豐富的工程師，這顛覆了許多企業對AI萬能的迷思，揭示在關鍵品質領域，人類專業知識的不可替代性。"
+        }
+      ]
+    },
     {
       "date": "2026年6月26日",
       "topics": [
@@ -194,22 +210,6 @@
             "AI工具"
           ],
           "innovationPoint": "印度新創Avataar AI推出Varya影音生成模型，以每秒0.005美元的超低成本，比競爭對手便宜27倍，透過極致的成本效益顛覆AI影音內容創作市場。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月12日",
-      "topics": [
-        {
-          "title": "A Burger King's ransom: Rival Japan franchisees courted with $250,000",
-          "keywords": [
-            "日本",
-            "餐飲",
-            "市場競爭",
-            "併購",
-            "反常識商業策略"
-          ],
-          "innovationPoint": "創新點：日本漢堡王為擴張市場，反其道而行不直接競爭，而是花費高達25萬美元「贖回」競爭對手（或潛在對手）的黃金店面或區域經營權，創造獨特的市場清場策略，顛覆傳統競爭思維。"
         }
       ]
     }
