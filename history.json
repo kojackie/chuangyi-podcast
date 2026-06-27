@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-26",
+  "lastUpdated": "2026-06-27",
   "episodes": [
+    {
+      "date": "2026年6月28日",
+      "topics": [
+        {
+          "title": "Cloudflare cut 1,100 jobs and then grew its engineering team by 45 percent, and its CEO says the pattern will repeat everywhere",
+          "keywords": [
+            "Cloudflare",
+            "裁員",
+            "工程團隊增長",
+            "人力資源策略",
+            "組織轉型"
+          ],
+          "innovationPoint": "創新點：網路巨頭Cloudflare在裁員的同時，其工程團隊卻逆勢增長45%，顛覆了裁員即縮編的常識，展現企業可以透過策略性的人力資源配置，更專注於核心成長。"
+        }
+      ]
+    },
     {
       "date": "2026年6月27日",
       "topics": [
@@ -194,22 +210,6 @@
             "商業模式反轉"
           ],
           "innovationPoint": "創新點：這家奧斯陸的AI新創Mimir在未經大規模融資前已實現盈利，透過AI自動化電商營運，成功解決客戶痛點並高效變現，顛覆了傳統上燒錢衝規模的創業模式，證明了小公司聚焦利基市場也能快速獲利。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月13日",
-      "topics": [
-        {
-          "title": "India’s Avataar AI launches a video model that costs $0.005 per second, 27x cheaper than rivals",
-          "keywords": [
-            "Avataar AI",
-            "影音生成",
-            "成本創新",
-            "印度新創",
-            "AI工具"
-          ],
-          "innovationPoint": "印度新創Avataar AI推出Varya影音生成模型，以每秒0.005美元的超低成本，比競爭對手便宜27倍，透過極致的成本效益顛覆AI影音內容創作市場。"
         }
       ]
     }
