@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                              <item>
+    <title>裁員卻逆勢增長！網路巨頭「人力重組」的創新啟示</title>
+    <description><![CDATA[欸，你最近有沒有看到一個新聞，Cloudflare 這間網路公司，他們裁員了 1,100 人，但你知道更讓人出乎意料的是什麼嗎？  你說的是他們裁員後，工程團隊反而大增 45% 這件事吧？這確實與一般公司裁員都是為了縮減規模的想法很不同。  對啊！這點讓我有點不解。通常裁員都是為了節省成本，減少人力，結果他們卻反其道而行，反而擴編了最核心的團隊。這是怎麼做到的？  根據 BNP Paribas 的...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-28.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-28.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 27 Jun 2026 22:39:28 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-28</guid>
+  </item>
+  <item>
     <title>福特AI出包急召350工程師：機器取代不了老師傅</title>
     <description><![CDATA[你有沒有想過，現在很多公司都在說要用 AI 取代人力，好像 AI 什麼都能做？   確實，這是很常見的說法，尤其是一些重複性高或數據分析的工作，大家都會想能不能讓 AI 接手。   但是，今天這個案例真的很特別，福特汽車就做了一件出乎意料的事。他們嘗試用 AI 取代工程師，結果搞砸了。   是的，福特汽車的副總裁 Charles Poon 親口承認，他們本來以為可以靠 AI 生產出高品質的產品，結...
 
