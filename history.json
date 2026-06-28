@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-27",
+  "lastUpdated": "2026-06-28",
   "episodes": [
+    {
+      "date": "2026年6月29日",
+      "topics": [
+        {
+          "title": "Researchers built an AI therapist that reads your smartwatch and earbuds to detect distress before you ask for help",
+          "keywords": [
+            "AI心理健康",
+            "主動式服務",
+            "穿戴裝置",
+            "反常識",
+            "情緒偵測"
+          ],
+          "innovationPoint": "創新點：研究人員開發出一款反常識的AI心理治療師，它能主動透過穿戴裝置數據，在使用者求助之前就偵測到情緒困擾並介入，顛覆傳統被動求助的服務模式。"
+        }
+      ]
+    },
     {
       "date": "2026年6月28日",
       "topics": [
@@ -196,22 +212,6 @@
     {
       "date": "2026年6月15日",
       "topics": []
-    },
-    {
-      "date": "2026年6月14日",
-      "topics": [
-        {
-          "title": "Profitable Oslo-based AI startup Mimir raises €518.3k pre-Seed to automate e-commerce operations",
-          "keywords": [
-            "AI自動化",
-            "電商營運",
-            "盈利新創",
-            "精實創業",
-            "商業模式反轉"
-          ],
-          "innovationPoint": "創新點：這家奧斯陸的AI新創Mimir在未經大規模融資前已實現盈利，透過AI自動化電商營運，成功解決客戶痛點並高效變現，顛覆了傳統上燒錢衝規模的創業模式，證明了小公司聚焦利基市場也能快速獲利。"
-        }
-      ]
     }
   ]
 }
