@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "episodes": [
+    {
+      "date": "2026年6月30日",
+      "topics": [
+        {
+          "title": "The AI-powered World Cup runs on thousands of data workers",
+          "keywords": [
+            "AI",
+            "人機協作",
+            "數據標註",
+            "世界盃",
+            "應用落地"
+          ],
+          "innovationPoint": "創新點：這則案例反常識地揭露，在號稱「AI驅動」的世界盃數據分析背後，其實仰賴數千名人工數據標註員的辛勤工作。它提醒企業AI並非全自動，更強調「人機協作」才是AI落地應用的關鍵。"
+        }
+      ]
+    },
     {
       "date": "2026年6月29日",
       "topics": [
@@ -208,10 +224,6 @@
           "innovationPoint": "創新點：一位漸凍症患者透過腦機介面（BCI），不僅能「說話」，更成為每天使用數小時的「超級用戶」，展現了AI與醫療科技在解決極端人體痛點上的突破性潛力。"
         }
       ]
-    },
-    {
-      "date": "2026年6月15日",
-      "topics": []
     }
   ]
 }
