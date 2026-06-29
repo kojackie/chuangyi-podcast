@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                  <item>
+    <title>AI背後的真相：世界盃數據，全靠數千名人類標註！</title>
+    <description><![CDATA[今天想跟大家聊一個，你可能沒想到，跟世界盃足球賽有關的創新案例。   世界盃足球賽？不是都號稱AI驅動，什麼科技球、即時追蹤、AI輔助越位判斷嗎？這還有什麼特別的？   特別的就在這裡。這次號稱「AI驅動」的世界盃，背後其實仰賴數千名人工數據標註員的辛苦工作。   喔，你的意思是，那些AI分析出來的精彩數據，其實是很多人一句一句、一格一格標註出來的？這點確實出乎意料。   沒錯，出乎意料吧？一般公...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-06-30.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-06-30.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 29 Jun 2026 22:40:01 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-06-30</guid>
+  </item>
+  <item>
     <title>穿戴裝置讀你心？AI治療師在你求助前就主動幫你排解焦慮</title>
     <description><![CDATA[你有沒有過這種經驗？心情不好想找人聊聊，結果話到嘴邊又吞回去，覺得算了，開口好難。  這種情況確實不少見。很多人在真的感到壓力、焦慮的時候，其實很難主動表達。  對啊，所以今天這個案例就讓我覺得很有意思，它解決的剛好就是這個痛點。  你說的是那個由加拿大渥太華大學研究人員開發的 AI 助理 UbiMyTherapist 嗎？  沒錯。一般我們想到心理輔導，都是要自己先求助嘛，但它很不一樣，它會主動...
 
