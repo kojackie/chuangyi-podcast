@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-29",
+  "lastUpdated": "2026-06-30",
   "episodes": [
+    {
+      "date": "2026年7月1日",
+      "topics": [
+        {
+          "title": "The captive portal economy: how hotel WiFi sign-in pages became both a security vector and a hidden ad channel",
+          "keywords": [
+            "服務設計",
+            "商業模式反轉",
+            "隱藏商機",
+            "飯店業",
+            "廣告渠道"
+          ],
+          "innovationPoint": "創新點：一般人視為上網門檻的飯店WiFi登入頁面 (captive portal)，被重新發掘成一個隱藏的廣告渠道與潛在的商業金礦，將摩擦點轉化為營收機會。"
+        }
+      ]
+    },
     {
       "date": "2026年6月30日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識定價"
           ],
           "innovationPoint": "創新點：日本觀光熱點為解決人潮與地方居民生活品質衝突，反其道而行採取「雙重定價」，對本地人和外國遊客收取不同費用，既能控制人流又能提升整體觀光收益。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月16日",
-      "topics": [
-        {
-          "title": "This man with ALS is &#8220;the first power user&#8221; of a brain implant that lets him speak",
-          "keywords": [
-            "腦機介面",
-            "ALS",
-            "人機互動",
-            "醫療科技",
-            "極端用戶"
-          ],
-          "innovationPoint": "創新點：一位漸凍症患者透過腦機介面（BCI），不僅能「說話」，更成為每天使用數小時的「超級用戶」，展現了AI與醫療科技在解決極端人體痛點上的突破性潛力。"
         }
       ]
     }
