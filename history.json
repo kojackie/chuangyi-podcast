@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "episodes": [
+    {
+      "date": "2026年7月2日",
+      "topics": [
+        {
+          "title": "Honda starts making batteries for data centres at a factory built for EVs it cancelled",
+          "keywords": [
+            "本田",
+            "工廠轉型",
+            "儲能電池",
+            "資料中心",
+            "電動車"
+          ],
+          "innovationPoint": "創新點：汽車巨頭本田將原先為電動車生產電池的工廠，在電動車計畫取消後，逆勢轉型生產資料中心的儲能電池，成功將閒置資產轉換為新興市場的關鍵供應鏈。"
+        }
+      ]
+    },
     {
       "date": "2026年7月1日",
       "topics": [
@@ -206,22 +222,6 @@
             "商業模式創新"
           ],
           "innovationPoint": "創新點：三位爸爸以極低的初始資本（每人250美元），透過打造簡單實惠的爆款商品，在36小時內售罄，並迅速累積高達3500萬美元營收，顛覆了傳統對創業資金和規模的想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月17日",
-      "topics": [
-        {
-          "title": "Japan's tourism hotspots turn to dual pricing as crowds swell",
-          "keywords": [
-            "日本觀光",
-            "雙重定價",
-            "服務業創新",
-            "收益管理",
-            "反常識定價"
-          ],
-          "innovationPoint": "創新點：日本觀光熱點為解決人潮與地方居民生活品質衝突，反其道而行採取「雙重定價」，對本地人和外國遊客收取不同費用，既能控制人流又能提升整體觀光收益。"
         }
       ]
     }
