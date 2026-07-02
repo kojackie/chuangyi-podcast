@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-02",
   "episodes": [
+    {
+      "date": "2026年7月3日",
+      "topics": [
+        {
+          "title": "I went to the Maldives. Everyone wanted to talk about Temu",
+          "keywords": [
+            "Temu",
+            "馬爾地夫",
+            "跨境電商",
+            "價格戰",
+            "市場滲透"
+          ],
+          "innovationPoint": "創新點：即使在偏遠且實施政府額外收費的市場，中國電商Temu仍憑藉極致性價比與物流能力，突破重重阻礙，成為當地居民熱議的消費現象，顛覆了傳統電商滲透的想像。"
+        }
+      ]
+    },
     {
       "date": "2026年7月2日",
       "topics": [
@@ -206,22 +222,6 @@
             "中國AI"
           ],
           "innovationPoint": "創新點：中國AI新創DeepSeek在模型效能「夠用就好」的基礎上，大幅降低成本，以極具競爭力的價格打入市場，顛覆了AI業界一味追求頂級性能的常識，證明性價比策略也能搶占市場。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月18日",
-      "topics": [
-        {
-          "title": "3 Dads Invested $250 Each to Start a ‘Simple, Affordable’ Business. It Sold Out in 36 Hours and Hit $35M in Revenue: ‘Manifestation Is 100% Real.’",
-          "keywords": [
-            "小額創業",
-            "爆款商品",
-            "快速成功",
-            "低成本創業",
-            "商業模式創新"
-          ],
-          "innovationPoint": "創新點：三位爸爸以極低的初始資本（每人250美元），透過打造簡單實惠的爆款商品，在36小時內售罄，並迅速累積高達3500萬美元營收，顛覆了傳統對創業資金和規模的想像。"
         }
       ]
     }
