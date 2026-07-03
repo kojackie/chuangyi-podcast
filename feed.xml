@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                          <item>
+    <title>從監控工具到解方：他如何將黑科技變白生意？</title>
+    <description><![CDATA[你有沒有想過，如果有人曾經製造出一個很有爭議的工具，後來他又出來賣這個工具的「解藥」，這會是什麼感覺？   聽起來很有趣，是那種「從問題製造者變成問題解決者」的劇情。今天這個案例，是不是就跟這個情境很像？   沒錯，就是這個。一家以色列的網路安全公司 Dream，它正積極擴展到拉丁美洲。他們的共同創辦人 Shalev Hulio，其實就是之前很有名的 Pegasus 監控軟體製造商 NSO Gro...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-04.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-04.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 03 Jul 2026 22:39:34 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-04</guid>
+  </item>
+  <item>
     <title>政府加稅也擋不住？Temu如何征服馬爾地夫的偏鄉市場！</title>
     <description><![CDATA[今天想跟大家聊聊一個很有意思的現象。你可能覺得偏遠小島國，又被政府加收費，電商應該很難打入吧？   確實，一般想像中，物流成本高、市場規模小，加上額外稅費，這些都是電商經營的巨大阻礙。   但這次的案例，中國電商 Temu 卻在馬爾地夫，即使被銀行徵收了 30% 的「Temu 稅」之後，仍然大受歡迎。這點讓我挺詫異的。   這確實出乎意料。一般公司可能一聽到政府要加稅，就會評估市場風險，考慮是否要...
 
