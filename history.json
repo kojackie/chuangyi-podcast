@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-07-02",
+  "lastUpdated": "2026-07-03",
   "episodes": [
+    {
+      "date": "2026年7月4日",
+      "topics": [
+        {
+          "title": "The man who built Pegasus now sells governments the antidote, and Latin America is buying",
+          "keywords": [
+            "商業模式反轉",
+            "跌界意外成功",
+            "資訊安全",
+            "危機轉機"
+          ],
+          "innovationPoint": "創新點：一家曾開發爭議性監控工具的公司，反常識地轉型為政府提供「反監控解方」，利用對問題的深刻理解，將製造問題的經驗轉化為提供解決方案的商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年7月3日",
       "topics": [
@@ -206,22 +221,6 @@
             "中小企業行銷"
           ],
           "innovationPoint": "創新點：這家公司反其道而行，建議客戶放棄保守的內容策略，轉而採取更具風險但能引發共鳴的內容，結果讓參與度驚人地成長了4,646%，顛覆了傳統內容行銷中「求穩」的常識。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月20日",
-      "topics": [
-        {
-          "title": "When Americans choose Chinese AI",
-          "keywords": [
-            "AI成本效益",
-            "夠用就好",
-            "價格戰",
-            "市場區隔",
-            "中國AI"
-          ],
-          "innovationPoint": "創新點：中國AI新創DeepSeek在模型效能「夠用就好」的基礎上，大幅降低成本，以極具競爭力的價格打入市場，顛覆了AI業界一味追求頂級性能的常識，證明性價比策略也能搶占市場。"
         }
       ]
     }
