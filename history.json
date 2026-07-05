@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-04",
+  "lastUpdated": "2026-07-05",
   "episodes": [
+    {
+      "date": "2026年7月6日",
+      "topics": [
+        {
+          "title": "China’s EV makers are taking over the European factories Ford and Nissan can’t fill",
+          "keywords": [
+            "中國電動車",
+            "歐洲市場",
+            "工廠收購",
+            "產業轉型",
+            "市場切入"
+          ],
+          "innovationPoint": "創新點：中國電動車製造商反常識地進軍歐洲，收購並填補傳統汽車巨頭福特與日產放棄的閒置工廠，展示了新興市場玩家如何透過策略性資產利用與在地化生產，快速擴張其全球版圖。"
+        }
+      ]
+    },
     {
       "date": "2026年7月5日",
       "topics": [
@@ -205,22 +221,6 @@
             "教育訓練"
           ],
           "innovationPoint": "創新點：這位創業者將新興的AI提示工程技能，透過化繁為簡的「三句話」教學模式，成功打造出七位數美元營收的知識變現事業，顛覆了傳統對新技術學習與創業門檻的想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月22日",
-      "topics": [
-        {
-          "title": "Japan's Toto to invest $495m in chip materials, targeting 1-nm era",
-          "keywords": [
-            "TOTO",
-            "跨界轉型",
-            "半導體材料",
-            "傳統產業創新",
-            "日本"
-          ],
-          "innovationPoint": "創新點：以衛浴產品聞名的日本TOTO，反常識地運用其陶瓷精密加工技術，豪擲4.95億美元跨足1奈米晶片材料領域，成功將傳統產業的核心技術跌界應用到高科技前沿，找到驚人的第二成長曲線。"
         }
       ]
     }
