@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                <item>
+    <title>玩遊戲也能訓練AI？電玩數據變身實體AI教練的跨界奇蹟！</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例，一個英國新創公司 Worldmodeldata。他們做的事情，真的是出乎意料。   是啊，他們募了八百萬歐元，將電玩遊戲裡的數據，轉化成訓練實體 AI 系統的資料。這聽起來跟你一般認知的 AI 訓練數據來源很不一樣。   對，這點讓我覺得很詫異。一般公司想到 AI 訓練資料，大概都是去真實世界採集，或是用既有的大量文字圖片。誰會想到去挖電玩遊戲裡的寶藏呢？   你說得...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-07.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-07.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 07 Jul 2026 02:14:36 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-07</guid>
+  </item>
+  <item>
     <title>歐美大廠退場！中國電動車「撿漏」歐洲舊廠的全球擴張術</title>
     <description><![CDATA[今天我們來聊一個很有趣的現象。你可能沒想到，在歐洲，有些原本屬於福特、日產這些大車廠的閒置工廠，現在竟然被中國的電動車製造商給買下來，重新啟用！   是啊，這點確實出乎意料。過去幾十年，大家習慣的是西方品牌去中國設廠生產，現在情勢反過來了。這不僅是簡單的填補閒置產能。   對，這就是讓我最詫異的地方。一般公司看到大廠放棄的工廠，直覺會覺得是不是這個市場不行了，或者生產成本太高，不值得投入。但中國廠...
 
