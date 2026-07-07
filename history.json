@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-05",
+  "lastUpdated": "2026-07-07",
   "episodes": [
+    {
+      "date": "2026年7月7日",
+      "topics": [
+        {
+          "title": "UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI",
+          "keywords": [
+            "電玩遊戲",
+            "AI訓練數據",
+            "跨界應用",
+            "物理AI",
+            "數據再利用"
+          ],
+          "innovationPoint": "創新點：英國新創Worldmodeldata反常識地將電玩遊戲中的虛擬數據，轉化為訓練實體AI系統的關鍵資料，顛覆了傳統對AI訓練數據來源的想像與取得方式。"
+        }
+      ]
+    },
     {
       "date": "2026年7月6日",
       "topics": [
@@ -205,22 +221,6 @@
             "商業模式反轉"
           ],
           "innovationPoint": "創新點：一位創業者反常識地放棄既定「目標客群」，轉而開拓佔市場97%卻未曾意識到需求的「非典型潛在用戶」，成功實現市場突破與增長。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月23日",
-      "topics": [
-        {
-          "title": "I Built a 7-Figure Business Teaching People How to Engineer AI Prompts. My Advice Usually Boils Down to 3 Sentences.",
-          "keywords": [
-            "AI提示工程",
-            "知識變現",
-            "化繁為簡",
-            "七位數營收",
-            "教育訓練"
-          ],
-          "innovationPoint": "創新點：這位創業者將新興的AI提示工程技能，透過化繁為簡的「三句話」教學模式，成功打造出七位數美元營收的知識變現事業，顛覆了傳統對新技術學習與創業門檻的想像。"
         }
       ]
     }
