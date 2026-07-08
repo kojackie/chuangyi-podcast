@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                  <item>
+    <title>蠕蟲治污：農業廢棄物意外的永續解方</title>
+    <description><![CDATA[今天要聊一個很有趣的案例，跟台灣很多傳統產業，尤其是農業、製造業，面臨的廢棄物處理問題很像。   嗯，聽起來是個大家都很關心的議題。你說的案例是哪個？   就是加州一個酪農場，他們用很出乎意料的方式，解決了大規模的糞肥污染問題。聽起來是不是有點神奇？   確實有點。酪農場的糞肥處理一直是大挑戰，大部分業者會投入很多高科技設備或化學處理。   對，你可能沒想到，他們用的方法竟然是蠕蟲跟微生物。聽起來...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-08.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-08.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 08 Jul 2026 13:04:18 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-08</guid>
+  </item>
+  <item>
     <title>玩遊戲也能訓練AI？電玩數據變身實體AI教練的跨界奇蹟！</title>
     <description><![CDATA[今天我們來聊一個很有趣的案例，一個英國新創公司 Worldmodeldata。他們做的事情，真的是出乎意料。   是啊，他們募了八百萬歐元，將電玩遊戲裡的數據，轉化成訓練實體 AI 系統的資料。這聽起來跟你一般認知的 AI 訓練數據來源很不一樣。   對，這點讓我覺得很詫異。一般公司想到 AI 訓練資料，大概都是去真實世界採集，或是用既有的大量文字圖片。誰會想到去挖電玩遊戲裡的寶藏呢？   你說得...
 
