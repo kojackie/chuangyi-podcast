@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-08",
+  "lastUpdated": "2026-07-09",
   "episodes": [
+    {
+      "date": "2026年7月9日",
+      "topics": [
+        {
+          "title": "‘Real American Cowboys’ Star Steven McBee Jr. Beat the Beef Bottleneck Washington Is Now Spending $500 Million to Fix",
+          "keywords": [
+            "傳統產業突破",
+            "供應鏈創新",
+            "小公司逆襲",
+            "農業直銷",
+            "反壟斷"
+          ],
+          "innovationPoint": "創新點：一位小農戶反常識地透過創新的直銷模式，成功突破了美國肉品產業長期被少數巨頭壟斷的「牛肉瓶頸」，解決了連政府投入巨資都難以化解的產業困境。"
+        }
+      ]
+    },
     {
       "date": "2026年7月8日",
       "topics": [
@@ -205,22 +221,6 @@
             "全球化"
           ],
           "innovationPoint": "創新點：傳統上需要現場執行的「實體勞務」，如今透過遠端遙控技術，可由遠在千里之外的全球工作者操作，徹底顛覆勞動力市場的地理限制與供應模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月25日",
-      "topics": [
-        {
-          "title": "Activist investor homes in on Japan's Ajinomoto as chip-related stock",
-          "keywords": [
-            "跨產業應用",
-            "傳統產業轉型",
-            "核心技術重估",
-            "味之素",
-            "半導體材料"
-          ],
-          "innovationPoint": "創新點：以食品業聞名的日本味之素 (Ajinomoto)，其看似傳統的化學技術，竟被激進投資人視為半導體晶片製造的關鍵材料，凸顯了跨領域核心技術的意外價值與顛覆性商業潛力。"
         }
       ]
     }
