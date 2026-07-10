@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                        <item>
+    <title>空中計程車先載器官：新技術落地，從高價利基切入</title>
+    <description><![CDATA[欸，你最近有沒有看到一個新聞，美國的空中計程車計畫，第一次飛行竟然不是載人，是載器官？這點讓我有點出乎意料。   嗯，這個案例確實很有趣。由 Amazon 支持的 Beta Technologies，他們完成了美國政府電動空中計程車計畫的首飛任務，運送的是 United Therapeutics 製造的器官。   對啊，我第一時間聽到就想，啊？不是應該載客才對嗎？畢竟叫空中「計程車」嘛。一般公司如...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-11.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 10 Jul 2026 22:39:41 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-11</guid>
+  </item>
+  <item>
     <title>AI內容平台「反噬」？巨頭設限管理AI產出，防濫用保品質！</title>
     <description><![CDATA[今天想跟大家聊一個很有意思的觀察，是關於中國的網路小說平台，像騰訊、字節跳動和百度旗下的那些。  對，這些平台原本很鼓勵大家用AI來寫小說，想說這樣可以提高產量，作者寫起來也比較輕鬆。  沒錯，就像新聞裡提到的，有個土木工程師叫 Gordon Sheng，他用AI工具 DeepSeek 大綱寫好一個離婚故事，五分鐘就生成出來了。  而且他在 Tomato Novel 上發表，十天內就累積了超過五千...
 
