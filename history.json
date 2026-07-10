@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-09",
+  "lastUpdated": "2026-07-10",
   "episodes": [
+    {
+      "date": "2026年7月11日",
+      "topics": [
+        {
+          "title": "The first flights of the US air-taxi program carried organs, not passengers",
+          "keywords": [
+            "新技術落地",
+            "垂直市場",
+            "醫療物流",
+            "航空運輸",
+            "策略選擇"
+          ],
+          "innovationPoint": "創新點：美國空中計程車計畫沒有直接載客，反常識地選擇從運送高價值醫療器官開始，揭示新技術落地時，應先從高價值、低爭議的利基市場切入，累積經驗與信任。"
+        }
+      ]
+    },
     {
       "date": "2026年7月10日",
       "topics": [
@@ -205,22 +221,6 @@
             "組織轉型"
           ],
           "innovationPoint": "創新點：網路巨頭Cloudflare在裁員的同時，其工程團隊卻逆勢增長45%，顛覆了裁員即縮編的常識，展現企業可以透過策略性的人力資源配置，更專注於核心成長。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月27日",
-      "topics": [
-        {
-          "title": "Ford had to rehire 350 engineers after its AI got vehicle quality wrong",
-          "keywords": [
-            "AI限制",
-            "人機協作",
-            "品質管理",
-            "傳統產業轉型",
-            "反常識"
-          ],
-          "innovationPoint": "創新點：汽車巨頭福特在錯誤嘗試用AI取代核心工程師後，被迫重新聘用350名經驗豐富的工程師，這顛覆了許多企業對AI萬能的迷思，揭示在關鍵品質領域，人類專業知識的不可替代性。"
         }
       ]
     }
