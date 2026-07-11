@@ -29,7 +29,18 @@
       <link>https://kojackie.github.io/chuangyi-podcast/</link>
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                          <item>
+    <title>菲律賓護士遠端監護：跨國醫療服務新模式</title>
+    <description><![CDATA[嘿，你最近有沒有聽說一個很特別的案例？美國的醫院，竟然把監護病患的工作，外包給菲律賓的護士來做耶！   嗯，這個做法確實出乎意料。一般我們想到護士，都會覺得要親自在病床邊照顧才對，怎麼會是遠端監護呢？   對啊！我也是這樣想。以前我生病住院，護士都會三不五時進來量血壓、看點滴，很難想像他們不在現場要怎麼監控。   其實，他們是透過遠端科技來執行。就像報導裡提到的 Chris，他就是從菲律賓馬尼拉，...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-12.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 11 Jul 2026 22:39:26 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-12</guid>
+  </item>
+  <item>
     <title>空中計程車先載器官：新技術落地，從高價利基切入</title>
     <description><![CDATA[欸，你最近有沒有看到一個新聞，美國的空中計程車計畫，第一次飛行竟然不是載人，是載器官？這點讓我有點出乎意料。   嗯，這個案例確實很有趣。由 Amazon 支持的 Beta Technologies，他們完成了美國政府電動空中計程車計畫的首飛任務，運送的是 United Therapeutics 製造的器官。   對啊，我第一時間聽到就想，啊？不是應該載客才對嗎？畢竟叫空中「計程車」嘛。一般公司如...
 
