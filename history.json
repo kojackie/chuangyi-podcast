@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-10",
+  "lastUpdated": "2026-07-11",
   "episodes": [
+    {
+      "date": "2026年7月12日",
+      "topics": [
+        {
+          "title": "Your next nurse may monitor you from the Philippines",
+          "keywords": [
+            "遠端醫療",
+            "跨國服務外包",
+            "人力成本優化",
+            "服務業轉型",
+            "全球人才池"
+          ],
+          "innovationPoint": "創新點：美國醫院反常識地將遠端監護職位外包給菲律賓護士，有效解決本土人力短缺並大幅降低營運成本，顛覆了傳統醫療服務的地域限制與人才運用模式。"
+        }
+      ]
+    },
     {
       "date": "2026年7月11日",
       "topics": [
@@ -205,22 +221,6 @@
             "情緒偵測"
           ],
           "innovationPoint": "創新點：研究人員開發出一款反常識的AI心理治療師，它能主動透過穿戴裝置數據，在使用者求助之前就偵測到情緒困擾並介入，顛覆傳統被動求助的服務模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月28日",
-      "topics": [
-        {
-          "title": "Cloudflare cut 1,100 jobs and then grew its engineering team by 45 percent, and its CEO says the pattern will repeat everywhere",
-          "keywords": [
-            "Cloudflare",
-            "裁員",
-            "工程團隊增長",
-            "人力資源策略",
-            "組織轉型"
-          ],
-          "innovationPoint": "創新點：網路巨頭Cloudflare在裁員的同時，其工程團隊卻逆勢增長45%，顛覆了裁員即縮編的常識，展現企業可以透過策略性的人力資源配置，更專注於核心成長。"
         }
       ]
     }
