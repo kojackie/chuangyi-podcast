@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-12",
   "episodes": [
+    {
+      "date": "2026年7月13日",
+      "topics": [
+        {
+          "title": "Netflix is reportedly considering always-on channels and bundles, which is to say, cable",
+          "keywords": [
+            "Netflix",
+            "商業模式反轉",
+            "服務設計",
+            "內容串流",
+            "捆綁銷售"
+          ],
+          "innovationPoint": "創新點：串流巨頭Netflix反常識地考慮導入「有線電視」式的定時頻道與捆綁銷售服務，顛覆了其建立在「隨選即看」基礎上的商業模式，預示服務設計可能回歸傳統模式，以解決訂閱疲勞與用戶留存問題。"
+        }
+      ]
+    },
     {
       "date": "2026年7月12日",
       "topics": [
@@ -205,22 +221,6 @@
             "應用落地"
           ],
           "innovationPoint": "創新點：這則案例反常識地揭露，在號稱「AI驅動」的世界盃數據分析背後，其實仰賴數千名人工數據標註員的辛勤工作。它提醒企業AI並非全自動，更強調「人機協作」才是AI落地應用的關鍵。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月29日",
-      "topics": [
-        {
-          "title": "Researchers built an AI therapist that reads your smartwatch and earbuds to detect distress before you ask for help",
-          "keywords": [
-            "AI心理健康",
-            "主動式服務",
-            "穿戴裝置",
-            "反常識",
-            "情緒偵測"
-          ],
-          "innovationPoint": "創新點：研究人員開發出一款反常識的AI心理治療師，它能主動透過穿戴裝置數據，在使用者求助之前就偵測到情緒困擾並介入，顛覆傳統被動求助的服務模式。"
         }
       ]
     }
