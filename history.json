@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "episodes": [
+    {
+      "date": "2026年7月14日",
+      "topics": [
+        {
+          "title": "Japan voice actor fights clones with AI of his own",
+          "keywords": [
+            "AI版權",
+            "聲優",
+            "內容創作",
+            "數位資產",
+            "商業模式反轉"
+          ],
+          "innovationPoint": "創新點：面對AI複製聲音的挑戰，日本聲優反其道而行，主動運用AI技術保護自身版權並開創新的商業模式，從被動防禦轉為主動出擊。"
+        }
+      ]
+    },
     {
       "date": "2026年7月13日",
       "topics": [
@@ -205,22 +221,6 @@
             "廣告渠道"
           ],
           "innovationPoint": "創新點：一般人視為上網門檻的飯店WiFi登入頁面 (captive portal)，被重新發掘成一個隱藏的廣告渠道與潛在的商業金礦，將摩擦點轉化為營收機會。"
-        }
-      ]
-    },
-    {
-      "date": "2026年6月30日",
-      "topics": [
-        {
-          "title": "The AI-powered World Cup runs on thousands of data workers",
-          "keywords": [
-            "AI",
-            "人機協作",
-            "數據標註",
-            "世界盃",
-            "應用落地"
-          ],
-          "innovationPoint": "創新點：這則案例反常識地揭露，在號稱「AI驅動」的世界盃數據分析背後，其實仰賴數千名人工數據標註員的辛勤工作。它提醒企業AI並非全自動，更強調「人機協作」才是AI落地應用的關鍵。"
         }
       ]
     }
