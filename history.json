@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-14",
   "episodes": [
+    {
+      "date": "2026年7月15日",
+      "topics": [
+        {
+          "title": "Older adults know AI is slop. They just like it",
+          "keywords": [
+            "AI應用",
+            "銀髮族市場",
+            "情感連結",
+            "產品設計",
+            "用戶體驗"
+          ],
+          "innovationPoint": "創新點：面對AI生成內容的「不完美」，年長者反常識地選擇擁抱，因為AI提供了情感慰藉與陪伴，顛覆了產品完美主義的思維，強調了情感連結的價值。"
+        }
+      ]
+    },
     {
       "date": "2026年7月14日",
       "topics": [
@@ -205,22 +221,6 @@
             "電動車"
           ],
           "innovationPoint": "創新點：汽車巨頭本田將原先為電動車生產電池的工廠，在電動車計畫取消後，逆勢轉型生產資料中心的儲能電池，成功將閒置資產轉換為新興市場的關鍵供應鏈。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月1日",
-      "topics": [
-        {
-          "title": "The captive portal economy: how hotel WiFi sign-in pages became both a security vector and a hidden ad channel",
-          "keywords": [
-            "服務設計",
-            "商業模式反轉",
-            "隱藏商機",
-            "飯店業",
-            "廣告渠道"
-          ],
-          "innovationPoint": "創新點：一般人視為上網門檻的飯店WiFi登入頁面 (captive portal)，被重新發掘成一個隱藏的廣告渠道與潛在的商業金礦，將摩擦點轉化為營收機會。"
         }
       ]
     }
