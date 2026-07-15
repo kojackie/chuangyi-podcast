@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "episodes": [
+    {
+      "date": "2026年7月16日",
+      "topics": [
+        {
+          "title": "These High Schoolers Were Tasked With Turning $1 into $100 in a Week. One of Them Made Over $2,000.",
+          "keywords": [
+            "創意創業",
+            "資金倍增",
+            "青少年創業",
+            "小額資本",
+            "執行力"
+          ],
+          "innovationPoint": "創新點：高中生將1美元挑戰賽變成2000美元的商業成功，顛覆了創業必須高資本的常識，揭示了極致創意與執行力能創造的驚人價值。"
+        }
+      ]
+    },
     {
       "date": "2026年7月15日",
       "topics": [
@@ -205,22 +221,6 @@
             "市場滲透"
           ],
           "innovationPoint": "創新點：即使在偏遠且實施政府額外收費的市場，中國電商Temu仍憑藉極致性價比與物流能力，突破重重阻礙，成為當地居民熱議的消費現象，顛覆了傳統電商滲透的想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月2日",
-      "topics": [
-        {
-          "title": "Honda starts making batteries for data centres at a factory built for EVs it cancelled",
-          "keywords": [
-            "本田",
-            "工廠轉型",
-            "儲能電池",
-            "資料中心",
-            "電動車"
-          ],
-          "innovationPoint": "創新點：汽車巨頭本田將原先為電動車生產電池的工廠，在電動車計畫取消後，逆勢轉型生產資料中心的儲能電池，成功將閒置資產轉換為新興市場的關鍵供應鏈。"
         }
       ]
     }
