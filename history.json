@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "episodes": [
+    {
+      "date": "2026年7月17日",
+      "topics": [
+        {
+          "title": "AI powers citizen-led disaster relief from afar for Venezuela",
+          "keywords": [
+            "公民科技",
+            "AI應用",
+            "災難救援",
+            "去中心化",
+            "社會創新"
+          ],
+          "innovationPoint": "創新點：面對政府救援遲緩，委內瑞拉公民反常識地主動運用AI技術，從遠端建立網站與App，協調災後救援並協尋失蹤者，展現了AI在去中心化公民行動中的巨大潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年7月16日",
       "topics": [
@@ -205,22 +221,6 @@
             "危機轉機"
           ],
           "innovationPoint": "創新點：一家曾開發爭議性監控工具的公司，反常識地轉型為政府提供「反監控解方」，利用對問題的深刻理解，將製造問題的經驗轉化為提供解決方案的商業模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月3日",
-      "topics": [
-        {
-          "title": "I went to the Maldives. Everyone wanted to talk about Temu",
-          "keywords": [
-            "Temu",
-            "馬爾地夫",
-            "跨境電商",
-            "價格戰",
-            "市場滲透"
-          ],
-          "innovationPoint": "創新點：即使在偏遠且實施政府額外收費的市場，中國電商Temu仍憑藉極致性價比與物流能力，突破重重阻礙，成為當地居民熱議的消費現象，顛覆了傳統電商滲透的想像。"
         }
       ]
     }
