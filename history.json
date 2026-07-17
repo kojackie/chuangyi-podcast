@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "episodes": [
+    {
+      "date": "2026年7月18日",
+      "topics": [
+        {
+          "title": "Tesla made a $225 balance bike for toddlers. It has no motor, no pedals, and is already sold out.",
+          "keywords": [
+            "品牌延伸",
+            "非核心產品",
+            "高價售罄",
+            "反常識",
+            "設計驅動"
+          ],
+          "innovationPoint": "創新點：電動車巨頭特斯拉反常識地推出無馬達、無踏板的兒童滑步車，定價225美元卻迅速售罄，顛覆了品牌跨界與商品定位的既有想像。"
+        }
+      ]
+    },
     {
       "date": "2026年7月17日",
       "topics": [
@@ -206,21 +222,6 @@
             "知識變現"
           ],
           "innovationPoint": "創新點：一位創業者反常識地運用僅僅四種AI工具，在沒有員工和外部投資的情況下，於12個月內將副業發展成七位數美元營收的事業，顛覆了傳統對創業規模與所需資源的想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月4日",
-      "topics": [
-        {
-          "title": "The man who built Pegasus now sells governments the antidote, and Latin America is buying",
-          "keywords": [
-            "商業模式反轉",
-            "跌界意外成功",
-            "資訊安全",
-            "危機轉機"
-          ],
-          "innovationPoint": "創新點：一家曾開發爭議性監控工具的公司，反常識地轉型為政府提供「反監控解方」，利用對問題的深刻理解，將製造問題的經驗轉化為提供解決方案的商業模式。"
         }
       ]
     }
