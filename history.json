@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-18",
+  "lastUpdated": "2026-07-19",
   "episodes": [
+    {
+      "date": "2026年7月19日",
+      "topics": [
+        {
+          "title": "Casio finds new cash cow in once maligned 'cheap' watches",
+          "keywords": [
+            "Casio",
+            "廉價手錶",
+            "產品定位",
+            "品牌再造",
+            "傳統產業轉型"
+          ],
+          "innovationPoint": "創新點：日本Casio反常識地在市場追求高階智慧手錶時，重新聚焦並成功將其長期被視為「廉價」的基礎款手錶系列，轉化為新的主要獲利來源，顛覆了品牌升級的傳統思維。"
+        }
+      ]
+    },
     {
       "date": "2026年7月19日",
       "topics": [
@@ -206,22 +222,6 @@
             "數據再利用"
           ],
           "innovationPoint": "創新點：英國新創Worldmodeldata反常識地將電玩遊戲中的虛擬數據，轉化為訓練實體AI系統的關鍵資料，顛覆了傳統對AI訓練數據來源的想像與取得方式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月6日",
-      "topics": [
-        {
-          "title": "China’s EV makers are taking over the European factories Ford and Nissan can’t fill",
-          "keywords": [
-            "中國電動車",
-            "歐洲市場",
-            "工廠收購",
-            "產業轉型",
-            "市場切入"
-          ],
-          "innovationPoint": "創新點：中國電動車製造商反常識地進軍歐洲，收購並填補傳統汽車巨頭福特與日產放棄的閒置工廠，展示了新興市場玩家如何透過策略性資產利用與在地化生產，快速擴張其全球版圖。"
         }
       ]
     }
