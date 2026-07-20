@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-20",
   "episodes": [
+    {
+      "date": "2026年7月20日",
+      "topics": [
+        {
+          "title": "Bentley hired an orchestra to solve the EV silence problem. Drums were the answer.",
+          "keywords": [
+            "賓利",
+            "電動車",
+            "感官體驗",
+            "品牌設計",
+            "反常識行銷"
+          ],
+          "innovationPoint": "創新點：賓利車廠反常識地為安靜的電動車雇用樂團『製造』聲響，並發現聲音的情感連結關鍵在於『節奏』而非機械音色，顛覆了產品感官設計的既有思維。"
+        }
+      ]
+    },
     {
       "date": "2026年7月19日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識"
           ],
           "innovationPoint": "創新點：傳統酪農場反常識地運用簡單的蠕蟲與微生物，以生物方式有效解決大規模的農業糞肥污染問題，顛覆了產業對廢棄物處理的認知，提供低成本又永續的解方。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月7日",
-      "topics": [
-        {
-          "title": "UK startup Worldmodeldata raises €8 million to turn video games into training data for physical AI",
-          "keywords": [
-            "電玩遊戲",
-            "AI訓練數據",
-            "跨界應用",
-            "物理AI",
-            "數據再利用"
-          ],
-          "innovationPoint": "創新點：英國新創Worldmodeldata反常識地將電玩遊戲中的虛擬數據，轉化為訓練實體AI系統的關鍵資料，顛覆了傳統對AI訓練數據來源的想像與取得方式。"
         }
       ]
     }
