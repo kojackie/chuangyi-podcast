@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "episodes": [
+    {
+      "date": "2026年7月21日",
+      "topics": [
+        {
+          "title": "She Started a Niche Business in Her Basement with $10,000. Now It Does $113 Million in Sales: ‘Took Off Like a Rocket.’",
+          "keywords": [
+            "小資本創業",
+            "利基市場",
+            "快速成長",
+            "創業故事",
+            "營收破億"
+          ],
+          "innovationPoint": "創新點：一位創業者從地下室以僅1萬美元啟動利基型事業，在短時間內爆發成長至1.13億美元營收，證明精準市場定位與高效執行能創造巨大商業價值。"
+        }
+      ]
+    },
     {
       "date": "2026年7月20日",
       "topics": [
@@ -206,22 +222,6 @@
             "反壟斷"
           ],
           "innovationPoint": "創新點：一位小農戶反常識地透過創新的直銷模式，成功突破了美國肉品產業長期被少數巨頭壟斷的「牛肉瓶頸」，解決了連政府投入巨資都難以化解的產業困境。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月8日",
-      "topics": [
-        {
-          "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-          "keywords": [
-            "農業創新",
-            "永續解方",
-            "廢棄物處理",
-            "生物科技",
-            "反常識"
-          ],
-          "innovationPoint": "創新點：傳統酪農場反常識地運用簡單的蠕蟲與微生物，以生物方式有效解決大規模的農業糞肥污染問題，顛覆了產業對廢棄物處理的認知，提供低成本又永續的解方。"
         }
       ]
     }
