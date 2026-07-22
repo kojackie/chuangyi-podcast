@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "episodes": [
+    {
+      "date": "2026年7月22日",
+      "topics": [
+        {
+          "title": "A gas-rich outback station could host a $28bn off-grid AI data centre",
+          "keywords": [
+            "AI數據中心",
+            "離網供電",
+            "偏鄉資源利用",
+            "能源創新",
+            "商業模式反轉"
+          ],
+          "innovationPoint": "創新點：一家新加坡開發商反常識地選擇在澳洲偏遠內陸的瓦斯站，建立一個價值280億美元的離網AI數據中心，顛覆了高科技基礎設施必須靠近都會或傳統電網的思維。"
+        }
+      ]
+    },
     {
       "date": "2026年7月21日",
       "topics": [
@@ -206,22 +222,6 @@
             "中國創新"
           ],
           "innovationPoint": "創新點：中國網路小說平台最初擁抱AI生成內容以提高產量，但隨後反常識地對AI產出設定嚴格限制與標準，以維護內容品質與作者生態，揭示AI內容管理的反思。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月9日",
-      "topics": [
-        {
-          "title": "‘Real American Cowboys’ Star Steven McBee Jr. Beat the Beef Bottleneck Washington Is Now Spending $500 Million to Fix",
-          "keywords": [
-            "傳統產業突破",
-            "供應鏈創新",
-            "小公司逆襲",
-            "農業直銷",
-            "反壟斷"
-          ],
-          "innovationPoint": "創新點：一位小農戶反常識地透過創新的直銷模式，成功突破了美國肉品產業長期被少數巨頭壟斷的「牛肉瓶頸」，解決了連政府投入巨資都難以化解的產業困境。"
         }
       ]
     }
