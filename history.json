@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-22",
+  "lastUpdated": "2026-07-23",
   "episodes": [
+    {
+      "date": "2026年7月23日",
+      "topics": [
+        {
+          "title": "AI is shrinking video game development teams to one",
+          "keywords": [
+            "AI賦能",
+            "獨立開發者",
+            "遊戲產業",
+            "小型團隊",
+            "效率提升"
+          ],
+          "innovationPoint": "創新點：AI反常識地讓影片遊戲開發團隊從多人縮減到一人，證明個人或小型團隊能透過AI槓桿，創造出以往只有大型企業才能實現的產品。"
+        }
+      ]
+    },
     {
       "date": "2026年7月22日",
       "topics": [
@@ -206,22 +222,6 @@
             "策略選擇"
           ],
           "innovationPoint": "創新點：美國空中計程車計畫沒有直接載客，反常識地選擇從運送高價值醫療器官開始，揭示新技術落地時，應先從高價值、低爭議的利基市場切入，累積經驗與信任。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月10日",
-      "topics": [
-        {
-          "title": "China’s web novel platforms embraced AI. Now they are fighting it",
-          "keywords": [
-            "AI內容管理",
-            "平台治理",
-            "內容品質",
-            "人機協作",
-            "中國創新"
-          ],
-          "innovationPoint": "創新點：中國網路小說平台最初擁抱AI生成內容以提高產量，但隨後反常識地對AI產出設定嚴格限制與標準，以維護內容品質與作者生態，揭示AI內容管理的反思。"
         }
       ]
     }
