@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-          <item>
+            <item>
+    <title>AI助一人團隊開發遊戲，小蝦米也能打敗大鯨魚？</title>
+    <description><![CDATA[嘿，你聽說土耳其遊戲產業現在有個很出乎意料的發展嗎？以前遊戲開發都要一整個團隊，現在竟然有人只靠自己一個人，就把遊戲做出來了。   怎麼可能？遊戲製作是很複雜的工程耶，從程式碼、美術設計到劇情，一個人要怎麼兼顧？這模式聽起來很不持久，成本也未必划算吧？   不過這次的案例就是這樣。像有個叫 Emirhan Gül 的開發者，他之前在一家土耳其新創公司，五個月內就做了 23 款遊戲，後來做到過勞。 ...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-23.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-23.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 23 Jul 2026 10:10:48 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-23</guid>
+  </item>
+  <item>
     <title>荒野變AI數據中心：偏鄉資源創造 $280 億商機</title>
     <description><![CDATA[我今天看到一個新聞，真的是讓我出乎意料，你可能沒想到，在澳洲的偏遠內陸，就是那種牧牛場、荒郊野外的地方，竟然有人要蓋一個價值兩百八十億美元的AI資料中心。   兩百八十億美元？這麼大的投資，地點還選在偏遠內陸，這真的有點奇怪。AI資料中心不是通常都蓋在交通方便、電力穩定的都市附近嗎？電費也是一大考量吧。   沒錯，這就是它特別的地方。這家新加坡的開發商叫做 Raggiana Global，旗下有一...
 
