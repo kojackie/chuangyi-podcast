@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-23",
+  "lastUpdated": "2026-07-24",
   "episodes": [
+    {
+      "date": "2026年7月24日",
+      "topics": [
+        {
+          "title": "2 Brothers Started a $1.2M Side Hustle as Teens. The Blue-Collar Business Made $3M Last Year: ‘Young People Are Looking for Different Career Paths.’",
+          "keywords": [
+            "藍領創業",
+            "服務業創新",
+            "青少年創業",
+            "小資本致富",
+            "需求挖掘"
+          ],
+          "innovationPoint": "創新點：兩位青少年從看似傳統的藍領服務「兼職」出發，反常識地在市場上挖掘被忽視的需求，並將其發展成年營收數百萬美元的服務事業，顛覆了傳統創業和藍領工作的既有想像。"
+        }
+      ]
+    },
     {
       "date": "2026年7月23日",
       "topics": [
@@ -206,22 +222,6 @@
             "全球人才池"
           ],
           "innovationPoint": "創新點：美國醫院反常識地將遠端監護職位外包給菲律賓護士，有效解決本土人力短缺並大幅降低營運成本，顛覆了傳統醫療服務的地域限制與人才運用模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月11日",
-      "topics": [
-        {
-          "title": "The first flights of the US air-taxi program carried organs, not passengers",
-          "keywords": [
-            "新技術落地",
-            "垂直市場",
-            "醫療物流",
-            "航空運輸",
-            "策略選擇"
-          ],
-          "innovationPoint": "創新點：美國空中計程車計畫沒有直接載客，反常識地選擇從運送高價值醫療器官開始，揭示新技術落地時，應先從高價值、低爭議的利基市場切入，累積經驗與信任。"
         }
       ]
     }
