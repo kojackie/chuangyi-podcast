@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-            <item>
+              <item>
+    <title>青少年從藍領兼職做起，年收數百萬美元的爆款服務秘訣</title>
+    <description><![CDATA[你知道嗎？有一個案例，兩兄弟十幾歲的時候，把一個看似很傳統的藍領兼職工作，做成了去年營收三百萬美元的生意。而且還預計今年能做到五百萬美元。   等等，三百萬美元？這有點出乎意料吧。做什麼的？收垃圾嗎？這種「藍領」生意，照理說規模不大，怎麼能做到這麼高的營收？   其實就是清運垃圾和舊物。他們的公司叫 Junk Teens。最讓我詫異的是，他們一開始是用一台皮卡車起家，然後在 Facebook Ma...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-24.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-24.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 24 Jul 2026 10:11:22 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-24</guid>
+  </item>
+  <item>
     <title>AI助一人團隊開發遊戲，小蝦米也能打敗大鯨魚？</title>
     <description><![CDATA[嘿，你聽說土耳其遊戲產業現在有個很出乎意料的發展嗎？以前遊戲開發都要一整個團隊，現在竟然有人只靠自己一個人，就把遊戲做出來了。   怎麼可能？遊戲製作是很複雜的工程耶，從程式碼、美術設計到劇情，一個人要怎麼兼顧？這模式聽起來很不持久，成本也未必划算吧？   不過這次的案例就是這樣。像有個叫 Emirhan Gül 的開發者，他之前在一家土耳其新創公司，五個月內就做了 23 款遊戲，後來做到過勞。 ...
 
