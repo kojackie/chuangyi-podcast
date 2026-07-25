@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-24",
+  "lastUpdated": "2026-07-25",
   "episodes": [
+    {
+      "date": "2026年7月25日",
+      "topics": [
+        {
+          "title": "AI Is Quietly Creating Millionaires — and Here’s Exactly How to Copy Them (No Staff, No Code)",
+          "keywords": [
+            "AI創業",
+            "無程式碼",
+            "無員工",
+            "個人槓桿",
+            "低成本"
+          ],
+          "innovationPoint": "創新點：本文揭示如何運用 AI 工具，在「無需員工、無需程式碼」的極簡創業模式下，快速打造高價值商業服務並實現百萬美元營收，顛覆傳統創業的資源限制。"
+        }
+      ]
+    },
     {
       "date": "2026年7月24日",
       "topics": [
@@ -206,22 +222,6 @@
             "捆綁銷售"
           ],
           "innovationPoint": "創新點：串流巨頭Netflix反常識地考慮導入「有線電視」式的定時頻道與捆綁銷售服務，顛覆了其建立在「隨選即看」基礎上的商業模式，預示服務設計可能回歸傳統模式，以解決訂閱疲勞與用戶留存問題。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月12日",
-      "topics": [
-        {
-          "title": "Your next nurse may monitor you from the Philippines",
-          "keywords": [
-            "遠端醫療",
-            "跨國服務外包",
-            "人力成本優化",
-            "服務業轉型",
-            "全球人才池"
-          ],
-          "innovationPoint": "創新點：美國醫院反常識地將遠端監護職位外包給菲律賓護士，有效解決本土人力短缺並大幅降低營運成本，顛覆了傳統醫療服務的地域限制與人才運用模式。"
         }
       ]
     }
