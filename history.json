@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "episodes": [
+    {
+      "date": "2026年7月26日",
+      "topics": [
+        {
+          "title": "People are quietly recording every conversation they have with AI, and the person across the table has no idea",
+          "keywords": [
+            "AI應用",
+            "會議記錄",
+            "效率工具",
+            "隱私爭議",
+            "個人助理"
+          ],
+          "innovationPoint": "創新點：專業人士開始利用 AI 工具「無聲無息」地記錄並分析所有對話，在對方不知情下提升效率，顛覆了傳統會議記錄與個人資訊管理的模式。"
+        }
+      ]
+    },
     {
       "date": "2026年7月25日",
       "topics": [
@@ -206,22 +222,6 @@
             "商業模式反轉"
           ],
           "innovationPoint": "創新點：面對AI複製聲音的挑戰，日本聲優反其道而行，主動運用AI技術保護自身版權並開創新的商業模式，從被動防禦轉為主動出擊。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月13日",
-      "topics": [
-        {
-          "title": "Netflix is reportedly considering always-on channels and bundles, which is to say, cable",
-          "keywords": [
-            "Netflix",
-            "商業模式反轉",
-            "服務設計",
-            "內容串流",
-            "捆綁銷售"
-          ],
-          "innovationPoint": "創新點：串流巨頭Netflix反常識地考慮導入「有線電視」式的定時頻道與捆綁銷售服務，顛覆了其建立在「隨選即看」基礎上的商業模式，預示服務設計可能回歸傳統模式，以解決訂閱疲勞與用戶留存問題。"
         }
       ]
     }
