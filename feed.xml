@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                <item>
+                  <item>
+    <title>AI靜默錄音！提升效率的兩面刃，你被聽見了嗎？</title>
+    <description><![CDATA[嘿，你最近有沒有聽說一個很特別的 AI 應用？有人開始用 AI 工具「無聲無息」地記錄下所有的對話，而且對方完全不知道。   無聲無息地記錄？這聽起來有點…出乎意料，怎麼說呢？一般公司或個人，要嘛會明講，要嘛就是會避開。誰會去悄悄地做這種事？這不就是違反了基本的信任嗎？   我一開始也覺得有點怪，但仔細想，這背後其實是追求效率。根據《華爾街日報》的報導，現在有些 AI 應用程式像 Granola，...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 26 Jul 2026 10:10:39 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-26</guid>
+  </item>
+  <item>
     <title>AI創業免寫程式、免請人？零門檻打造百萬營收的秘密</title>
     <description><![CDATA[嘿，你最近有沒有注意到一種新的創業模式？它讓我想到，我們平時做生意，是不是太把資源限制當一回事了。   怎麼說？現在創業哪有不被資源限制的？資金、人力、技術，哪一樣不是門檻？尤其是在台灣，中小企業更是感同身受吧。   我今天看到一個案例，它說 AI 正在悄悄地製造百萬富翁，而且重點是，他們創業「沒有員工、沒有程式碼」。   等等，沒有員工，沒有程式碼？這怎麼可能？難道他們都是超級天才，還是有什麼我...
 
