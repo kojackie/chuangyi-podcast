@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                  <item>
+                    <item>
+    <title>兩年獲利成獨角獸：這新創翻轉燒錢慣例！</title>
+    <description><![CDATA[今天想聊一個很有意思的案例，一家叫做 Ominimo 的新創公司，他們在短短兩年內就成為了獨角獸，更重要的是，他們居然是獲利的。   獲利？兩年就獨角獸？等等，這有點出乎意料啊。現在大部分科技新創不是都先燒錢擴張，然後才想著獲利嗎？尤其是保險科技這種需要大量資金投入的領域。   對啊，這就是我覺得特別「哇」的地方。你可能沒想到，他們從 2024 年成立，才兩年時間，估值就達到 14 億歐元，而且這...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-07-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-07-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 27 Jul 2026 10:10:41 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-07-27</guid>
+  </item>
+  <item>
     <title>AI靜默錄音！提升效率的兩面刃，你被聽見了嗎？</title>
     <description><![CDATA[嘿，你最近有沒有聽說一個很特別的 AI 應用？有人開始用 AI 工具「無聲無息」地記錄下所有的對話，而且對方完全不知道。   無聲無息地記錄？這聽起來有點…出乎意料，怎麼說呢？一般公司或個人，要嘛會明講，要嘛就是會避開。誰會去悄悄地做這種事？這不就是違反了基本的信任嗎？   我一開始也覺得有點怪，但仔細想，這背後其實是追求效率。根據《華爾街日報》的報導，現在有些 AI 應用程式像 Granola，...
 
