@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "episodes": [
+    {
+      "date": "2026年7月27日",
+      "topics": [
+        {
+          "title": "Profitable Serbian-Hungarian InsurTech Ominimo hits unicorn status two years after launch",
+          "keywords": [
+            "InsurTech",
+            "快速獲利",
+            "獨角獸",
+            "商業模式創新",
+            "健康成長"
+          ],
+          "innovationPoint": "創新點：Serbian-Hungarian InsurTech 新創 Ominimo 在短短兩年內達成獲利並晉升獨角獸，顛覆了科技新創燒錢擴張的常見模式，證明精準的商業模式與市場定位能實現快速且健康的成長。"
+        }
+      ]
+    },
     {
       "date": "2026年7月26日",
       "topics": [
@@ -206,22 +222,6 @@
             "用戶體驗"
           ],
           "innovationPoint": "創新點：面對AI生成內容的「不完美」，年長者反常識地選擇擁抱，因為AI提供了情感慰藉與陪伴，顛覆了產品完美主義的思維，強調了情感連結的價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月14日",
-      "topics": [
-        {
-          "title": "Japan voice actor fights clones with AI of his own",
-          "keywords": [
-            "AI版權",
-            "聲優",
-            "內容創作",
-            "數位資產",
-            "商業模式反轉"
-          ],
-          "innovationPoint": "創新點：面對AI複製聲音的挑戰，日本聲優反其道而行，主動運用AI技術保護自身版權並開創新的商業模式，從被動防禦轉為主動出擊。"
         }
       ]
     }
