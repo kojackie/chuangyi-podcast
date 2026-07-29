@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "episodes": [
+    {
+      "date": "2026年7月29日",
+      "topics": [
+        {
+          "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
+          "keywords": [
+            "電動車",
+            "能源效率",
+            "利基市場",
+            "競爭策略",
+            "亞洲創新"
+          ],
+          "innovationPoint": "創新點：印度電動車製造商反常識地在能源效率上超越特斯拉和比亞迪等電動車巨頭，證明專注於特定優勢並深耕利基市場，小公司也能在全球競爭中脫穎而出。"
+        }
+      ]
+    },
     {
       "date": "2026年7月28日",
       "topics": [
@@ -206,22 +222,6 @@
             "社會創新"
           ],
           "innovationPoint": "創新點：面對政府救援遲緩，委內瑞拉公民反常識地主動運用AI技術，從遠端建立網站與App，協調災後救援並協尋失蹤者，展現了AI在去中心化公民行動中的巨大潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月16日",
-      "topics": [
-        {
-          "title": "These High Schoolers Were Tasked With Turning $1 into $100 in a Week. One of Them Made Over $2,000.",
-          "keywords": [
-            "創意創業",
-            "資金倍增",
-            "青少年創業",
-            "小額資本",
-            "執行力"
-          ],
-          "innovationPoint": "創新點：高中生將1美元挑戰賽變成2000美元的商業成功，顛覆了創業必須高資本的常識，揭示了極致創意與執行力能創造的驚人價值。"
         }
       ]
     }
