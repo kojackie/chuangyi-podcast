@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-29",
+  "lastUpdated": "2026-07-30",
   "episodes": [
+    {
+      "date": "2026年7月30日",
+      "topics": [
+        {
+          "title": "This Struggling Restaurant Chain Went Back to the Basics. Now Its Stock Is Up 500% in 4 Years: ‘Nothing Short of Remarkable’",
+          "keywords": [
+            "餐飲業",
+            "轉型成功",
+            "回歸基本",
+            "股票增長",
+            "企業復甦"
+          ],
+          "innovationPoint": "創新點：一家苦苦掙扎的餐飲連鎖店，反常識地回歸「基本功」而非追逐潮流，在四年內股價飆漲500%，證明專注核心價值才是長期成長的關鍵。"
+        }
+      ]
+    },
     {
       "date": "2026年7月29日",
       "topics": [
@@ -206,22 +222,6 @@
             "設計驅動"
           ],
           "innovationPoint": "創新點：電動車巨頭特斯拉反常識地推出無馬達、無踏板的兒童滑步車，定價225美元卻迅速售罄，顛覆了品牌跨界與商品定位的既有想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月17日",
-      "topics": [
-        {
-          "title": "AI powers citizen-led disaster relief from afar for Venezuela",
-          "keywords": [
-            "公民科技",
-            "AI應用",
-            "災難救援",
-            "去中心化",
-            "社會創新"
-          ],
-          "innovationPoint": "創新點：面對政府救援遲緩，委內瑞拉公民反常識地主動運用AI技術，從遠端建立網站與App，協調災後救援並協尋失蹤者，展現了AI在去中心化公民行動中的巨大潛力。"
         }
       ]
     }
