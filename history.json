@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "episodes": [
+    {
+      "date": "2026年7月31日",
+      "topics": [
+        {
+          "title": "How an overlooked geothermal plant got a second chance - MIT科技評論",
+          "keywords": [
+            "傳統產業轉型",
+            "資產活化",
+            "再生能源",
+            "小公司大作為",
+            "起死回生"
+          ],
+          "innovationPoint": "創新點：小型公司 Zanskar 反常識地收購一座「快速衰敗中」的地熱發電廠，並透過新技術讓其恢復滿載運轉，證明老舊或看似無用的傳統產業資產，能透過創新思維與技術獲得第二次生命。"
+        }
+      ]
+    },
     {
       "date": "2026年7月30日",
       "topics": [
@@ -206,22 +222,6 @@
             "品牌轉型"
           ],
           "innovationPoint": "創新點：家電零售巨頭燦坤反常識地在門市販售滷肉飯，透過跨界餐飲創造獨特「體驗經濟」，成功提升顧客停留時間與品牌價值，顛覆傳統家電賣場模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月18日",
-      "topics": [
-        {
-          "title": "Tesla made a $225 balance bike for toddlers. It has no motor, no pedals, and is already sold out.",
-          "keywords": [
-            "品牌延伸",
-            "非核心產品",
-            "高價售罄",
-            "反常識",
-            "設計驅動"
-          ],
-          "innovationPoint": "創新點：電動車巨頭特斯拉反常識地推出無馬達、無踏板的兒童滑步車，定價225美元卻迅速售罄，顛覆了品牌跨界與商品定位的既有想像。"
         }
       ]
     }
