@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-08-04",
+  "lastUpdated": "2026-08-05",
   "episodes": [
+    {
+      "date": "2026年8月5日",
+      "topics": [
+        {
+          "title": "Zürich-based Exclaim Robotics exits stealth with €4.29 million to build robots for AI data centre maintenance",
+          "keywords": [
+            "AI數據中心",
+            "機器人維護",
+            "傳統勞務創新",
+            "自動化"
+          ],
+          "innovationPoint": "創新點：Exclaim Robotics反常識地將機器人技術應用於AI數據中心的日常維護與維修，透過自動化解決高科技基礎設施的痛點，證明AI與機器人能深入傳統勞務型工作，實現效率突破與成本節省。"
+        }
+      ]
+    },
     {
       "date": "2026年8月4日",
       "topics": [
@@ -206,22 +221,6 @@
             "營收破億"
           ],
           "innovationPoint": "創新點：一位創業者從地下室以僅1萬美元啟動利基型事業，在短時間內爆發成長至1.13億美元營收，證明精準市場定位與高效執行能創造巨大商業價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月20日",
-      "topics": [
-        {
-          "title": "Bentley hired an orchestra to solve the EV silence problem. Drums were the answer.",
-          "keywords": [
-            "賓利",
-            "電動車",
-            "感官體驗",
-            "品牌設計",
-            "反常識行銷"
-          ],
-          "innovationPoint": "創新點：賓利車廠反常識地為安靜的電動車雇用樂團『製造』聲響，並發現聲音的情感連結關鍵在於『節奏』而非機械音色，顛覆了產品感官設計的既有思維。"
         }
       ]
     }
