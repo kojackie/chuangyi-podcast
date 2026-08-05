@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                <item>
+                                  <item>
+    <title>機器人維護AI機房？瑞士新創顛覆基礎設施管理</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得特別出乎意料的創新。我們常聽到AI跟機器人是未來的趨勢，但多數人可能會聯想到高端製造或智慧家居。  嗯，我猜啦，可能是那種很複雜的技術，離我們日常生活或中小企業比較遠的那種吧？像什麼機器人太空探測之類的。  其實不然。最近有一家叫做 Exclaim Robotics 的新創公司，他們剛獲得了 429 萬歐元的前期種子輪融資，但他們做的事情，你可能真的沒想到。  喔？是什麼？...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-05.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-05.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 05 Aug 2026 10:10:25 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-05</guid>
+  </item>
+  <item>
     <title>玩具破億銷量傳奇：一個點子如何打穿全球市場？</title>
     <description><![CDATA[嘿，今天要分享的案例，讓我覺得蠻有意思的。你有沒有想過，只靠一個簡單的玩具，竟然能賣出上億個？   上億個？這麼誇張？現在這個時代，不是都得靠什麼高科技、AI、元宇宙才能成功嗎？一個玩具怎麼可能做到？   其實我一開始也不太看好，但聽完故事會覺得好像沒那麼難想像。這個玩具叫做 Clickeez，長得像機械鍵盤的按鍵，重點是有「喀嚓」的按壓聲，就像那種紓壓小物。   喔，所以它就是一個進階版的指尖陀...
 
