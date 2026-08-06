@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "episodes": [
+    {
+      "date": "2026年8月6日",
+      "topics": [
+        {
+          "title": "They Gave an AI Bot a Storefront, 3 Employees and $100,000. Can It Build a Profitable Business?",
+          "keywords": [
+            "AI創業",
+            "商業自動化",
+            "實體零售",
+            "AI經營",
+            "無人化",
+            "商業模式反轉"
+          ],
+          "innovationPoint": "創新點：將價值10萬美元的資金、一個實體店面和三名員工交給AI Bot全權經營，這項實驗反常識地探討AI能否自主建立並營運一間盈利的實體事業，挑戰傳統創業與管理的定義。"
+        }
+      ]
+    },
     {
       "date": "2026年8月5日",
       "topics": [
@@ -205,22 +222,6 @@
             "商業模式反轉"
           ],
           "innovationPoint": "創新點：一家新加坡開發商反常識地選擇在澳洲偏遠內陸的瓦斯站，建立一個價值280億美元的離網AI數據中心，顛覆了高科技基礎設施必須靠近都會或傳統電網的思維。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月21日",
-      "topics": [
-        {
-          "title": "She Started a Niche Business in Her Basement with $10,000. Now It Does $113 Million in Sales: ‘Took Off Like a Rocket.’",
-          "keywords": [
-            "小資本創業",
-            "利基市場",
-            "快速成長",
-            "創業故事",
-            "營收破億"
-          ],
-          "innovationPoint": "創新點：一位創業者從地下室以僅1萬美元啟動利基型事業，在短時間內爆發成長至1.13億美元營收，證明精準市場定位與高效執行能創造巨大商業價值。"
         }
       ]
     }
