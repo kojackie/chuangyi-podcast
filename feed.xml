@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                  <item>
+                                    <item>
+    <title>給AI機器人10萬、開店面：它能自己賺錢嗎？</title>
+    <description><![CDATA[今天我們要聊一個很有意思的實驗。舊金山有一家叫 Andon Market 的實體店面，它不是由人類老闆經營，而是交給一個叫做 Luna 的 AI Bot 全權負責。   等等，妳說 AI Bot 全權經營？這怎麼可能？光是店面租約、進貨、員工管理，這些事情哪是 AI 處理得來的？而且他們還給了這間店十萬美元資金、一個實體店面跟三名員工，這成本不低耶。   其實這就是這個實驗出乎意料的地方。Ando...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-06.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-06.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 06 Aug 2026 10:11:08 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-06</guid>
+  </item>
+  <item>
     <title>機器人維護AI機房？瑞士新創顛覆基礎設施管理</title>
     <description><![CDATA[今天想跟大家聊一個我覺得特別出乎意料的創新。我們常聽到AI跟機器人是未來的趨勢，但多數人可能會聯想到高端製造或智慧家居。  嗯，我猜啦，可能是那種很複雜的技術，離我們日常生活或中小企業比較遠的那種吧？像什麼機器人太空探測之類的。  其實不然。最近有一家叫做 Exclaim Robotics 的新創公司，他們剛獲得了 429 萬歐元的前期種子輪融資，但他們做的事情，你可能真的沒想到。  喔？是什麼？...
 
