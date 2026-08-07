@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-08-07",
   "episodes": [
+    {
+      "date": "2026年8月7日",
+      "topics": [
+        {
+          "title": "The Business Training Fortune 500 Employees to Stay Safe at Work Makes Millions of Dollars for Its Unlikely Creator: ‘Sort of Magic’",
+          "keywords": [
+            "服務創新",
+            "B2B訓練",
+            "價值重塑",
+            "反常識成功",
+            "利基市場"
+          ],
+          "innovationPoint": "創新點：一位非傳統背景的創業者，將看似枯燥的安全訓練轉化為對財星500強企業深具吸引力的「魔術」服務，創造數百萬美元營收，顛覆傳統服務業價值。"
+        }
+      ]
+    },
     {
       "date": "2026年8月6日",
       "topics": [
@@ -206,22 +222,6 @@
             "效率提升"
           ],
           "innovationPoint": "創新點：AI反常識地讓影片遊戲開發團隊從多人縮減到一人，證明個人或小型團隊能透過AI槓桿，創造出以往只有大型企業才能實現的產品。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月22日",
-      "topics": [
-        {
-          "title": "A gas-rich outback station could host a $28bn off-grid AI data centre",
-          "keywords": [
-            "AI數據中心",
-            "離網供電",
-            "偏鄉資源利用",
-            "能源創新",
-            "商業模式反轉"
-          ],
-          "innovationPoint": "創新點：一家新加坡開發商反常識地選擇在澳洲偏遠內陸的瓦斯站，建立一個價值280億美元的離網AI數據中心，顛覆了高科技基礎設施必須靠近都會或傳統電網的思維。"
         }
       ]
     }
