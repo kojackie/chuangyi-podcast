@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "episodes": [
+    {
+      "date": "2026年8月8日",
+      "topics": [
+        {
+          "title": "Cambodia deep-water port cashes in on Thai border closure",
+          "keywords": [
+            "地緣政治",
+            "港口",
+            "物流",
+            "意外成功",
+            "危機轉機"
+          ],
+          "innovationPoint": "創新點：柬埔寨一處深水港口，反常識地從泰國邊境關閉中找到商機並獲利，證明即便是負面外部衝擊，也能透過地理優勢和策略眼光轉化為意外的商業成功。"
+        }
+      ]
+    },
     {
       "date": "2026年8月7日",
       "topics": [
@@ -206,22 +222,6 @@
             "需求挖掘"
           ],
           "innovationPoint": "創新點：兩位青少年從看似傳統的藍領服務「兼職」出發，反常識地在市場上挖掘被忽視的需求，並將其發展成年營收數百萬美元的服務事業，顛覆了傳統創業和藍領工作的既有想像。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月23日",
-      "topics": [
-        {
-          "title": "AI is shrinking video game development teams to one",
-          "keywords": [
-            "AI賦能",
-            "獨立開發者",
-            "遊戲產業",
-            "小型團隊",
-            "效率提升"
-          ],
-          "innovationPoint": "創新點：AI反常識地讓影片遊戲開發團隊從多人縮減到一人，證明個人或小型團隊能透過AI槓桿，創造出以往只有大型企業才能實現的產品。"
         }
       ]
     }
