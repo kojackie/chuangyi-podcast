@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "episodes": [
+    {
+      "date": "2026年8月9日",
+      "topics": [
+        {
+          "title": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
+          "keywords": [
+            "K-beauty",
+            "TSMC",
+            "代工模式",
+            "商業模式創新",
+            "跨產業借鑒"
+          ],
+          "innovationPoint": "創新點：韓國美妝產業（K-beauty）反常識地借鑒了半導體產業台積電的「晶圓代工模式」，透過專業分工與輕資產運營，實現快速創新、規模化生產並打入全球市場，顛覆傳統美妝品牌的經營邏輯。"
+        }
+      ]
+    },
     {
       "date": "2026年8月8日",
       "topics": [
@@ -206,22 +222,6 @@
             "低成本"
           ],
           "innovationPoint": "創新點：本文揭示如何運用 AI 工具，在「無需員工、無需程式碼」的極簡創業模式下，快速打造高價值商業服務並實現百萬美元營收，顛覆傳統創業的資源限制。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月24日",
-      "topics": [
-        {
-          "title": "2 Brothers Started a $1.2M Side Hustle as Teens. The Blue-Collar Business Made $3M Last Year: ‘Young People Are Looking for Different Career Paths.’",
-          "keywords": [
-            "藍領創業",
-            "服務業創新",
-            "青少年創業",
-            "小資本致富",
-            "需求挖掘"
-          ],
-          "innovationPoint": "創新點：兩位青少年從看似傳統的藍領服務「兼職」出發，反常識地在市場上挖掘被忽視的需求，並將其發展成年營收數百萬美元的服務事業，顛覆了傳統創業和藍領工作的既有想像。"
         }
       ]
     }
