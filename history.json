@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-10",
   "episodes": [
+    {
+      "date": "2026年8月10日",
+      "topics": [
+        {
+          "title": "The offline messaging apps challenging internet shutdowns",
+          "keywords": [
+            "離線通訊",
+            "網路斷線",
+            "危機商機",
+            "通訊韌性",
+            "反常識創新"
+          ],
+          "innovationPoint": "創新點：面對全球網際網路斷線風險，創新者反其道而行，開發離線通訊應用程式，將通訊限制轉化為全新商機，證明即使在最嚴苛的環境下也能維持連結。"
+        }
+      ]
+    },
     {
       "date": "2026年8月9日",
       "topics": [
@@ -206,22 +222,6 @@
             "個人助理"
           ],
           "innovationPoint": "創新點：專業人士開始利用 AI 工具「無聲無息」地記錄並分析所有對話，在對方不知情下提升效率，顛覆了傳統會議記錄與個人資訊管理的模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月25日",
-      "topics": [
-        {
-          "title": "AI Is Quietly Creating Millionaires — and Here’s Exactly How to Copy Them (No Staff, No Code)",
-          "keywords": [
-            "AI創業",
-            "無程式碼",
-            "無員工",
-            "個人槓桿",
-            "低成本"
-          ],
-          "innovationPoint": "創新點：本文揭示如何運用 AI 工具，在「無需員工、無需程式碼」的極簡創業模式下，快速打造高價值商業服務並實現百萬美元營收，顛覆傳統創業的資源限制。"
         }
       ]
     }
