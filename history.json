@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-10",
+  "lastUpdated": "2026-08-11",
   "episodes": [
+    {
+      "date": "2026年8月11日",
+      "topics": [
+        {
+          "title": "The renaissance of customer care",
+          "keywords": [
+            "客服再定義",
+            "AI賦能人",
+            "人機協作",
+            "服務業創新",
+            "反常識"
+          ],
+          "innovationPoint": "創新點：當所有人都預期AI將取代客服人員時，這股趨勢卻反其道而行，AI反而成為強化「人」在客服中扮演關鍵角色的重要工具，讓服務回歸人際連結的本質，開創服務業新價值。"
+        }
+      ]
+    },
     {
       "date": "2026年8月10日",
       "topics": [
@@ -206,22 +222,6 @@
             "健康成長"
           ],
           "innovationPoint": "創新點：Serbian-Hungarian InsurTech 新創 Ominimo 在短短兩年內達成獲利並晉升獨角獸，顛覆了科技新創燒錢擴張的常見模式，證明精準的商業模式與市場定位能實現快速且健康的成長。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月26日",
-      "topics": [
-        {
-          "title": "People are quietly recording every conversation they have with AI, and the person across the table has no idea",
-          "keywords": [
-            "AI應用",
-            "會議記錄",
-            "效率工具",
-            "隱私爭議",
-            "個人助理"
-          ],
-          "innovationPoint": "創新點：專業人士開始利用 AI 工具「無聲無息」地記錄並分析所有對話，在對方不知情下提升效率，顛覆了傳統會議記錄與個人資訊管理的模式。"
         }
       ]
     }
