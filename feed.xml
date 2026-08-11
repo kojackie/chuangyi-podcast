@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                            <item>
+                                              <item>
+    <title>AI不取代人！客服靠AI重拾「人情味」大翻身</title>
+    <description><![CDATA[欸，你還記得幾年前，大家都在說AI會取代客服人員這件事嗎？那時候幾乎所有人都這樣預測。   當然記得啊，那時候報紙、新聞都在講，客服業會是AI時代第一個消失的產業。我還真以為以後打客服都只能跟機器人講話了。   對吧！但今天的這個創新案例，來自 Nikkei Asia 的報導，卻直接告訴我們，這個預測錯得有多離譜。AI不只沒有讓客服消失，反而讓它「文藝復興」了！   文藝復興？這怎麼說？難道大家現...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-11.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 11 Aug 2026 10:11:10 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-11</guid>
+  </item>
+  <item>
     <title>斷網也能聊？離線通訊APP將危機變商機，打造抗災新模式</title>
     <description><![CDATA[今天想跟大家聊一個我覺得很有意思的案例。你可能沒想到，在網路這麼發達的現在，竟然會有人反其道而行，去開發一種「離線通訊」的應用程式。   離線通訊？現在還有這種東西嗎？大家不是都拚命追求更快更穩定的網路嗎？這做法聽起來有點出乎意料，感覺跟時代的潮流有點格格不入。   對，就是這種「格格不入」才讓我感到詫異。一般公司或個人，面對網路斷線，通常是想辦法解決斷線問題，或是尋找替代的線上方案。但他們卻是把...
 
