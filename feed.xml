@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                              <item>
+                                                <item>
+    <title>AI每天燒錢數億tokens，獵捕下一個獨角獸</title>
+    <description><![CDATA[：今天我們要聊一個很有意思的創投案例。你可能會覺得，創投不就是看人、看市場、看產品嗎？但這個 VC 的做法，跟我們想像的很不一樣。  ：怎麼說？難道他們不用看這些基本面了嗎？我猜啦，現在大家都說 AI，是不是又跟 AI 沾邊？  ：Bingo。這是 Activate AI 的共同創辦人 Pratyush Choudhury。他們這個基金規模是 7500 萬美元，專注在 AI 領域。最讓我詫異的是，...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-12.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 12 Aug 2026 10:10:34 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-12</guid>
+  </item>
+  <item>
     <title>AI不取代人！客服靠AI重拾「人情味」大翻身</title>
     <description><![CDATA[欸，你還記得幾年前，大家都在說AI會取代客服人員這件事嗎？那時候幾乎所有人都這樣預測。   當然記得啊，那時候報紙、新聞都在講，客服業會是AI時代第一個消失的產業。我還真以為以後打客服都只能跟機器人講話了。   對吧！但今天的這個創新案例，來自 Nikkei Asia 的報導，卻直接告訴我們，這個預測錯得有多離譜。AI不只沒有讓客服消失，反而讓它「文藝復興」了！   文藝復興？這怎麼說？難道大家現...
 
