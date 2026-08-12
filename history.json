@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "episodes": [
+    {
+      "date": "2026年8月12日",
+      "topics": [
+        {
+          "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+          "keywords": [
+            "VC",
+            "AI應用",
+            "數據分析",
+            "投資策略",
+            "效率提升"
+          ],
+          "innovationPoint": "創新點：一位VC透過每天燃燒數億個AI tokens，將傳統仰賴人脈與直覺的創投模式，轉變為由AI驅動的數據密集型「獨角獸狩獵」系統，大幅提升潛力標的篩選效率與規模。"
+        }
+      ]
+    },
     {
       "date": "2026年8月11日",
       "topics": [
@@ -206,22 +222,6 @@
             "零工經濟"
           ],
           "innovationPoint": "創新點：中國興起新商業模式，讓個人將自己的臉部肖像權出租給AI用於生成內容，開啟了數位身份變現與新型零工經濟的可能。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月27日",
-      "topics": [
-        {
-          "title": "Profitable Serbian-Hungarian InsurTech Ominimo hits unicorn status two years after launch",
-          "keywords": [
-            "InsurTech",
-            "快速獲利",
-            "獨角獸",
-            "商業模式創新",
-            "健康成長"
-          ],
-          "innovationPoint": "創新點：Serbian-Hungarian InsurTech 新創 Ominimo 在短短兩年內達成獲利並晉升獨角獸，顛覆了科技新創燒錢擴張的常見模式，證明精準的商業模式與市場定位能實現快速且健康的成長。"
         }
       ]
     }
