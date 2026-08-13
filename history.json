@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "episodes": [
+    {
+      "date": "2026年8月13日",
+      "topics": [
+        {
+          "title": "I Dropped Out of Harvard to Build a $2.5 Billion, AI-Powered Company That Paints a Real Picture of Your Health — Including Biological Age",
+          "keywords": [
+            "AI健康管理",
+            "生物年齡",
+            "個人化醫療",
+            "哈佛輟學",
+            "新創獨角獸"
+          ],
+          "innovationPoint": "創新點：一位哈佛輟學生反常識地捨棄傳統學術路徑，創立一家AI公司，透過分析多維度健康數據提供「生物年齡」等精準個人化健康洞察，開創市值達25億美元的新型預防醫學與健康管理商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年8月12日",
       "topics": [
@@ -206,22 +222,6 @@
             "亞洲創新"
           ],
           "innovationPoint": "創新點：印度電動車製造商反常識地在能源效率上超越特斯拉和比亞迪等電動車巨頭，證明專注於特定優勢並深耕利基市場，小公司也能在全球競爭中脫穎而出。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月28日",
-      "topics": [
-        {
-          "title": "In China, people are renting out their faces to AI",
-          "keywords": [
-            "數位身份",
-            "AI生成內容",
-            "新興商業模式",
-            "個人數據變現",
-            "零工經濟"
-          ],
-          "innovationPoint": "創新點：中國興起新商業模式，讓個人將自己的臉部肖像權出租給AI用於生成內容，開啟了數位身份變現與新型零工經濟的可能。"
         }
       ]
     }
