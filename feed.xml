@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                <item>
+                                                  <item>
+    <title>哈佛輟學生用AI測「生物年齡」，打造25億健康帝國</title>
+    <description><![CDATA[你知道嗎？今天看到一個案例，讓我覺得蠻有意思的，是關於一家叫 Function 的公司。他們的共同創辦人 Pranitha Patil，本來在哈佛讀書，結果為了這間公司輟學了。   輟學？哈佛欸，這出乎意料了。通常大家聽到哈佛，都覺得是為了學歷或名聲努力，怎麼會為了創業就放棄？這家公司到底在做什麼，讓她這麼有信心？   就是因為他們的模式很不一樣。這家公司提供一種會員制的健康管理服務，不只做一般的...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-13.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-13.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 13 Aug 2026 10:10:46 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-13</guid>
+  </item>
+  <item>
     <title>AI每天燒錢數億tokens，獵捕下一個獨角獸</title>
     <description><![CDATA[：今天我們要聊一個很有意思的創投案例。你可能會覺得，創投不就是看人、看市場、看產品嗎？但這個 VC 的做法，跟我們想像的很不一樣。  ：怎麼說？難道他們不用看這些基本面了嗎？我猜啦，現在大家都說 AI，是不是又跟 AI 沾邊？  ：Bingo。這是 Activate AI 的共同創辦人 Pratyush Choudhury。他們這個基金規模是 7500 萬美元，專注在 AI 領域。最讓我詫異的是，...
 
