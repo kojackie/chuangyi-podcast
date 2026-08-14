@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "episodes": [
+    {
+      "date": "2026年8月14日",
+      "topics": [
+        {
+          "title": "This Former Google Employee Created an ‘AI’ Chatbot That Lets You Speak to An Actual Human",
+          "keywords": [
+            "反AI趨勢",
+            "人際互動",
+            "服務創新",
+            "體驗經濟",
+            "Google前員工"
+          ],
+          "innovationPoint": "創新點：一位前Google員工反常識地推出一款看似「AI聊天機器人」，實則是由真人應答的服務，顛覆了AI至上的市場趨勢，突顯了在高度自動化時代中，人類真實互動的獨特價值與商業潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年8月13日",
       "topics": [
@@ -206,22 +222,6 @@
             "企業復甦"
           ],
           "innovationPoint": "創新點：一家苦苦掙扎的餐飲連鎖店，反常識地回歸「基本功」而非追逐潮流，在四年內股價飆漲500%，證明專注核心價值才是長期成長的關鍵。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月29日",
-      "topics": [
-        {
-          "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
-          "keywords": [
-            "電動車",
-            "能源效率",
-            "利基市場",
-            "競爭策略",
-            "亞洲創新"
-          ],
-          "innovationPoint": "創新點：印度電動車製造商反常識地在能源效率上超越特斯拉和比亞迪等電動車巨頭，證明專注於特定優勢並深耕利基市場，小公司也能在全球競爭中脫穎而出。"
         }
       ]
     }
