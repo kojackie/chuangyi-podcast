@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                  <item>
+                                                    <item>
+    <title>AI假象？聊天機器人背後竟是真人，服務業逆向創新！</title>
+    <description><![CDATA[我最近看到一個新聞，說一位前Google的經理人，叫Tucker Bryant，他做了一個「AI聊天機器人」叫ChatTJB。結果這個機器人啊，裡面根本不是AI，全部都是真人來回覆。   欸等等，你說什麼？真人回覆？現在大家都在瘋AI，他這樣做不會太奇怪了嗎？而且他之前還是Google的經理人，應該更懂AI吧？   沒錯，這點就是最出乎意料的地方。他原本在四月啟動這個專案時，就是自己手動回覆所有查...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-14.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-14.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 14 Aug 2026 10:11:09 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-14</guid>
+  </item>
+  <item>
     <title>哈佛輟學生用AI測「生物年齡」，打造25億健康帝國</title>
     <description><![CDATA[你知道嗎？今天看到一個案例，讓我覺得蠻有意思的，是關於一家叫 Function 的公司。他們的共同創辦人 Pranitha Patil，本來在哈佛讀書，結果為了這間公司輟學了。   輟學？哈佛欸，這出乎意料了。通常大家聽到哈佛，都覺得是為了學歷或名聲努力，怎麼會為了創業就放棄？這家公司到底在做什麼，讓她這麼有信心？   就是因為他們的模式很不一樣。這家公司提供一種會員制的健康管理服務，不只做一般的...
 
