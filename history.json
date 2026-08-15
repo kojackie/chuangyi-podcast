@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "episodes": [
+    {
+      "date": "2026年8月15日",
+      "topics": [
+        {
+          "title": "The online shopping trend where you buy nothing",
+          "keywords": [
+            "純瀏覽購物",
+            "零消費",
+            "消費心理",
+            "體驗經濟",
+            "韓國"
+          ],
+          "innovationPoint": "創新點：韓國出現反常識的「純瀏覽購物」趨勢，消費者在「dopamine sites」上享受策展、追蹤的購物樂趣，卻不追求實際擁有商品，顛覆了傳統電商「購買與交付」的核心邏輯。"
+        }
+      ]
+    },
     {
       "date": "2026年8月14日",
       "topics": [
@@ -206,22 +222,6 @@
             "起死回生"
           ],
           "innovationPoint": "創新點：小型公司 Zanskar 反常識地收購一座「快速衰敗中」的地熱發電廠，並透過新技術讓其恢復滿載運轉，證明老舊或看似無用的傳統產業資產，能透過創新思維與技術獲得第二次生命。"
-        }
-      ]
-    },
-    {
-      "date": "2026年7月30日",
-      "topics": [
-        {
-          "title": "This Struggling Restaurant Chain Went Back to the Basics. Now Its Stock Is Up 500% in 4 Years: ‘Nothing Short of Remarkable’",
-          "keywords": [
-            "餐飲業",
-            "轉型成功",
-            "回歸基本",
-            "股票增長",
-            "企業復甦"
-          ],
-          "innovationPoint": "創新點：一家苦苦掙扎的餐飲連鎖店，反常識地回歸「基本功」而非追逐潮流，在四年內股價飆漲500%，證明專注核心價值才是長期成長的關鍵。"
         }
       ]
     }
