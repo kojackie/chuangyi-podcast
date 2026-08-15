@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                    <item>
+                                                      <item>
+    <title>顛覆購物！韓國新趨勢：只瀏覽不買，也能創造數億商機？</title>
+    <description><![CDATA[我今天看到一個案例，真的讓我很意外，感覺跟我們一般理解的消費行為完全不同。  怎麼說？是哪方面的創新？現在的創新很多，但有時候感覺只是換個包裝。   韓國出現一種「純瀏覽購物」的網站，原文叫「dopamine sites」。這些網站就是讓你上去逛街、選商品、加到購物車、填地址、下訂單，甚至可以追蹤物流。  等等，這裡我有疑問。既然能下訂單、追蹤物流，那不就是正常的網購嗎？   差別就在於，你不會真...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-15.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-15.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 15 Aug 2026 10:10:39 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-15</guid>
+  </item>
+  <item>
     <title>AI假象？聊天機器人背後竟是真人，服務業逆向創新！</title>
     <description><![CDATA[我最近看到一個新聞，說一位前Google的經理人，叫Tucker Bryant，他做了一個「AI聊天機器人」叫ChatTJB。結果這個機器人啊，裡面根本不是AI，全部都是真人來回覆。   欸等等，你說什麼？真人回覆？現在大家都在瘋AI，他這樣做不會太奇怪了嗎？而且他之前還是Google的經理人，應該更懂AI吧？   沒錯，這點就是最出乎意料的地方。他原本在四月啟動這個專案時，就是自己手動回覆所有查...
 
