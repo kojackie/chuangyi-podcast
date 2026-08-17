@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                        <item>
+                                                          <item>
+    <title>混凝土MRI：挪威新創如何用高科技為老舊基建「看診」？</title>
+    <description><![CDATA[唉，你知道嗎？最近看到一個挪威的新創公司，叫做 Birdsview，他們做的事情真的讓我覺得，傳統產業好像也沒那麼傳統了。   嗯？怎麼說？像營造業、土木工程這種，我聽起來就很「硬」，很難有什麼新花樣吧？該不會又是什麼數位轉型、AI 應用這種老生常談？   不，這次不一樣。他們把醫療領域的「MRI」概念，直接搬到混凝土檢查上。你可能沒想到吧，掃描人體的那套，現在可以用來檢查橋梁、建築物這種基礎設施...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-17.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-17.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 17 Aug 2026 10:10:17 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-17</guid>
+  </item>
+  <item>
     <title>辦桌也能變國際實境秀？三立如何化身「文化加速器」</title>
     <description><![CDATA[唉，你知道嗎？我最近看到一則新聞，關於三立電視台把台灣的「辦桌」文化變成實境秀，叫做《請世界吃桌》。你知道嗎，這節目在社群上的瀏覽量已經破億了耶，每週還有百萬點閱。   辦桌喔？台灣的辦桌文化，老實說，光聽起來就覺得很在地，但要怎麼變成國際化的實境秀？這點其實讓我蠻懷疑的。電視台不是都在努力跟國際OTT平台競爭嗎，怎麼會去碰這種感覺有點「土」的題材？   這就是它出乎意料的地方啊！原文裡提到，三立...
 
