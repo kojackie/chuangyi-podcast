@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-19",
   "episodes": [
+    {
+      "date": "2026年8月19日",
+      "topics": [
+        {
+          "title": "What makes a business work? This Swedish scale-up has put €4.5 million behind finding out",
+          "keywords": [
+            "策略投資",
+            "知識經濟",
+            "產業研究",
+            "長期主義",
+            "商業模式創新"
+          ],
+          "innovationPoint": "創新點：瑞典軟體公司Fortnox反常識地投入450萬歐元與商學院合作進行長達十年的研究，探討企業成功的底層邏輯，顛覆傳統R&D僅專注產品開發的思維，轉而投資於整個產業的知識基礎與長期競爭力。"
+        }
+      ]
+    },
     {
       "date": "2026年8月17日",
       "topics": [
@@ -206,22 +222,6 @@
             "自動化"
           ],
           "innovationPoint": "創新點：Exclaim Robotics反常識地將機器人技術應用於AI數據中心的日常維護與維修，透過自動化解決高科技基礎設施的痛點，證明AI與機器人能深入傳統勞務型工作，實現效率突破與成本節省。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月4日",
-      "topics": [
-        {
-          "title": "He Created a Toy That ‘Took on a Life of Its Own’. Now He’s on Track to Sell 100 Million of Them.",
-          "keywords": [
-            "爆款商品",
-            "單品突破",
-            "個人創業",
-            "市場洞察",
-            "病毒式傳播"
-          ],
-          "innovationPoint": "創新點：一位創業者僅憑一個簡單的玩具產品，在短時間內就達成了驚人的破億銷量，成功打穿全球市場，證明不需複雜科技或龐大資本，單一爆款商品也能創造巨大商業價值。"
         }
       ]
     }
