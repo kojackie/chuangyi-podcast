@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                          <item>
+                                                            <item>
+    <title>花巨資研究「成功祕訣」？瑞典企業的反常識投資術</title>
+    <description><![CDATA[欸，你聽說了嗎？瑞典有一家做商業軟體的公司叫 Fortnox，他們竟然花了 450 萬歐元，跟一間商學院合作，要研究「到底什麼才能讓公司成功」。   450 萬歐元？而且是「研究成功」？這個數字聽起來有點…出乎意料耶。一般公司砸錢不是都拿去產品開發、市場行銷嗎？這擺明是把錢丟進一個沒什麼直接效益的黑洞啊。   我一開始也覺得有點怪，你說得沒錯，通常研發就是為了新產品。但他們這次是跟斯德哥爾摩經濟學...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-19.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-19.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 19 Aug 2026 10:10:54 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-19</guid>
+  </item>
+  <item>
     <title>混凝土MRI：挪威新創如何用高科技為老舊基建「看診」？</title>
     <description><![CDATA[唉，你知道嗎？最近看到一個挪威的新創公司，叫做 Birdsview，他們做的事情真的讓我覺得，傳統產業好像也沒那麼傳統了。   嗯？怎麼說？像營造業、土木工程這種，我聽起來就很「硬」，很難有什麼新花樣吧？該不會又是什麼數位轉型、AI 應用這種老生常談？   不，這次不一樣。他們把醫療領域的「MRI」概念，直接搬到混凝土檢查上。你可能沒想到吧，掃描人體的那套，現在可以用來檢查橋梁、建築物這種基礎設施...
 
