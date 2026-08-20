@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "episodes": [
+    {
+      "date": "2026年8月20日",
+      "topics": [
+        {
+          "title": "Vietnam's TMT Motors to roll out one of country's cheapest EVs at $5,650",
+          "keywords": [
+            "電動車",
+            "成本領先",
+            "市場策略",
+            "新興市場",
+            "顛覆價格"
+          ],
+          "innovationPoint": "創新點：越南TMT Motors反常識地在電動車市場中採取極致成本領先策略，推出價格僅5,650美元的EV，打破「電動車必昂貴」的傳統認知，透過價格優勢搶佔新興市場。"
+        }
+      ]
+    },
     {
       "date": "2026年8月19日",
       "topics": [
@@ -207,21 +223,6 @@
             "商業模式反轉"
           ],
           "innovationPoint": "創新點：將價值10萬美元的資金、一個實體店面和三名員工交給AI Bot全權經營，這項實驗反常識地探討AI能否自主建立並營運一間盈利的實體事業，挑戰傳統創業與管理的定義。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月5日",
-      "topics": [
-        {
-          "title": "Zürich-based Exclaim Robotics exits stealth with €4.29 million to build robots for AI data centre maintenance",
-          "keywords": [
-            "AI數據中心",
-            "機器人維護",
-            "傳統勞務創新",
-            "自動化"
-          ],
-          "innovationPoint": "創新點：Exclaim Robotics反常識地將機器人技術應用於AI數據中心的日常維護與維修，透過自動化解決高科技基礎設施的痛點，證明AI與機器人能深入傳統勞務型工作，實現效率突破與成本節省。"
         }
       ]
     }
