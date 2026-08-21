@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-20",
+  "lastUpdated": "2026-08-21",
   "episodes": [
+    {
+      "date": "2026年8月21日",
+      "topics": [
+        {
+          "title": "2 Sisters Started a Business That Soothes Babies. It Went Viral and Made $5.3 Million Last Year: ‘Living the American Dream.’",
+          "keywords": [
+            "爆款商品",
+            "病毒式行銷",
+            "創業成功",
+            "小眾市場",
+            "服務設計"
+          ],
+          "innovationPoint": "創新點：兩姊妹將看似尋常的「安撫嬰兒」需求，轉化為一門年營收達530萬美元的爆紅生意，透過獨特產品與成功的病毒式行銷，將小眾生活痛點打造成規模化商機。"
+        }
+      ]
+    },
     {
       "date": "2026年8月20日",
       "topics": [
@@ -206,23 +222,6 @@
             "利基市場"
           ],
           "innovationPoint": "創新點：一位非傳統背景的創業者，將看似枯燥的安全訓練轉化為對財星500強企業深具吸引力的「魔術」服務，創造數百萬美元營收，顛覆傳統服務業價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月6日",
-      "topics": [
-        {
-          "title": "They Gave an AI Bot a Storefront, 3 Employees and $100,000. Can It Build a Profitable Business?",
-          "keywords": [
-            "AI創業",
-            "商業自動化",
-            "實體零售",
-            "AI經營",
-            "無人化",
-            "商業模式反轉"
-          ],
-          "innovationPoint": "創新點：將價值10萬美元的資金、一個實體店面和三名員工交給AI Bot全權經營，這項實驗反常識地探討AI能否自主建立並營運一間盈利的實體事業，挑戰傳統創業與管理的定義。"
         }
       ]
     }
