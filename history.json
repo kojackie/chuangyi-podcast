@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-21",
+  "lastUpdated": "2026-08-22",
   "episodes": [
+    {
+      "date": "2026年8月22日",
+      "topics": [
+        {
+          "title": "A dumpling shop becomes a poster child of AI adoption in China",
+          "keywords": [
+            "餃子店",
+            "AI應用",
+            "餐飲業",
+            "傳統產業轉型",
+            "效率提升"
+          ],
+          "innovationPoint": "創新點：一家傳統餃子店反常識地運用AI技術，成為中國AI落地的典範，證明即使是小規模餐飲業也能透過科技實現效率革新與顧客體驗升級。"
+        }
+      ]
+    },
     {
       "date": "2026年8月21日",
       "topics": [
@@ -206,22 +222,6 @@
             "危機轉機"
           ],
           "innovationPoint": "創新點：柬埔寨一處深水港口，反常識地從泰國邊境關閉中找到商機並獲利，證明即便是負面外部衝擊，也能透過地理優勢和策略眼光轉化為意外的商業成功。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月7日",
-      "topics": [
-        {
-          "title": "The Business Training Fortune 500 Employees to Stay Safe at Work Makes Millions of Dollars for Its Unlikely Creator: ‘Sort of Magic’",
-          "keywords": [
-            "服務創新",
-            "B2B訓練",
-            "價值重塑",
-            "反常識成功",
-            "利基市場"
-          ],
-          "innovationPoint": "創新點：一位非傳統背景的創業者，將看似枯燥的安全訓練轉化為對財星500強企業深具吸引力的「魔術」服務，創造數百萬美元營收，顛覆傳統服務業價值。"
         }
       ]
     }
