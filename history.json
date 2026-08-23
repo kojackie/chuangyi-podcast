@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-22",
+  "lastUpdated": "2026-08-23",
   "episodes": [
+    {
+      "date": "2026年8月23日",
+      "topics": [
+        {
+          "title": "UK-based HexSeed raises over €700k to cool AI data centres with its with diamond coating technology",
+          "keywords": [
+            "碳捕獲",
+            "循環經濟",
+            "超材料",
+            "數據中心散熱",
+            "跨領域創新"
+          ],
+          "innovationPoint": "英國新創HexSeed反常識地將碳捕獲的廢棄物轉化為高價值的鑽石塗層超材料，並巧妙應用於AI數據中心的散熱，實現循環經濟與高科技產業的雙重突破。"
+        }
+      ]
+    },
     {
       "date": "2026年8月22日",
       "topics": [
@@ -206,22 +222,6 @@
             "跨產業借鑒"
           ],
           "innovationPoint": "創新點：韓國美妝產業（K-beauty）反常識地借鑒了半導體產業台積電的「晶圓代工模式」，透過專業分工與輕資產運營，實現快速創新、規模化生產並打入全球市場，顛覆傳統美妝品牌的經營邏輯。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月8日",
-      "topics": [
-        {
-          "title": "Cambodia deep-water port cashes in on Thai border closure",
-          "keywords": [
-            "地緣政治",
-            "港口",
-            "物流",
-            "意外成功",
-            "危機轉機"
-          ],
-          "innovationPoint": "創新點：柬埔寨一處深水港口，反常識地從泰國邊境關閉中找到商機並獲利，證明即便是負面外部衝擊，也能透過地理優勢和策略眼光轉化為意外的商業成功。"
         }
       ]
     }
