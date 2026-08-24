@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-23",
+  "lastUpdated": "2026-08-24",
   "episodes": [
+    {
+      "date": "2026年8月24日",
+      "topics": [
+        {
+          "title": "Stockholm-based Eyedentity secures €1.3 million to detect deadly eye cancer earlier with AI",
+          "keywords": [
+            "AI醫療",
+            "服務模式創新",
+            "診斷普及",
+            "傳統產業轉型",
+            "醫療科技"
+          ],
+          "innovationPoint": "創新點：Eyedentity公司運用AI技術，將致命眼癌的早期檢測服務從專業醫院擴展至一般眼鏡行與眼科診所，透過「診斷民主化」反轉傳統醫療服務模式，大幅提升普及性與早期發現的機會。"
+        }
+      ]
+    },
     {
       "date": "2026年8月23日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識創新"
           ],
           "innovationPoint": "創新點：面對全球網際網路斷線風險，創新者反其道而行，開發離線通訊應用程式，將通訊限制轉化為全新商機，證明即使在最嚴苛的環境下也能維持連結。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月9日",
-      "topics": [
-        {
-          "title": "K-beauty's rise mirrors TSMC contract manufacturing playbook",
-          "keywords": [
-            "K-beauty",
-            "TSMC",
-            "代工模式",
-            "商業模式創新",
-            "跨產業借鑒"
-          ],
-          "innovationPoint": "創新點：韓國美妝產業（K-beauty）反常識地借鑒了半導體產業台積電的「晶圓代工模式」，透過專業分工與輕資產運營，實現快速創新、規模化生產並打入全球市場，顛覆傳統美妝品牌的經營邏輯。"
         }
       ]
     }
