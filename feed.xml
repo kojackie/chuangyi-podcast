@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                      <item>
+                                                                        <item>
+    <title>放棄拓市場深挖數據：藍海藏在顧客名單中</title>
+    <description><![CDATA[今天要聊一個很有意思的案例。一家巴西公司 Builderall 找來一位新 CEO，任務很明確，就是要他去「攻佔」美國市場。結果這位 CEO 接了任務，卻反手就把這個任務「拒絕」了。   拒絕了？這還真是出乎意料。一般公司高層，特別是新上任的，不是都想著開疆闢土，往外擴張嗎？怎麼會有人把這麼大的市場機會往外推？   對啊，這就是最有趣的地方。他不是隨口說說，他是深入研究了公司的數據，發現真正的機會...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-25.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-25.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 25 Aug 2026 10:10:53 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-25</guid>
+  </item>
+  <item>
     <title>AI眼癌檢測下放眼鏡行：高階醫療普惠化，全民預防新商機</title>
     <description><![CDATA[今天這個案例，我看到的時候，第一個想法是：這樣真的行得通嗎？把原本在醫院才能做的眼癌篩檢，直接搬到一般眼鏡行，聽起來有點出乎意料。   嗯，你說到點子上了。我其實也蠻好奇，這種高精度的醫療診斷，下放到這麼普及的地方，診斷品質怎麼確保？會不會出錯？畢竟是眼睛，很重要的。   不過 Eyedentity 這家公司還真的做到了。他們最近剛完成了一輪 130 萬歐元的募資，就是為了把這個 AI 輔助的診斷...
 
