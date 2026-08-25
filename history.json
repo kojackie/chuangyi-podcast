@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-24",
+  "lastUpdated": "2026-08-25",
   "episodes": [
+    {
+      "date": "2026年8月25日",
+      "topics": [
+        {
+          "title": "I Was Hired to Crack the U.S. Market. I Turned Down the Mission — and Doubled Down on the Market Hiding in Our Data",
+          "keywords": [
+            "數據洞察",
+            "市場策略",
+            "內部挖掘",
+            "反向思維",
+            "策略轉型"
+          ],
+          "innovationPoint": "創新點：一位高階主管反常識地拒絕了「開拓美國市場」的任務，轉而深挖公司內部數據，從現有客戶資料中發現未被滿足的市場潛力，顛覆了傳統「向外擴張」的成長思維，證明真正的藍海可能藏在眼前。"
+        }
+      ]
+    },
     {
       "date": "2026年8月24日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識"
           ],
           "innovationPoint": "創新點：當所有人都預期AI將取代客服人員時，這股趨勢卻反其道而行，AI反而成為強化「人」在客服中扮演關鍵角色的重要工具，讓服務回歸人際連結的本質，開創服務業新價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月10日",
-      "topics": [
-        {
-          "title": "The offline messaging apps challenging internet shutdowns",
-          "keywords": [
-            "離線通訊",
-            "網路斷線",
-            "危機商機",
-            "通訊韌性",
-            "反常識創新"
-          ],
-          "innovationPoint": "創新點：面對全球網際網路斷線風險，創新者反其道而行，開發離線通訊應用程式，將通訊限制轉化為全新商機，證明即使在最嚴苛的環境下也能維持連結。"
         }
       ]
     }
