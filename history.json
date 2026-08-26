@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "episodes": [
+    {
+      "date": "2026年8月26日",
+      "topics": [
+        {
+          "title": "“Europe is aging rapidly”: Solace Care raises €2.1 million in largest pre-Seed round to date for a European end-of-life platform",
+          "keywords": [
+            "服務設計",
+            "高齡化社會",
+            "平台經濟",
+            "生命終點服務",
+            "數位轉型"
+          ],
+          "innovationPoint": "創新點：Solace Care將傳統、高度個人化的「生命終點服務」反常識地平台化與科技化，並獲得巨額早期投資，證明即使是社會敏感議題，也能透過服務流程再設計與數位化，提升普及性與效率。"
+        }
+      ]
+    },
     {
       "date": "2026年8月25日",
       "topics": [
@@ -206,22 +222,6 @@
             "效率提升"
           ],
           "innovationPoint": "創新點：一位VC透過每天燃燒數億個AI tokens，將傳統仰賴人脈與直覺的創投模式，轉變為由AI驅動的數據密集型「獨角獸狩獵」系統，大幅提升潛力標的篩選效率與規模。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月11日",
-      "topics": [
-        {
-          "title": "The renaissance of customer care",
-          "keywords": [
-            "客服再定義",
-            "AI賦能人",
-            "人機協作",
-            "服務業創新",
-            "反常識"
-          ],
-          "innovationPoint": "創新點：當所有人都預期AI將取代客服人員時，這股趨勢卻反其道而行，AI反而成為強化「人」在客服中扮演關鍵角色的重要工具，讓服務回歸人際連結的本質，開創服務業新價值。"
         }
       ]
     }
