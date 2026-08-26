@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                        <item>
+                                                                          <item>
+    <title>生命終點服務也能平台化！科技如何暖心解決高齡化社會痛點？</title>
+    <description><![CDATA[欸，你聽過「生命終點服務」平台化跟科技化嗎？我今天看到一個歐洲的創新案例，叫 Solace Care，他們居然在 pre-Seed 輪就募到了 210 萬歐元。  210 萬歐元？這麼敏感又個人化的服務，用平台的方式做，還能拿到這麼多錢，這點我有點懷疑。大家通常不會想把這些事公開吧？  對啊，這就是它讓人詫異的地方。一般人對於臨終規劃或親人過世後的安排，都會覺得是私密且莊重的事情，怎麼會想到用科技...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 26 Aug 2026 10:11:37 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-26</guid>
+  </item>
+  <item>
     <title>放棄拓市場深挖數據：藍海藏在顧客名單中</title>
     <description><![CDATA[今天要聊一個很有意思的案例。一家巴西公司 Builderall 找來一位新 CEO，任務很明確，就是要他去「攻佔」美國市場。結果這位 CEO 接了任務，卻反手就把這個任務「拒絕」了。   拒絕了？這還真是出乎意料。一般公司高層，特別是新上任的，不是都想著開疆闢土，往外擴張嗎？怎麼會有人把這麼大的市場機會往外推？   對啊，這就是最有趣的地方。他不是隨口說說，他是深入研究了公司的數據，發現真正的機會...
 
