@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                          <item>
+                                                                            <item>
+    <title>厭倦毒染料？她用生物科技為紡織業「染色」新未來！</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得很有意思的案例，就是 Vienna Textile Lab，他們在做微生物染料。最讓我詫異的是，他們創辦人 Karin Fleck 其實有十年在石油和能源產業的經驗，後來卻轉去做紡織染料，這跨度真的蠻大的。   等等，石油能源跟紡織染料，這聽起來八竿子打不著啊。一般人會想，石油能源的利潤和規模通常更大吧？為什麼會想轉到一個聽起來可能沒那麼「大」的產業？而且還是在做一個可能大...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 27 Aug 2026 10:10:54 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-27</guid>
+  </item>
+  <item>
     <title>生命終點服務也能平台化！科技如何暖心解決高齡化社會痛點？</title>
     <description><![CDATA[欸，你聽過「生命終點服務」平台化跟科技化嗎？我今天看到一個歐洲的創新案例，叫 Solace Care，他們居然在 pre-Seed 輪就募到了 210 萬歐元。  210 萬歐元？這麼敏感又個人化的服務，用平台的方式做，還能拿到這麼多錢，這點我有點懷疑。大家通常不會想把這些事公開吧？  對啊，這就是它讓人詫異的地方。一般人對於臨終規劃或親人過世後的安排，都會覺得是私密且莊重的事情，怎麼會想到用科技...
 
