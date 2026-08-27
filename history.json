@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "episodes": [
+    {
+      "date": "2026年8月27日",
+      "topics": [
+        {
+          "title": "The EU-Startups Podcast | Interview with Karin Fleck, CEO and founder of Vienna Textile Lab",
+          "keywords": [
+            "生物科技",
+            "紡織業",
+            "永續發展",
+            "循環經濟",
+            "傳統產業轉型"
+          ],
+          "innovationPoint": "創新點：Vienna Textile Lab反常識地運用生物科技，開發出環保無毒的微生物染料，顛覆了傳統紡織業高污染的化學染色模式，為永續發展開闢新的商業可能。"
+        }
+      ]
+    },
     {
       "date": "2026年8月26日",
       "topics": [
@@ -206,22 +222,6 @@
             "新創獨角獸"
           ],
           "innovationPoint": "創新點：一位哈佛輟學生反常識地捨棄傳統學術路徑，創立一家AI公司，透過分析多維度健康數據提供「生物年齡」等精準個人化健康洞察，開創市值達25億美元的新型預防醫學與健康管理商業模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月12日",
-      "topics": [
-        {
-          "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
-          "keywords": [
-            "VC",
-            "AI應用",
-            "數據分析",
-            "投資策略",
-            "效率提升"
-          ],
-          "innovationPoint": "創新點：一位VC透過每天燃燒數億個AI tokens，將傳統仰賴人脈與直覺的創投模式，轉變為由AI驅動的數據密集型「獨角獸狩獵」系統，大幅提升潛力標的篩選效率與規模。"
         }
       ]
     }
