@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "episodes": [
+    {
+      "date": "2026年8月28日",
+      "topics": [
+        {
+          "title": "Berlin-based Nanolope secures €800k to turn building surfaces into thermal energy storage systems",
+          "keywords": [
+            "建築能源",
+            "熱能儲存",
+            "永續建材",
+            "DeepTech",
+            "傳統產業轉型"
+          ],
+          "innovationPoint": "創新點：德國新創Nanolope反常識地將建築外牆轉化為高效的熱能儲存系統，透過創新的材料技術，實現建築自身的能源管理，顛覆傳統節能方式。"
+        }
+      ]
+    },
     {
       "date": "2026年8月27日",
       "topics": [
@@ -206,22 +222,6 @@
             "Google前員工"
           ],
           "innovationPoint": "創新點：一位前Google員工反常識地推出一款看似「AI聊天機器人」，實則是由真人應答的服務，顛覆了AI至上的市場趨勢，突顯了在高度自動化時代中，人類真實互動的獨特價值與商業潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月13日",
-      "topics": [
-        {
-          "title": "I Dropped Out of Harvard to Build a $2.5 Billion, AI-Powered Company That Paints a Real Picture of Your Health — Including Biological Age",
-          "keywords": [
-            "AI健康管理",
-            "生物年齡",
-            "個人化醫療",
-            "哈佛輟學",
-            "新創獨角獸"
-          ],
-          "innovationPoint": "創新點：一位哈佛輟學生反常識地捨棄傳統學術路徑，創立一家AI公司，透過分析多維度健康數據提供「生物年齡」等精準個人化健康洞察，開創市值達25億美元的新型預防醫學與健康管理商業模式。"
         }
       ]
     }
