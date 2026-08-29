@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-28",
+  "lastUpdated": "2026-08-29",
   "episodes": [
+    {
+      "date": "2026年8月29日",
+      "topics": [
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "keywords": [
+            "虛擬電廠",
+            "分散式能源",
+            "商業模式反轉",
+            "能源聚合",
+            "智慧電網"
+          ],
+          "innovationPoint": "創新點：這項能源創新反常識地將家庭電器、電動車和儲能系統聚合起來，形成一個分散式的「虛擬電廠」，顛覆了傳統集中式發電模式，讓家戶從能源消費者轉變為貢獻者。"
+        }
+      ]
+    },
     {
       "date": "2026年8月28日",
       "topics": [
@@ -206,22 +222,6 @@
             "韓國"
           ],
           "innovationPoint": "創新點：韓國出現反常識的「純瀏覽購物」趨勢，消費者在「dopamine sites」上享受策展、追蹤的購物樂趣，卻不追求實際擁有商品，顛覆了傳統電商「購買與交付」的核心邏輯。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月14日",
-      "topics": [
-        {
-          "title": "This Former Google Employee Created an ‘AI’ Chatbot That Lets You Speak to An Actual Human",
-          "keywords": [
-            "反AI趨勢",
-            "人際互動",
-            "服務創新",
-            "體驗經濟",
-            "Google前員工"
-          ],
-          "innovationPoint": "創新點：一位前Google員工反常識地推出一款看似「AI聊天機器人」，實則是由真人應答的服務，顛覆了AI至上的市場趨勢，突顯了在高度自動化時代中，人類真實互動的獨特價值與商業潛力。"
         }
       ]
     }
