@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                <item>
+                                                                                  <item>
+    <title>玩遊戲學歷史？Minecraft重現東京大空襲</title>
+    <description><![CDATA[你有沒有想過，如果要把二戰的歷史，特別是像東京大空襲這種沉重的話題，講給現在的小朋友聽，要怎麼做他們才會有感？   嗯，這確實是個難題。現在的孩子對教科書可能興趣缺缺，要真的理解戰爭的殘酷，可能很不容易。   對啊。所以今天這個案例就很有意思了，它竟然是透過「Minecraft」這個遊戲來重現東京大空襲。   等等，Minecraft？那個方塊遊戲？把一個嚴肅的歷史事件放進一個遊戲裡，會不會太…兒...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-08-30.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-08-30.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 30 Aug 2026 10:11:11 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-08-30</guid>
+  </item>
+  <item>
     <title>你家就是發電廠！虛擬電廠顛覆傳統能源模式</title>
     <description><![CDATA[今天我們來聊一個很有趣的能源創新，它可能跟我們一般理解的發電方式很不一樣。你可能沒想到，家裡的電器、電動車，甚至儲能系統，竟然能集合起來變成一個「虛擬電廠」。   虛擬電廠？聽起來有點像科幻片的情節。我的恆溫器、電動車、家裡的空調，怎麼會變成電廠？這中間的連接點是什麼？   對，這就是出乎意料的地方。傳統上，我們想到的電廠都是那種巨大的集中式發電廠。但這個創新，它反而是把這些看似零散的家庭設備，透...
 
