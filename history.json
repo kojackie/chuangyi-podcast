@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-30",
   "episodes": [
+    {
+      "date": "2026年8月30日",
+      "topics": [
+        {
+          "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
+          "keywords": [
+            "遊戲化教育",
+            "文化IP",
+            "數位轉譯",
+            "歷史傳播",
+            "跨界合作"
+          ],
+          "innovationPoint": "創新點：這項創新將嚴肅的二戰歷史（東京大空襲）透過年輕世代熟悉的遊戲平台Minecraft進行沉浸式重現，顛覆了傳統歷史教育的模式，將嚴肅內容以互動、趣味的方式傳遞。"
+        }
+      ]
+    },
     {
       "date": "2026年8月29日",
       "topics": [
@@ -206,22 +222,6 @@
             "跨國行銷"
           ],
           "innovationPoint": "創新點：三立電視台反常識地將台灣傳統「辦桌」文化，透過實境秀的商業模式進行IP化，並親自通包籌資與行銷，從內容製造商轉型為文化加速器，成功將地方特色推向國際市場並創造億級流量。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月15日",
-      "topics": [
-        {
-          "title": "The online shopping trend where you buy nothing",
-          "keywords": [
-            "純瀏覽購物",
-            "零消費",
-            "消費心理",
-            "體驗經濟",
-            "韓國"
-          ],
-          "innovationPoint": "創新點：韓國出現反常識的「純瀏覽購物」趨勢，消費者在「dopamine sites」上享受策展、追蹤的購物樂趣，卻不追求實際擁有商品，顛覆了傳統電商「購買與交付」的核心邏輯。"
         }
       ]
     }
