@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-31",
+  "lastUpdated": "2026-09-01",
   "episodes": [
+    {
+      "date": "2026年9月1日",
+      "topics": [
+        {
+          "title": "Berlin-based Cloover secures €86.2 million facility as it reaches profitability and launches AI-native neo-utility",
+          "keywords": [
+            "AI原生",
+            "能源平台",
+            "住宅電氣化",
+            "快速獲利",
+            "新公用事業"
+          ],
+          "innovationPoint": "創新點：德國新創Cloover反常識地在成立三年內實現獲利，同時推出「AI原生新公用事業」（AI-native neo-utility），透過AI技術整合住宅太陽能、熱泵與家庭電氣化，顛覆傳統能源服務模式，證明AI不只優化，更能重塑產業並快速變現。"
+        }
+      ]
+    },
     {
       "date": "2026年8月31日",
       "topics": [
@@ -205,22 +221,6 @@
             "商業模式創新"
           ],
           "innovationPoint": "創新點：瑞典軟體公司Fortnox反常識地投入450萬歐元與商學院合作進行長達十年的研究，探討企業成功的底層邏輯，顛覆傳統R&D僅專注產品開發的思維，轉而投資於整個產業的知識基礎與長期競爭力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月17日",
-      "topics": [
-        {
-          "title": "Norway’s Birdsview raises €3.7 million to scale its “MRI for concrete” technology and protect infrastructure",
-          "keywords": [
-            "傳統產業轉型",
-            "非破壞性檢測",
-            "基礎設施維護",
-            "科技應用",
-            "反常識創新"
-          ],
-          "innovationPoint": "創新點：挪威新創Birdsview反常識地將醫療領域的「MRI」概念應用於傳統建築產業，開發出能像掃描人體一樣檢測混凝土基礎設施的技術，透過科技診斷避免昂貴的修繕或重建，為傳統產業創造高價值的預防性維護模式。"
         }
       ]
     }
