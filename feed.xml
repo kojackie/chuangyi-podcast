@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                    <item>
+                                                                                      <item>
+    <title>AI原生新公用事業：3年獲利3億歐元的新能源傳奇</title>
+    <description><![CDATA[嘿，你猜不到今天看到一個什麼新聞，真的出乎意料，一家德國新創叫 Cloover，成立才三年，竟然就獲利了。  三年就獲利？這在AI新創圈裡，尤其是這種能源平台，怎麼說呢，感覺很少見。他們做什麼的？賣AI軟體嗎？  不是賣軟體那麼簡單。他們做的是住宅太陽能、熱泵跟家庭電氣化的整合，但最特別的是，他們是「AI原生新公用事業」。  AI原生新公用事業？這詞聽起來有點拗口。意思是他們從底層就用AI來設計服...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-01.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-01.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 01 Sep 2026 10:11:27 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-01</guid>
+  </item>
+  <item>
     <title>AI律師團勝訴！科技如何顛覆高價法律服務，讓正義普及化？</title>
     <description><![CDATA[：今天這個案例很有意思。你可能沒想到，在澳洲，一個大學老師竟然靠著AI，幫自己打贏了一場法律訴訟，而且還是針對他工作的麥考瑞大學。  ：等等，自己打贏？他不是律師吧？還用了AI？這聽起來有點出乎意料，法律這麼專業的事情，用AI就能搞定？會不會只是剛好矇對了？  ：原文裡有提到，這位老師叫格雷戈里·貝克（Gregory Baker），他本身是資訊學術背景。他之前是麥考瑞大學的兼職講師，他想轉成常態性...
 
