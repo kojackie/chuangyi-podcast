@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-02",
   "episodes": [
+    {
+      "date": "2026年9月2日",
+      "topics": [
+        {
+          "title": "How Small Businesses Are Quietly Leading a Retirement Revolution",
+          "keywords": [
+            "小企業",
+            "退休金",
+            "員工福利",
+            "服務創新",
+            "反常識"
+          ],
+          "innovationPoint": "創新點：小企業透過創新的退休金方案，在彈性與個人化方面超越大型企業，顛覆傳統退休金服務模式，證明規模不代表優勢。"
+        }
+      ]
+    },
     {
       "date": "2026年9月1日",
       "topics": [
@@ -205,22 +221,6 @@
             "顛覆價格"
           ],
           "innovationPoint": "創新點：越南TMT Motors反常識地在電動車市場中採取極致成本領先策略，推出價格僅5,650美元的EV，打破「電動車必昂貴」的傳統認知，透過價格優勢搶佔新興市場。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月19日",
-      "topics": [
-        {
-          "title": "What makes a business work? This Swedish scale-up has put €4.5 million behind finding out",
-          "keywords": [
-            "策略投資",
-            "知識經濟",
-            "產業研究",
-            "長期主義",
-            "商業模式創新"
-          ],
-          "innovationPoint": "創新點：瑞典軟體公司Fortnox反常識地投入450萬歐元與商學院合作進行長達十年的研究，探討企業成功的底層邏輯，顛覆傳統R&D僅專注產品開發的思維，轉而投資於整個產業的知識基礎與長期競爭力。"
         }
       ]
     }
