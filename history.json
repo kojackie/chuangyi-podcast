@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "episodes": [
+    {
+      "date": "2026年9月3日",
+      "topics": [
+        {
+          "title": "This Serial Entrepreneur Sold $1.4 Million in Products in One Hour. This Is the Secret Weapon Behind His ‘Super, Super Fast’ Growth.",
+          "keywords": [
+            "閃電銷售",
+            "極速增長",
+            "商業模式創新",
+            "小公司逆襲",
+            "電商策略"
+          ],
+          "innovationPoint": "創新點：一位連續創業家透過獨特的「秘密武器」，在短短一小時內創造140萬美元的銷售額，顛覆了傳統銷售模式，展示了極致增長的可能性。"
+        }
+      ]
+    },
     {
       "date": "2026年9月2日",
       "topics": [
@@ -205,22 +221,6 @@
             "服務設計"
           ],
           "innovationPoint": "創新點：兩姊妹將看似尋常的「安撫嬰兒」需求，轉化為一門年營收達530萬美元的爆紅生意，透過獨特產品與成功的病毒式行銷，將小眾生活痛點打造成規模化商機。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月20日",
-      "topics": [
-        {
-          "title": "Vietnam's TMT Motors to roll out one of country's cheapest EVs at $5,650",
-          "keywords": [
-            "電動車",
-            "成本領先",
-            "市場策略",
-            "新興市場",
-            "顛覆價格"
-          ],
-          "innovationPoint": "創新點：越南TMT Motors反常識地在電動車市場中採取極致成本領先策略，推出價格僅5,650美元的EV，打破「電動車必昂貴」的傳統認知，透過價格優勢搶佔新興市場。"
         }
       ]
     }
