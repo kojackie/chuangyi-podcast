@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "episodes": [
+    {
+      "date": "2026年9月5日",
+      "topics": [
+        {
+          "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+          "keywords": [
+            "AI tokens",
+            "促銷新模式",
+            "零售餐飲",
+            "點數經濟",
+            "商業模式反轉"
+          ],
+          "innovationPoint": "創新點：中國商家反常識地將「AI運算力（tokens）」作為一種新奇的促銷品、忠誠度獎勵，甚至是一種潛在的數位流通資產，顛覆傳統行銷與點數經濟模式，讓AI從高科技走入日常消費。"
+        }
+      ]
+    },
     {
       "date": "2026年9月4日",
       "topics": [
@@ -205,22 +221,6 @@
             "跨領域創新"
           ],
           "innovationPoint": "英國新創HexSeed反常識地將碳捕獲的廢棄物轉化為高價值的鑽石塗層超材料，並巧妙應用於AI數據中心的散熱，實現循環經濟與高科技產業的雙重突破。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月22日",
-      "topics": [
-        {
-          "title": "A dumpling shop becomes a poster child of AI adoption in China",
-          "keywords": [
-            "餃子店",
-            "AI應用",
-            "餐飲業",
-            "傳統產業轉型",
-            "效率提升"
-          ],
-          "innovationPoint": "創新點：一家傳統餃子店反常識地運用AI技術，成為中國AI落地的典範，證明即使是小規模餐飲業也能透過科技實現效率革新與顧客體驗升級。"
         }
       ]
     }
