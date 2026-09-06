@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                              <item>
+                                                                                                <item>
+    <title>AI來了？員工拒絕親手打造『取代我的敵人』</title>
+    <description><![CDATA[今天我們來聊一個，你可能沒想到會有這種選擇的案例。   怎麼說？現在不是大家都搶著搭AI的順風車嗎？特別是高學歷的工作者，應該更積極才對。   是啊，所以這個案例才讓我有點詫異。Hacker News 上有一則分享，說一位高學歷的工作者，竟然拒絕去訓練可能取代自己工作的 AI。   等等，拒絕訓練？這跟一般想法完全不同啊。公司花錢請他，他還拒絕？這背後的原因是什麼？   他拒絕的原因很直接，就是怕...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-06.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-06.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 06 Sep 2026 10:09:30 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-06</guid>
+  </item>
+  <item>
     <title>咖啡送AI算力？中國商家顛覆行銷，讓AI變日常商品</title>
     <description><![CDATA[嘿，你猜中國現在流行什麼最新的行銷手法？出乎意料，他們竟然把「AI運算力」拿來當贈品、當獎勵，甚至變成一種新的支付方式。   等等，AI運算力？你是說像 ChatGPT 那種 AI 模型背後的運算量嗎？這怎麼可能當贈品？聽起來有點天方夜譚吧。一般人誰會想要那個？   我一開始也覺得奇怪，但原文提到，中國的商家，像是咖啡廳、餃子館，還有銀行跟電信公司，真的在這樣做。舉個例子，北京有間叫 AGI Ba...
 
