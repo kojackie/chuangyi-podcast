@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-05",
+  "lastUpdated": "2026-09-06",
   "episodes": [
+    {
+      "date": "2026年9月6日",
+      "topics": [
+        {
+          "title": "I refused to train the AI that could replace me",
+          "keywords": [
+            "AI倫理",
+            "勞動關係",
+            "職場轉型",
+            "員工抗拒",
+            "AI治理"
+          ],
+          "innovationPoint": "創新點：一位高學歷工作者反常識地拒絕訓練可能取代自己工作的AI，揭示企業在推動AI自動化時，必須正視員工潛在的職涯焦慮與倫理困境，顛覆了僅考慮技術層面的AI導入模式。"
+        }
+      ]
+    },
     {
       "date": "2026年9月5日",
       "topics": [
@@ -205,22 +221,6 @@
             "醫療科技"
           ],
           "innovationPoint": "創新點：Eyedentity公司運用AI技術，將致命眼癌的早期檢測服務從專業醫院擴展至一般眼鏡行與眼科診所，透過「診斷民主化」反轉傳統醫療服務模式，大幅提升普及性與早期發現的機會。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月23日",
-      "topics": [
-        {
-          "title": "UK-based HexSeed raises over €700k to cool AI data centres with its with diamond coating technology",
-          "keywords": [
-            "碳捕獲",
-            "循環經濟",
-            "超材料",
-            "數據中心散熱",
-            "跨領域創新"
-          ],
-          "innovationPoint": "英國新創HexSeed反常識地將碳捕獲的廢棄物轉化為高價值的鑽石塗層超材料，並巧妙應用於AI數據中心的散熱，實現循環經濟與高科技產業的雙重突破。"
         }
       ]
     }
