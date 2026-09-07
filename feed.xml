@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                <item>
+                                                                                                  <item>
+    <title>戰場無人機殘骸數據，意外打造億萬商機</title>
+    <description><![CDATA[今天想跟大家聊一個，聽起來很不可思議，但其實很值得深思的案例。烏克蘭戰場上的無人機數據，你覺得它最後的歸宿會是什麼？大概就是一些軍事情報分析吧？   沒錯啊，當然是拿來分析戰況，或是訓練下一代的軍事裝備。畢竟那是最前線的情報，機密性那麼高，怎麼可能流到外面去。   這就是出乎意料的地方了。烏克蘭國防部居然把這些數據，開放給民間公司，甚至英國政府也能取得。而且這不是做慈善，是賣數據。   等等，這裡...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-07.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-07.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 07 Sep 2026 10:10:25 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-07</guid>
+  </item>
+  <item>
     <title>AI來了？員工拒絕親手打造『取代我的敵人』</title>
     <description><![CDATA[今天我們來聊一個，你可能沒想到會有這種選擇的案例。   怎麼說？現在不是大家都搶著搭AI的順風車嗎？特別是高學歷的工作者，應該更積極才對。   是啊，所以這個案例才讓我有點詫異。Hacker News 上有一則分享，說一位高學歷的工作者，竟然拒絕去訓練可能取代自己工作的 AI。   等等，拒絕訓練？這跟一般想法完全不同啊。公司花錢請他，他還拒絕？這背後的原因是什麼？   他拒絕的原因很直接，就是怕...
 
