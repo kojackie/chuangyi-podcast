@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-07",
   "episodes": [
+    {
+      "date": "2026年9月7日",
+      "topics": [
+        {
+          "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+          "keywords": [
+            "戰場數據",
+            "無人機",
+            "資料變現",
+            "跨領域創新",
+            "廢物利用"
+          ],
+          "innovationPoint": "創新點：烏克蘭戰場上的無人機數據，反常識地被視為一種寶貴資源，催生了一個全新的「狂野西部」式數據交易市場，顛覆了人們對戰時數據僅限軍事用途的認知，開創了意外的商業價值。"
+        }
+      ]
+    },
     {
       "date": "2026年9月6日",
       "topics": [
@@ -205,22 +221,6 @@
             "策略轉型"
           ],
           "innovationPoint": "創新點：一位高階主管反常識地拒絕了「開拓美國市場」的任務，轉而深挖公司內部數據，從現有客戶資料中發現未被滿足的市場潛力，顛覆了傳統「向外擴張」的成長思維，證明真正的藍海可能藏在眼前。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月24日",
-      "topics": [
-        {
-          "title": "Stockholm-based Eyedentity secures €1.3 million to detect deadly eye cancer earlier with AI",
-          "keywords": [
-            "AI醫療",
-            "服務模式創新",
-            "診斷普及",
-            "傳統產業轉型",
-            "醫療科技"
-          ],
-          "innovationPoint": "創新點：Eyedentity公司運用AI技術，將致命眼癌的早期檢測服務從專業醫院擴展至一般眼鏡行與眼科診所，透過「診斷民主化」反轉傳統醫療服務模式，大幅提升普及性與早期發現的機會。"
         }
       ]
     }
