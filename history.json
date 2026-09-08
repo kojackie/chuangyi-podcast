@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-07",
+  "lastUpdated": "2026-09-08",
   "episodes": [
+    {
+      "date": "2026年9月8日",
+      "topics": [
+        {
+          "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
+          "keywords": [
+            "AI實體應用",
+            "機器人自動化",
+            "科學研究",
+            "實驗室創新",
+            "Anthropic"
+          ],
+          "innovationPoint": "創新點：Anthropic的Claude AI不再僅限於數位世界，能自主操控實驗設備進行複雜的科學研究，展現AI在物理場域的顛覆性應用能力，實現AI從「思考」到「行動」的跨越。"
+        }
+      ]
+    },
     {
       "date": "2026年9月7日",
       "topics": [
@@ -205,22 +221,6 @@
             "數位轉型"
           ],
           "innovationPoint": "創新點：Solace Care將傳統、高度個人化的「生命終點服務」反常識地平台化與科技化，並獲得巨額早期投資，證明即使是社會敏感議題，也能透過服務流程再設計與數位化，提升普及性與效率。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月25日",
-      "topics": [
-        {
-          "title": "I Was Hired to Crack the U.S. Market. I Turned Down the Mission — and Doubled Down on the Market Hiding in Our Data",
-          "keywords": [
-            "數據洞察",
-            "市場策略",
-            "內部挖掘",
-            "反向思維",
-            "策略轉型"
-          ],
-          "innovationPoint": "創新點：一位高階主管反常識地拒絕了「開拓美國市場」的任務，轉而深挖公司內部數據，從現有客戶資料中發現未被滿足的市場潛力，顛覆了傳統「向外擴張」的成長思維，證明真正的藍海可能藏在眼前。"
         }
       ]
     }
