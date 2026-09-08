@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                  <item>
+                                                                                                    <item>
+    <title>Claude AI實驗室：智能機器人自主搞科研，顛覆物理世界探索模式</title>
+    <description><![CDATA[今天這個案例我覺得很有意思，Anthropic 的 Claude AI，我們以前都覺得它就是在數位世界裡面做做文字、寫寫程式，對不對？結果他們現在竟然讓 AI 自己去操控實驗室的儀器，自己做科學實驗。   等等，這個有點出乎意料，你是說 AI 不只是「思考」，還能「動手」了？這跟我們一般想像的 AI 差很遠。怎麼說呢，以前那些實驗室自動化設備不是早就有了嗎？有什麼特別的？   其實我一開始也有類似...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-08.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-08.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 08 Sep 2026 10:09:58 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-08</guid>
+  </item>
+  <item>
     <title>戰場無人機殘骸數據，意外打造億萬商機</title>
     <description><![CDATA[今天想跟大家聊一個，聽起來很不可思議，但其實很值得深思的案例。烏克蘭戰場上的無人機數據，你覺得它最後的歸宿會是什麼？大概就是一些軍事情報分析吧？   沒錯啊，當然是拿來分析戰況，或是訓練下一代的軍事裝備。畢竟那是最前線的情報，機密性那麼高，怎麼可能流到外面去。   這就是出乎意料的地方了。烏克蘭國防部居然把這些數據，開放給民間公司，甚至英國政府也能取得。而且這不是做慈善，是賣數據。   等等，這裡...
 
