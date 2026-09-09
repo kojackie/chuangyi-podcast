@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "episodes": [
+    {
+      "date": "2026年9月9日",
+      "topics": [
+        {
+          "title": "He Started a Hot Dog Business Without Knowing How to Cook One. 50 Years Later, He Became a Millionaire: ‘I Came From a Poor Family’",
+          "keywords": [
+            "創業",
+            "餐飲",
+            "白手起家",
+            "毅力",
+            "市場嗅覺"
+          ],
+          "innovationPoint": "創新點：一位從未下廚的創業者，憑藉毅力與對市場的敏銳嗅覺，打造出歷經50年仍屹立不搖的熱狗事業，最終成為百萬富翁，顛覆了創業必須從專業技能開始的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年9月8日",
       "topics": [
@@ -205,22 +221,6 @@
             "傳統產業轉型"
           ],
           "innovationPoint": "創新點：Vienna Textile Lab反常識地運用生物科技，開發出環保無毒的微生物染料，顛覆了傳統紡織業高污染的化學染色模式，為永續發展開闢新的商業可能。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月26日",
-      "topics": [
-        {
-          "title": "“Europe is aging rapidly”: Solace Care raises €2.1 million in largest pre-Seed round to date for a European end-of-life platform",
-          "keywords": [
-            "服務設計",
-            "高齡化社會",
-            "平台經濟",
-            "生命終點服務",
-            "數位轉型"
-          ],
-          "innovationPoint": "創新點：Solace Care將傳統、高度個人化的「生命終點服務」反常識地平台化與科技化，並獲得巨額早期投資，證明即使是社會敏感議題，也能透過服務流程再設計與數位化，提升普及性與效率。"
         }
       ]
     }
