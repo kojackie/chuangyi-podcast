@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "episodes": [
+    {
+      "date": "2026年9月10日",
+      "topics": [
+        {
+          "title": "I Thought I Knew My Customers. One Phone Call Proved Me Wrong.",
+          "keywords": [
+            "顧客洞察",
+            "反常識",
+            "中小企業",
+            "電話訪談",
+            "真實需求"
+          ],
+          "innovationPoint": "創新點：一位創業家透過一通簡單的電話訪談，顛覆了自己對顧客的既有認知，證明深度顧客洞察不需依賴複雜工具或大數據，而是回歸最直接、反常識的人際溝通。"
+        }
+      ]
+    },
     {
       "date": "2026年9月9日",
       "topics": [
@@ -205,22 +221,6 @@
             "傳統產業轉型"
           ],
           "innovationPoint": "創新點：德國新創Nanolope反常識地將建築外牆轉化為高效的熱能儲存系統，透過創新的材料技術，實現建築自身的能源管理，顛覆傳統節能方式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月27日",
-      "topics": [
-        {
-          "title": "The EU-Startups Podcast | Interview with Karin Fleck, CEO and founder of Vienna Textile Lab",
-          "keywords": [
-            "生物科技",
-            "紡織業",
-            "永續發展",
-            "循環經濟",
-            "傳統產業轉型"
-          ],
-          "innovationPoint": "創新點：Vienna Textile Lab反常識地運用生物科技，開發出環保無毒的微生物染料，顛覆了傳統紡織業高污染的化學染色模式，為永續發展開闢新的商業可能。"
         }
       ]
     }
