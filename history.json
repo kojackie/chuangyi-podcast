@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-10",
+  "lastUpdated": "2026-09-11",
   "episodes": [
+    {
+      "date": "2026年9月11日",
+      "topics": [
+        {
+          "title": "A Client Put $30K Into a Managed Amazon Storefront She Hardly Logged Into. It Now Clears 6 Figures a Month.",
+          "keywords": [
+            "電商託管",
+            "被動收入",
+            "亞馬遜",
+            "服務創新",
+            "創業機會"
+          ],
+          "innovationPoint": "創新點：透過提供「Amazon電商託管服務」，讓客戶僅投入初始資金，不需管理就能獲得六位數月營收，顛覆傳統電商需親力親為的常識，將電商轉化為被動式收入投資。"
+        }
+      ]
+    },
     {
       "date": "2026年9月10日",
       "topics": [
@@ -205,22 +221,6 @@
             "智慧電網"
           ],
           "innovationPoint": "創新點：這項能源創新反常識地將家庭電器、電動車和儲能系統聚合起來，形成一個分散式的「虛擬電廠」，顛覆了傳統集中式發電模式，讓家戶從能源消費者轉變為貢獻者。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月28日",
-      "topics": [
-        {
-          "title": "Berlin-based Nanolope secures €800k to turn building surfaces into thermal energy storage systems",
-          "keywords": [
-            "建築能源",
-            "熱能儲存",
-            "永續建材",
-            "DeepTech",
-            "傳統產業轉型"
-          ],
-          "innovationPoint": "創新點：德國新創Nanolope反常識地將建築外牆轉化為高效的熱能儲存系統，透過創新的材料技術，實現建築自身的能源管理，顛覆傳統節能方式。"
         }
       ]
     }
