@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                          <item>
+                                                                                                            <item>
+    <title>台積電「三個不」：不做才能贏，顛覆半導體產業的商業模式神話</title>
+    <description><![CDATA[今天想跟大家聊一個很有意思的案例，台積電。說到台積電，大家都會想到晶片，想到高科技。不過，今天想談的不是技術，而是它的商業模式。   怎麼說呢？台積電的商業模式，不就是幫別人做晶片嗎？這聽起來好像沒什麼特別的，很多工廠不都是這樣嗎？   這就是重點了。你想想看，張忠謀在1987年回台灣創立台積電的時候，那時候的半導體產業是怎麼樣的？   我猜啦，當時一定是那種從頭到尾自己搞定，從設計、製造到銷售都...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-12.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 12 Sep 2026 10:09:50 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-12</guid>
+  </item>
+  <item>
     <title>3萬美元開電商，月收破百萬：躺著賺錢的託管服務</title>
     <description><![CDATA[今天要聊的這個案例我覺得很有意思。想像一下，你投入三萬美金，然後幾乎不用管，你的電商每月就能有六位數營收。   六位數月營收？這聽起來有點出乎意料，怎麼說呢？通常做電商不是都要自己找貨、客服、處理物流嗎？這怎麼可能「不用管」？   對啊，這就是重點。這個案例說的是，有位三十多歲的客戶，她四年前拿了三萬美金給 Elite Automation 這家公司，希望她的錢能自動幫她賺錢，但又不想變成第二份工...
 
