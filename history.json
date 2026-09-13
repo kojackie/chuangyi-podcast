@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "episodes": [
+    {
+      "date": "2026年9月13日",
+      "topics": [
+        {
+          "title": "AI Is Quietly Creating Millionaires — and Here’s Exactly How to Copy Them (No Code, No Staff)",
+          "keywords": [
+            "AI創業",
+            "無程式碼",
+            "低成本創業",
+            "被動收入",
+            "新商業模式"
+          ],
+          "innovationPoint": "創新點：文章揭示了透過AI工具，即使沒有編程能力、不需大量員工，也能快速打造出百萬美元級別的事業，顛覆了傳統創業需投入高技術與人力成本的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年9月12日",
       "topics": [
@@ -205,22 +221,6 @@
             "科技賦能"
           ],
           "innovationPoint": "創新點：這項創新展示了AI技術在傳統專業服務領域（法律）的突破性應用，不僅是輔助工具，更能獨立贏得法律案件，大幅降低法律服務門檻，實踐「司法普及化」。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月30日",
-      "topics": [
-        {
-          "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
-          "keywords": [
-            "遊戲化教育",
-            "文化IP",
-            "數位轉譯",
-            "歷史傳播",
-            "跨界合作"
-          ],
-          "innovationPoint": "創新點：這項創新將嚴肅的二戰歷史（東京大空襲）透過年輕世代熟悉的遊戲平台Minecraft進行沉浸式重現，顛覆了傳統歷史教育的模式，將嚴肅內容以互動、趣味的方式傳遞。"
         }
       ]
     }
