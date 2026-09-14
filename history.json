@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-14",
   "episodes": [
+    {
+      "date": "2026年9月14日",
+      "topics": [
+        {
+          "title": "Now it&#8217;s China&#8217;s experts who are gig workers training AI",
+          "keywords": [
+            "AI訓練",
+            "零工經濟",
+            "知識商品化",
+            "勞動市場轉型",
+            "中國案例"
+          ],
+          "innovationPoint": "創新點：中國經濟下行促使高學歷專業人士（律師、建築師、工程師）反常識地轉型為AI模型訓練的零工，將專業知識商品化，創造出一個新型態的技能型零工經濟，以應對生計壓力。"
+        }
+      ]
+    },
     {
       "date": "2026年9月13日",
       "topics": [
@@ -206,21 +222,6 @@
             "新公用事業"
           ],
           "innovationPoint": "創新點：德國新創Cloover反常識地在成立三年內實現獲利，同時推出「AI原生新公用事業」（AI-native neo-utility），透過AI技術整合住宅太陽能、熱泵與家庭電氣化，顛覆傳統能源服務模式，證明AI不只優化，更能重塑產業並快速變現。"
-        }
-      ]
-    },
-    {
-      "date": "2026年8月31日",
-      "topics": [
-        {
-          "title": "An ‘AI Legal Team’ Has Won Its First Case. It’s a Rare Victory for Access to Justice.",
-          "keywords": [
-            "AI法律團隊",
-            "司法普及化",
-            "專業服務創新",
-            "科技賦能"
-          ],
-          "innovationPoint": "創新點：這項創新展示了AI技術在傳統專業服務領域（法律）的突破性應用，不僅是輔助工具，更能獨立贏得法律案件，大幅降低法律服務門檻，實踐「司法普及化」。"
         }
       ]
     }
