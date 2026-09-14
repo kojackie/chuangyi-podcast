@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                              <item>
+                                                                                                                <item>
+    <title>高學歷專家淪為AI零工，這新趨勢你跟上嗎？</title>
+    <description><![CDATA[今天我們來聊一個很有意思的現象。你可能沒想到，在中國，現在連律師、建築師、工程師這些高學歷的專業人士，都開始做起了AI模型的訓練零工。   等等，這些人不是應該在辦公室，做著高薪的工作嗎？怎麼會去做零工？這聽起來有點出乎意料，甚至是跟一般想法不同吧。   其實這背後的原因，就是中國現在經濟下行。原文提到，像一位在深圳的建築師 Cuicui，她設計過體育場、學校、醫院，但過去五年，政府基礎設施支出減...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-14.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-14.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 14 Sep 2026 10:09:49 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-14</guid>
+  </item>
+  <item>
     <title>免寫程式免請人！AI安靜打造百萬富翁秘訣</title>
     <description><![CDATA[今天想跟大家聊一個，我覺得很多中小企業主，甚至是我們這些上班族，聽了可能會覺得「怎麼可能」的案例。   怎麼說？是什麼事情聽了這麼出乎意料？   根據「Singularity Hub」的報導，現在有人真的能不用程式碼、不用大量員工，光靠 AI 工具，就打造出千萬甚至上億美元的事業。   等等，這裡我有疑問。你說不用程式碼、不用員工？這聽起來很像空頭支票，現在哪個創業不是要團隊、要技術？   這就是...
 
