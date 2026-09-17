@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-14",
+  "lastUpdated": "2026-09-17",
   "episodes": [
+    {
+      "date": "2026年9月17日",
+      "topics": [
+        {
+          "title": "The EU-Startups Podcast | Interview with Patrick Ryan, co-founder of Odin",
+          "keywords": [
+            "創投",
+            "平台化",
+            "商業模式創新",
+            "金融科技",
+            "降低門檻"
+          ],
+          "innovationPoint": "創新點：Odin 將傳統高門檻的創投業務「平台化」與「模組化」，讓任何個人或小型機構都能輕鬆啟動與管理自己的私募基金，顛覆了僅限少數人參與的創投模式，創造「創投界的Shopify」。"
+        }
+      ]
+    },
     {
       "date": "2026年9月14日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識"
           ],
           "innovationPoint": "創新點：小企業透過創新的退休金方案，在彈性與個人化方面超越大型企業，顛覆傳統退休金服務模式，證明規模不代表優勢。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月1日",
-      "topics": [
-        {
-          "title": "Berlin-based Cloover secures €86.2 million facility as it reaches profitability and launches AI-native neo-utility",
-          "keywords": [
-            "AI原生",
-            "能源平台",
-            "住宅電氣化",
-            "快速獲利",
-            "新公用事業"
-          ],
-          "innovationPoint": "創新點：德國新創Cloover反常識地在成立三年內實現獲利，同時推出「AI原生新公用事業」（AI-native neo-utility），透過AI技術整合住宅太陽能、熱泵與家庭電氣化，顛覆傳統能源服務模式，證明AI不只優化，更能重塑產業並快速變現。"
         }
       ]
     }
