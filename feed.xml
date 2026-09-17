@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                <item>
+                                                                                                                  <item>
+    <title>創投也能做成Shopify？人人都能當VC的平台模式</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得很有趣的案例，跟投資有關，但又很不一樣。Odin這家公司，他們做的事情其實是把過去高門檻的「創投」業務，變成一種人人都能參與的平台。   創投？那不是有錢人跟專業機構才玩的嗎？感覺這個門檻很高，一般人根本沾不上邊，怎麼可能人人參與？聽起來有點天方夜譚。   我一開始也覺得有點出乎意料，但它厲害的地方就在於，Odin把創投的流程「平台化」跟「模組化」。就像原文裡講的，他們被稱...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-17.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-17.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 17 Sep 2026 10:10:15 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-17</guid>
+  </item>
+  <item>
     <title>高學歷專家淪為AI零工，這新趨勢你跟上嗎？</title>
     <description><![CDATA[今天我們來聊一個很有意思的現象。你可能沒想到，在中國，現在連律師、建築師、工程師這些高學歷的專業人士，都開始做起了AI模型的訓練零工。   等等，這些人不是應該在辦公室，做著高薪的工作嗎？怎麼會去做零工？這聽起來有點出乎意料，甚至是跟一般想法不同吧。   其實這背後的原因，就是中國現在經濟下行。原文提到，像一位在深圳的建築師 Cuicui，她設計過體育場、學校、醫院，但過去五年，政府基礎設施支出減...
 
