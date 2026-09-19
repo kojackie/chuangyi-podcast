@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-18",
+  "lastUpdated": "2026-09-19",
   "episodes": [
+    {
+      "date": "2026年9月19日",
+      "topics": [
+        {
+          "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
+          "keywords": [
+            "AI藥物研發",
+            "虛擬公司",
+            "AI代理",
+            "生技創新",
+            "規模化協作"
+          ],
+          "innovationPoint": "創新點：這家虛擬生技公司反常識地運用37,000個AI代理組成「虛擬研發團隊」，在沒有實體實驗室和大量人力的情況下，大幅加速藥物研發進程，成功預測潛在癌症療法，證明AI能以「蜂群式」協作模式顛覆傳統高門檻產業。"
+        }
+      ]
+    },
     {
       "date": "2026年9月18日",
       "topics": [
@@ -206,22 +222,6 @@
             "服務業創新"
           ],
           "innovationPoint": "創新點：一對夫妻發現家鄉市場未被滿足的在地服務需求，僅用6個月就將其打造成年營收破百萬美元的爆款生意，證明「身邊的不方便」是巨大商機。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月3日",
-      "topics": [
-        {
-          "title": "This Serial Entrepreneur Sold $1.4 Million in Products in One Hour. This Is the Secret Weapon Behind His ‘Super, Super Fast’ Growth.",
-          "keywords": [
-            "閃電銷售",
-            "極速增長",
-            "商業模式創新",
-            "小公司逆襲",
-            "電商策略"
-          ],
-          "innovationPoint": "創新點：一位連續創業家透過獨特的「秘密武器」，在短短一小時內創造140萬美元的銷售額，顛覆了傳統銷售模式，展示了極致增長的可能性。"
         }
       ]
     }
