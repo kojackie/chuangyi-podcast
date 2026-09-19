@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                    <item>
+                                                                                                                      <item>
+    <title>3萬AI軍團！虛擬藥廠用AI代理顛覆藥物研發</title>
+    <description><![CDATA[藥物研發，你想到什麼？應該就是很多穿白袍的人，在實驗室裡忙進忙出，然後花個幾十年跟幾億美金，對吧？   嗯，差不多是這樣。高門檻、燒錢、時間又長，而且還不一定會成功。   對，所以今天這個案例，真的讓我感覺「原來還可以這樣玩」。它是一家虛擬生技公司，沒有實體實驗室，也沒有上百個科學家，它用了三萬七千個 AI 代理，加速藥物研發。   等等，三萬七千個 AI 代理？這聽起來很像科幻小說的劇情。具體怎...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-19.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-19.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 19 Sep 2026 10:11:10 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-19</guid>
+  </item>
+  <item>
     <title>二手物變爆款！FB發現兩週狂賺15萬美元</title>
     <description><![CDATA[嘿，你聽過那種只花一點點錢，然後在社群媒體上爆紅，幾週內就賺大錢的故事嗎？我今天看到一個案例，讓我有點驚訝。   這種故事我聽過不少，但很多都是曇花一現，或是背後有大公司在操作。成本低、收入高，這模式能撐多久？到底是不是真的有這麼神奇？   這個案例的確滿有意思的。主角是一位23歲的年輕人叫Oskar Flodstrom。他居然是從Facebook Marketplace上找到一個免費的透明壓克力...
 
