@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                      <item>
+                                                                                                                        <item>
+    <title>醫療支付「即時化」：2億病患如何靠平台搞定繁瑣流程？</title>
+    <description><![CDATA[今天我們來聊一個很有趣的案例，Penelope Health 這家公司，他們做的事情其實還蠻顛覆傳統認知的。   怎麼說？是做什麼的？醫療這塊通常都很難有大改變吧，特別是支付和保險。   他們拿到了一筆 8700 萬歐元的資金，目標是把醫療保險的理賠、政策審核這些超級冗長又複雜的流程，變成像電商一樣即時。聽起來有點不可思議對不對？   嗯，有點。醫療保險是高度監管的產業，政策複雜、變動又多，還有各...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-20.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-20.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 20 Sep 2026 10:10:15 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-20</guid>
+  </item>
+  <item>
     <title>3萬AI軍團！虛擬藥廠用AI代理顛覆藥物研發</title>
     <description><![CDATA[藥物研發，你想到什麼？應該就是很多穿白袍的人，在實驗室裡忙進忙出，然後花個幾十年跟幾億美金，對吧？   嗯，差不多是這樣。高門檻、燒錢、時間又長，而且還不一定會成功。   對，所以今天這個案例，真的讓我感覺「原來還可以這樣玩」。它是一家虛擬生技公司，沒有實體實驗室，也沒有上百個科學家，它用了三萬七千個 AI 代理，加速藥物研發。   等等，三萬七千個 AI 代理？這聽起來很像科幻小說的劇情。具體怎...
 
