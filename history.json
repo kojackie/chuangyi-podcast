@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-20",
+  "lastUpdated": "2026-09-21",
   "episodes": [
+    {
+      "date": "2026年9月21日",
+      "topics": [
+        {
+          "title": "London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model",
+          "keywords": [
+            "虛擬演唱會",
+            "娛樂創新",
+            "商業模式轉型",
+            "規模化服務",
+            "流程再設計"
+          ],
+          "innovationPoint": "創新點：Unit1 Studio顛覆高門檻的「虛擬偶像演唱會」模式，目標將其從單一、高成本的「ABBA Voyage」等級體驗，透過標準化與技術革新，轉變為可大規模複製、多場地巡演的商業模式，讓虛擬娛樂普及化。"
+        }
+      ]
+    },
     {
       "date": "2026年9月20日",
       "topics": [
@@ -207,22 +223,6 @@
             "AI治理"
           ],
           "innovationPoint": "創新點：一位高學歷工作者反常識地拒絕訓練可能取代自己工作的AI，揭示企業在推動AI自動化時，必須正視員工潛在的職涯焦慮與倫理困境，顛覆了僅考慮技術層面的AI導入模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月5日",
-      "topics": [
-        {
-          "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
-          "keywords": [
-            "AI tokens",
-            "促銷新模式",
-            "零售餐飲",
-            "點數經濟",
-            "商業模式反轉"
-          ],
-          "innovationPoint": "創新點：中國商家反常識地將「AI運算力（tokens）」作為一種新奇的促銷品、忠誠度獎勵，甚至是一種潛在的數位流通資產，顛覆傳統行銷與點數經濟模式，讓AI從高科技走入日常消費。"
         }
       ]
     }
