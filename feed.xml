@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                        <item>
+                                                                                                                          <item>
+    <title>虛擬演唱會大翻轉：從限定體驗到全球巡演，娛樂服務如何規模化？</title>
+    <description><![CDATA[嘿，你聽過 ABBA Voyage 嗎？就是那個把 ABBA 樂團用虛擬偶像的方式，搬上倫敦舞台的演唱會。  有啊，聽過。聽說做得超逼真，但成本高到嚇人吧？好像是專門為了那個場地打造的，沒辦法搬到其他地方演。  對，這就是今天我們要聊的。最近倫敦有一家叫 Unit1 Studio 的公司，他們拿到 23.3 百萬歐元的融資，就是要解決這個問題。  解決問題？怎麼說？他們打算讓每個人都能看到虛擬偶像...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-21.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-21.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 21 Sep 2026 10:10:41 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-21</guid>
+  </item>
+  <item>
     <title>醫療支付「即時化」：2億病患如何靠平台搞定繁瑣流程？</title>
     <description><![CDATA[今天我們來聊一個很有趣的案例，Penelope Health 這家公司，他們做的事情其實還蠻顛覆傳統認知的。   怎麼說？是做什麼的？醫療這塊通常都很難有大改變吧，特別是支付和保險。   他們拿到了一筆 8700 萬歐元的資金，目標是把醫療保險的理賠、政策審核這些超級冗長又複雜的流程，變成像電商一樣即時。聽起來有點不可思議對不對？   嗯，有點。醫療保險是高度監管的產業，政策複雜、變動又多，還有各...
 
