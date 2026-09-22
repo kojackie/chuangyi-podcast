@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-21",
+  "lastUpdated": "2026-09-22",
   "episodes": [
+    {
+      "date": "2026年9月22日",
+      "topics": [
+        {
+          "title": "Paris-based Primo raises €6.9 million to deploy autonomous AI agents for IT teams",
+          "keywords": [
+            "AI 自動化",
+            "IT 管理",
+            "企業服務",
+            "自主代理",
+            "效率提升"
+          ],
+          "innovationPoint": "創新點：Primo 透過「自主 AI 代理」平台顛覆傳統 IT 管理模式，整合裝置、SaaS、身份與支援，將複雜的企業 IT 運維工作全面自動化，讓 IT 團隊從重複性任務中解放。"
+        }
+      ]
+    },
     {
       "date": "2026年9月21日",
       "topics": [
@@ -207,22 +223,6 @@
             "廢物利用"
           ],
           "innovationPoint": "創新點：烏克蘭戰場上的無人機數據，反常識地被視為一種寶貴資源，催生了一個全新的「狂野西部」式數據交易市場，顛覆了人們對戰時數據僅限軍事用途的認知，開創了意外的商業價值。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月6日",
-      "topics": [
-        {
-          "title": "I refused to train the AI that could replace me",
-          "keywords": [
-            "AI倫理",
-            "勞動關係",
-            "職場轉型",
-            "員工抗拒",
-            "AI治理"
-          ],
-          "innovationPoint": "創新點：一位高學歷工作者反常識地拒絕訓練可能取代自己工作的AI，揭示企業在推動AI自動化時，必須正視員工潛在的職涯焦慮與倫理困境，顛覆了僅考慮技術層面的AI導入模式。"
         }
       ]
     }
