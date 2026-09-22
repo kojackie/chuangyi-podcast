@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                          <item>
+                                                                                                                            <item>
+    <title>AI自主代理接管IT：企業營運自動化，人力效能大解放</title>
+    <description><![CDATA[巴黎的 Primo 這家公司，他們最近募到 690 萬歐元，將推出自主 AI 代理，要幫企業的 IT 團隊把工作自動化。這聽起來很像科幻電影會出現的，但他們真的做到了。   嗯，自主 AI 代理，聽起來很厲害。但 IT 團隊的工作，真的能讓 AI 全包嗎？會不會只是噱頭，實際上還是要人去處理那些複雜的例外狀況？   其實這就是他們厲害的地方。Primo 創辦人 Martin Pannier 在 2...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-22.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-22.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 22 Sep 2026 10:10:07 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-22</guid>
+  </item>
+  <item>
     <title>虛擬演唱會大翻轉：從限定體驗到全球巡演，娛樂服務如何規模化？</title>
     <description><![CDATA[嘿，你聽過 ABBA Voyage 嗎？就是那個把 ABBA 樂團用虛擬偶像的方式，搬上倫敦舞台的演唱會。  有啊，聽過。聽說做得超逼真，但成本高到嚇人吧？好像是專門為了那個場地打造的，沒辦法搬到其他地方演。  對，這就是今天我們要聊的。最近倫敦有一家叫 Unit1 Studio 的公司，他們拿到 23.3 百萬歐元的融資，就是要解決這個問題。  解決問題？怎麼說？他們打算讓每個人都能看到虛擬偶像...
 
