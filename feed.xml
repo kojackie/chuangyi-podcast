@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                            <item>
+                                                                                                                              <item>
+    <title>AI原生平台如何翻轉傳統稅務業？</title>
+    <description><![CDATA[我今天看到一個案例，很有意思，是德國一家叫 Mika 的公司，他們把傳統稅務服務徹底用 AI 改造了，最近還募了 600 萬歐元。   嗯，稅務喔？這不是高度專業又需要大量人力的服務嗎？感覺這種傳統行業，AI 頂多是輔助吧，要完全取代，你確定撐得住？   他們不是說取代，而是用 AI 原生的平台，把整個稅務申報和管理變成自動化、高效的數位體驗。原文有提到，他們是從零開始重建會計、稅務和財務。   ...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-23.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-23.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 23 Sep 2026 10:09:54 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-23</guid>
+  </item>
+  <item>
     <title>AI自主代理接管IT：企業營運自動化，人力效能大解放</title>
     <description><![CDATA[巴黎的 Primo 這家公司，他們最近募到 690 萬歐元，將推出自主 AI 代理，要幫企業的 IT 團隊把工作自動化。這聽起來很像科幻電影會出現的，但他們真的做到了。   嗯，自主 AI 代理，聽起來很厲害。但 IT 團隊的工作，真的能讓 AI 全包嗎？會不會只是噱頭，實際上還是要人去處理那些複雜的例外狀況？   其實這就是他們厲害的地方。Primo 創辦人 Martin Pannier 在 2...
 
