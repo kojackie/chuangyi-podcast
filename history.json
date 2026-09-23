@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-23",
   "episodes": [
+    {
+      "date": "2026年9月23日",
+      "topics": [
+        {
+          "title": "Berlin-based mika raises €6 million to scale its AI-native alternative to traditional tax firms",
+          "keywords": [
+            "AI服務",
+            "稅務創新",
+            "傳統產業轉型",
+            "商業模式反轉",
+            "SaaS"
+          ],
+          "innovationPoint": "創新點：Mika 顛覆傳統稅務服務業，以 AI 原生平台取代傳統稅務事務所模式，將高度專業與人力的稅務申報與管理服務，轉化為自動化、高效的數位體驗，成功募資600萬歐元。"
+        }
+      ]
+    },
     {
       "date": "2026年9月22日",
       "topics": [
@@ -207,22 +223,6 @@
             "Anthropic"
           ],
           "innovationPoint": "創新點：Anthropic的Claude AI不再僅限於數位世界，能自主操控實驗設備進行複雜的科學研究，展現AI在物理場域的顛覆性應用能力，實現AI從「思考」到「行動」的跨越。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月7日",
-      "topics": [
-        {
-          "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-          "keywords": [
-            "戰場數據",
-            "無人機",
-            "資料變現",
-            "跨領域創新",
-            "廢物利用"
-          ],
-          "innovationPoint": "創新點：烏克蘭戰場上的無人機數據，反常識地被視為一種寶貴資源，催生了一個全新的「狂野西部」式數據交易市場，顛覆了人們對戰時數據僅限軍事用途的認知，開創了意外的商業價值。"
         }
       ]
     }
