@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "episodes": [
+    {
+      "date": "2026年9月24日",
+      "topics": [
+        {
+          "title": "Cologne-based Metycle secures €131.7 million credit facility to scale secondary copper and aluminium supply",
+          "keywords": [
+            "循環經濟",
+            "供應鏈創新",
+            "傳統產業轉型",
+            "大規模回收",
+            "融資模式"
+          ],
+          "innovationPoint": "創新點：Metycle 透過獲得鉅額信用額度，將傳統回收產業的「二手料供應」提升至工業級別的大規模可靠供應鏈，顛覆將廢棄物視為低價值品的常識，並以創新金融模式支持循環經濟的實質落地。"
+        }
+      ]
+    },
     {
       "date": "2026年9月23日",
       "topics": [
@@ -207,22 +223,6 @@
             "市場嗅覺"
           ],
           "innovationPoint": "創新點：一位從未下廚的創業者，憑藉毅力與對市場的敏銳嗅覺，打造出歷經50年仍屹立不搖的熱狗事業，最終成為百萬富翁，顛覆了創業必須從專業技能開始的常識。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月8日",
-      "topics": [
-        {
-          "title": "Anthropic’s Claude Can Now Autonomously Run Science Experiments With Lab Equipment",
-          "keywords": [
-            "AI實體應用",
-            "機器人自動化",
-            "科學研究",
-            "實驗室創新",
-            "Anthropic"
-          ],
-          "innovationPoint": "創新點：Anthropic的Claude AI不再僅限於數位世界，能自主操控實驗設備進行複雜的科學研究，展現AI在物理場域的顛覆性應用能力，實現AI從「思考」到「行動」的跨越。"
         }
       ]
     }
