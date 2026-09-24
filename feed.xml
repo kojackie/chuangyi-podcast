@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                              <item>
+                                                                                                                                <item>
+    <title>1.3億歐元信貸！回收銅鋁從廢料變「主力供應鏈」</title>
+    <description><![CDATA[欸，你可能沒想到，有家公司把「回收廢料」這件事做得非常、非常大，甚至還拿到了超過一億歐元的信用額度。   一億歐元？開玩笑吧？回收廢料不是通常賺不了什麼大錢嗎？頂多就是資源回收廠，怎麼會需要這麼多錢？這模式能撐多久？   我一開始也跟你一樣懷疑，但他們這家叫 Metycle 的德國公司，做的不是你想像中那種資源回收。他們鎖定的是工業級別的「二手銅鋁」，而且是把供給量衝到一個非常可靠、大規模的程度。...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-24.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-24.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 24 Sep 2026 10:10:32 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-24</guid>
+  </item>
+  <item>
     <title>AI原生平台如何翻轉傳統稅務業？</title>
     <description><![CDATA[我今天看到一個案例，很有意思，是德國一家叫 Mika 的公司，他們把傳統稅務服務徹底用 AI 改造了，最近還募了 600 萬歐元。   嗯，稅務喔？這不是高度專業又需要大量人力的服務嗎？感覺這種傳統行業，AI 頂多是輔助吧，要完全取代，你確定撐得住？   他們不是說取代，而是用 AI 原生的平台，把整個稅務申報和管理變成自動化、高效的數位體驗。原文有提到，他們是從零開始重建會計、稅務和財務。   ...
 
