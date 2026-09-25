@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                <item>
+                                                                                                                                  <item>
+    <title>AI加速金流：發票秒變現金，企業週轉神助攻</title>
+    <description><![CDATA[今天要聊一個很有意思的案例。一家叫做 Duqu 的公司，他們做的事情其實很簡單，就是幫企業解決「錢被卡在未付款發票裡」的問題。   解決這問題不難啊，傳統金融業不是就有應收帳款融資、或是票貼這種服務嗎？這有什麼特別的？   喔，特別就在這裡。Duqu 的創辦人 Maas de Goede 就說了，現在什麼事情都能即時辦理，但錢卻可能要等上好幾個禮拜才能入帳，這跟現在企業營運的速度完全不搭。所以他們...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-25.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-25.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 25 Sep 2026 10:10:16 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-25</guid>
+  </item>
+  <item>
     <title>1.3億歐元信貸！回收銅鋁從廢料變「主力供應鏈」</title>
     <description><![CDATA[欸，你可能沒想到，有家公司把「回收廢料」這件事做得非常、非常大，甚至還拿到了超過一億歐元的信用額度。   一億歐元？開玩笑吧？回收廢料不是通常賺不了什麼大錢嗎？頂多就是資源回收廠，怎麼會需要這麼多錢？這模式能撐多久？   我一開始也跟你一樣懷疑，但他們這家叫 Metycle 的德國公司，做的不是你想像中那種資源回收。他們鎖定的是工業級別的「二手銅鋁」，而且是把供給量衝到一個非常可靠、大規模的程度。...
 
