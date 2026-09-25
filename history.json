@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-24",
+  "lastUpdated": "2026-09-25",
   "episodes": [
+    {
+      "date": "2026年9月25日",
+      "topics": [
+        {
+          "title": "Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid invoices",
+          "keywords": [
+            "應收帳款",
+            "AI金融",
+            "現金流",
+            "FinTech",
+            "商業模式創新"
+          ],
+          "innovationPoint": "創新點：Duqu透過其FinTech平台，讓企業能立即獲得被鎖定在未付發票中的資金，並結合AI自動化95%的信用評估流程，顛覆傳統應收帳款融資的緩慢與繁瑣，加速企業現金流。"
+        }
+      ]
+    },
     {
       "date": "2026年9月24日",
       "topics": [
@@ -207,22 +223,6 @@
             "真實需求"
           ],
           "innovationPoint": "創新點：一位創業家透過一通簡單的電話訪談，顛覆了自己對顧客的既有認知，證明深度顧客洞察不需依賴複雜工具或大數據，而是回歸最直接、反常識的人際溝通。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月9日",
-      "topics": [
-        {
-          "title": "He Started a Hot Dog Business Without Knowing How to Cook One. 50 Years Later, He Became a Millionaire: ‘I Came From a Poor Family’",
-          "keywords": [
-            "創業",
-            "餐飲",
-            "白手起家",
-            "毅力",
-            "市場嗅覺"
-          ],
-          "innovationPoint": "創新點：一位從未下廚的創業者，憑藉毅力與對市場的敏銳嗅覺，打造出歷經50年仍屹立不搖的熱狗事業，最終成為百萬富翁，顛覆了創業必須從專業技能開始的常識。"
         }
       ]
     }
