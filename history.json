@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-26",
   "episodes": [
+    {
+      "date": "2026年9月26日",
+      "topics": [
+        {
+          "title": "I Built a 7-Person Marketing Team Using AI. Here’s the Exact Setup.",
+          "keywords": [
+            "AI工具",
+            "行銷團隊",
+            "組織效率",
+            "低成本",
+            "個人創業"
+          ],
+          "innovationPoint": "創新點：個人或小團隊透過AI工具，反常識地「組建」出一個能執行多種行銷職能的「七人行銷團隊」，以極低成本和人力達成大型組織的行銷效果，顛覆傳統行銷團隊的建構模式。"
+        }
+      ]
+    },
     {
       "date": "2026年9月25日",
       "topics": [
@@ -207,22 +223,6 @@
             "創業機會"
           ],
           "innovationPoint": "創新點：透過提供「Amazon電商託管服務」，讓客戶僅投入初始資金，不需管理就能獲得六位數月營收，顛覆傳統電商需親力親為的常識，將電商轉化為被動式收入投資。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月10日",
-      "topics": [
-        {
-          "title": "I Thought I Knew My Customers. One Phone Call Proved Me Wrong.",
-          "keywords": [
-            "顧客洞察",
-            "反常識",
-            "中小企業",
-            "電話訪談",
-            "真實需求"
-          ],
-          "innovationPoint": "創新點：一位創業家透過一通簡單的電話訪談，顛覆了自己對顧客的既有認知，證明深度顧客洞察不需依賴複雜工具或大數據，而是回歸最直接、反常識的人際溝通。"
         }
       ]
     }
