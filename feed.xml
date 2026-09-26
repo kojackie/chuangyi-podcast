@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                  <item>
+                                                                                                                                    <item>
+    <title>不用招人！一個人用AI組建「七人行銷團隊」，效率大爆發的秘訣</title>
+    <description><![CDATA[欸，你聽說了嗎？有人用 AI 「組建」了一個七人行銷團隊，而且是一個人就搞定了，這點我真的覺得出乎意料。   嗯，我看到這篇報導了。七人團隊？聽起來是挺厲害的，但會不會只是把很多 AI 工具湊在一起，然後美其名曰「團隊」？實際運作上能跟真人團隊比嗎？   不完全是工具湊合。這篇文章的作者 Ben Angel 其實是先從一個痛點切入的。他說，即使 AI 可以幫你寫文案、剪影片、做圖，但如果每個環節還...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-09-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-09-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 26 Sep 2026 10:09:47 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-09-26</guid>
+  </item>
+  <item>
     <title>AI加速金流：發票秒變現金，企業週轉神助攻</title>
     <description><![CDATA[今天要聊一個很有意思的案例。一家叫做 Duqu 的公司，他們做的事情其實很簡單，就是幫企業解決「錢被卡在未付款發票裡」的問題。   解決這問題不難啊，傳統金融業不是就有應收帳款融資、或是票貼這種服務嗎？這有什麼特別的？   喔，特別就在這裡。Duqu 的創辦人 Maas de Goede 就說了，現在什麼事情都能即時辦理，但錢卻可能要等上好幾個禮拜才能入帳，這跟現在企業營運的速度完全不搭。所以他們...
 
