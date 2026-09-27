@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-09-27",
   "episodes": [
+    {
+      "date": "2026年9月27日",
+      "topics": [
+        {
+          "title": "Japan's Nozawa Onsen ski resort curbs development of tall hotels",
+          "keywords": [
+            "服務設計創新",
+            "反常識商業策略",
+            "觀光永續",
+            "品牌定位",
+            "日本案例"
+          ],
+          "innovationPoint": "創新點：日本野澤溫泉滑雪度假村反其道而行，刻意限制高樓飯店開發，透過「減法」而非「加法」策略，成功維護獨特文化與自然景觀，確保品牌價值與永續發展，顛覆觀光業盲目追求規模成長的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年9月26日",
       "topics": [
@@ -207,22 +223,6 @@
             "策略取捨"
           ],
           "innovationPoint": "創新點：台積電憑藉「不做設計、不製造自有產品、不與客戶競爭」的「三個不」商業模式，反常識地選擇專注於晶圓代工，最終重新定義全球半導體產業分工，證明「有所不為」是創造巨大價值的關鍵。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月11日",
-      "topics": [
-        {
-          "title": "A Client Put $30K Into a Managed Amazon Storefront She Hardly Logged Into. It Now Clears 6 Figures a Month.",
-          "keywords": [
-            "電商託管",
-            "被動收入",
-            "亞馬遜",
-            "服務創新",
-            "創業機會"
-          ],
-          "innovationPoint": "創新點：透過提供「Amazon電商託管服務」，讓客戶僅投入初始資金，不需管理就能獲得六位數月營收，顛覆傳統電商需親力親為的常識，將電商轉化為被動式收入投資。"
         }
       ]
     }
