@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-28",
+  "lastUpdated": "2026-09-29",
   "episodes": [
+    {
+      "date": "2026年9月29日",
+      "topics": [
+        {
+          "title": "You Don’t Need a Big Company’s Budget to Borrow Its Best Systems. Here’s How.",
+          "keywords": [
+            "借鑒策略",
+            "低成本創新",
+            "系統導入",
+            "中小企業",
+            "效率提升"
+          ],
+          "innovationPoint": "創新點：顛覆「沒有大預算就做不到」的常識，揭示中小企業如何用低成本「借用」大型企業經過驗證的系統與策略，甚至利用免費工具和公開資訊，達成與巨頭比肩的效率和成果。"
+        }
+      ]
+    },
     {
       "date": "2026年9月28日",
       "topics": [
@@ -207,22 +223,6 @@
             "中國案例"
           ],
           "innovationPoint": "創新點：中國經濟下行促使高學歷專業人士（律師、建築師、工程師）反常識地轉型為AI模型訓練的零工，將專業知識商品化，創造出一個新型態的技能型零工經濟，以應對生計壓力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月13日",
-      "topics": [
-        {
-          "title": "AI Is Quietly Creating Millionaires — and Here’s Exactly How to Copy Them (No Code, No Staff)",
-          "keywords": [
-            "AI創業",
-            "無程式碼",
-            "低成本創業",
-            "被動收入",
-            "新商業模式"
-          ],
-          "innovationPoint": "創新點：文章揭示了透過AI工具，即使沒有編程能力、不需大量員工，也能快速打造出百萬美元級別的事業，顛覆了傳統創業需投入高技術與人力成本的常識。"
         }
       ]
     }
