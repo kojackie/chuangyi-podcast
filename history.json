@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-29",
+  "lastUpdated": "2026-09-30",
   "episodes": [
+    {
+      "date": "2026年9月30日",
+      "topics": [
+        {
+          "title": "She Founded a Company to Help People Find Wealth Hidden at Home. It’s Unlocked More Than $150 Million So Far: ‘The OG Asset Class.’",
+          "keywords": [
+            "隱藏資產",
+            "價值創新",
+            "服務設計",
+            "創業成功",
+            "財富發掘"
+          ],
+          "innovationPoint": "創新點：顛覆傳統資產定義，透過獨特服務模式協助客戶發掘並活化家中被忽略的「隱藏財富」，將無形價值轉化為超過1.5億美元的具體收益。"
+        }
+      ]
+    },
     {
       "date": "2026年9月29日",
       "topics": [
@@ -207,22 +223,6 @@
             "降低門檻"
           ],
           "innovationPoint": "創新點：Odin 將傳統高門檻的創投業務「平台化」與「模組化」，讓任何個人或小型機構都能輕鬆啟動與管理自己的私募基金，顛覆了僅限少數人參與的創投模式，創造「創投界的Shopify」。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月14日",
-      "topics": [
-        {
-          "title": "Now it&#8217;s China&#8217;s experts who are gig workers training AI",
-          "keywords": [
-            "AI訓練",
-            "零工經濟",
-            "知識商品化",
-            "勞動市場轉型",
-            "中國案例"
-          ],
-          "innovationPoint": "創新點：中國經濟下行促使高學歷專業人士（律師、建築師、工程師）反常識地轉型為AI模型訓練的零工，將專業知識商品化，創造出一個新型態的技能型零工經濟，以應對生計壓力。"
         }
       ]
     }
