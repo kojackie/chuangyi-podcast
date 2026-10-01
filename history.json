@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "episodes": [
+    {
+      "date": "2026年10月1日",
+      "topics": [
+        {
+          "title": "How smaller, distributed batteries could help the grid",
+          "keywords": [
+            "分散式創新",
+            "反常識",
+            "能源儲存",
+            "電網",
+            "基礎設施",
+            "法規挑戰"
+          ],
+          "innovationPoint": "創新點：面對大型儲能設施的嚴峻法規與部署困難，新創公司反其道而行，透過將小型電池分散佈署於意想不到的地點，為電網提供解決方案。"
+        }
+      ]
+    },
     {
       "date": "2026年9月30日",
       "topics": [
@@ -207,22 +224,6 @@
             "病毒式傳播"
           ],
           "innovationPoint": "創新點：一位23歲的年輕創業者，將Facebook Marketplace上的一個二手發現，改造為創意生活用品，並透過社群媒體成功病毒式行銷，兩週內創造15萬美元營收，證明創新與爆款商品不需高成本，關鍵在於洞察與社群行銷力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月17日",
-      "topics": [
-        {
-          "title": "The EU-Startups Podcast | Interview with Patrick Ryan, co-founder of Odin",
-          "keywords": [
-            "創投",
-            "平台化",
-            "商業模式創新",
-            "金融科技",
-            "降低門檻"
-          ],
-          "innovationPoint": "創新點：Odin 將傳統高門檻的創投業務「平台化」與「模組化」，讓任何個人或小型機構都能輕鬆啟動與管理自己的私募基金，顛覆了僅限少數人參與的創投模式，創造「創投界的Shopify」。"
         }
       ]
     }
