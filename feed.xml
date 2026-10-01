@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                            <item>
+                                                                                                                                              <item>
+    <title>突破大型基建困境：小型分散電池如何顛覆電網挑戰？</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得很有意思的案例，它跟紐約市的電網有關，但我覺得對我們很多台灣中小企業主或上班族來說，會很有啟發。   紐約電網？聽起來有點遙遠，怎麼說呢？通常這些大型基礎建設的案子，跟一般小公司或我們上班族能做的，中間隔著一道很深的鴻溝吧。   不，這就是它特別的地方。紐約市在建大型儲能設施的時候，會遇到非常多的法規障礙，還有民眾對電池火災的疑慮。簡單說，要裝大型電池很難。   嗯，大型基...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-01.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-01.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 01 Oct 2026 11:02:45 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-01</guid>
+  </item>
+  <item>
     <title>我家也能挖寶？將「隱藏財富」變1.5億美元的服務魔法</title>
     <description><![CDATA[今天要分享的案例，其實一開始我看的時候，會覺得跟我們一般的生活好像有點遠，但細想之下，又覺得它把一個很常見的東西玩出了新花樣。  怎麼說呢？通常這種說法，不是什麼高科技，就是非常顛覆性的應用吧。  也不能說它完全不是高科技，但核心的概念其實很簡單。這家公司叫做 Unvault，它做的是「幫你把家裡放著沒動的珠寶首飾，變成錢」。  哦？變現的意思嗎？這點子有什麼特別？一般不是就去當舖、銀樓嗎？這算是...
 
