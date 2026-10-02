@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-01",
+  "lastUpdated": "2026-10-02",
   "episodes": [
+    {
+      "date": "2026年10月2日",
+      "topics": [
+        {
+          "title": "A new contest pits competitors against each other in a race to biological youth",
+          "keywords": [
+            "生物年齡",
+            "健康競賽",
+            "反常識",
+            "行為激勵",
+            "醫療創新"
+          ],
+          "innovationPoint": "創新點：這項競賽反常識地獎勵「變年輕」，透過將生物年齡數據化並以競賽形式激勵參與者改善健康，顛覆傳統對老化不可逆的認知，並開創健康管理新模式。"
+        }
+      ]
+    },
     {
       "date": "2026年10月1日",
       "topics": [
@@ -208,22 +224,6 @@
             "規模化協作"
           ],
           "innovationPoint": "創新點：這家虛擬生技公司反常識地運用37,000個AI代理組成「虛擬研發團隊」，在沒有實體實驗室和大量人力的情況下，大幅加速藥物研發進程，成功預測潛在癌症療法，證明AI能以「蜂群式」協作模式顛覆傳統高門檻產業。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月18日",
-      "topics": [
-        {
-          "title": "This 23-Year-Old Turned a Facebook Marketplace Find Into a Creative Household Product. It Exploded on Social Media and Made $150K in 2 Weeks.",
-          "keywords": [
-            "社群行銷",
-            "爆款商品",
-            "二手改造",
-            "低成本創業",
-            "病毒式傳播"
-          ],
-          "innovationPoint": "創新點：一位23歲的年輕創業者，將Facebook Marketplace上的一個二手發現，改造為創意生活用品，並透過社群媒體成功病毒式行銷，兩週內創造15萬美元營收，證明創新與爆款商品不需高成本，關鍵在於洞察與社群行銷力。"
         }
       ]
     }
