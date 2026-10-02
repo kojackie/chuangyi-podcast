@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                              <item>
+                                                                                                                                                <item>
+    <title>逆轉老化！一場「變年輕」競賽顛覆健康管理</title>
+    <description><![CDATA[你有沒有想過，如果有一天，有場比賽是獎勵你「變年輕」的？不是那種心理上的年輕喔，是真的生理數據上的年輕。   等等，這裡我有疑問。變年輕？這聽起來有點出乎意料，因為我們都知道時間是單向流動的，生理年齡怎麼可能倒退？這跟我們一般想法不同吧。   確實是這樣。這個創新案例來自「MIT科技評論」提到的一個競賽，叫做「Younger contest」。它正是反其道而行，獎勵那些在六個月內，讓自己生物年齡變...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-02.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-02.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 02 Oct 2026 10:10:26 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-02</guid>
+  </item>
+  <item>
     <title>突破大型基建困境：小型分散電池如何顛覆電網挑戰？</title>
     <description><![CDATA[今天想跟大家聊一個我覺得很有意思的案例，它跟紐約市的電網有關，但我覺得對我們很多台灣中小企業主或上班族來說，會很有啟發。   紐約電網？聽起來有點遙遠，怎麼說呢？通常這些大型基礎建設的案子，跟一般小公司或我們上班族能做的，中間隔著一道很深的鴻溝吧。   不，這就是它特別的地方。紐約市在建大型儲能設施的時候，會遇到非常多的法規障礙，還有民眾對電池火災的疑慮。簡單說，要裝大型電池很難。   嗯，大型基...
 
