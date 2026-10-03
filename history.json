@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-03",
   "episodes": [
+    {
+      "date": "2026年10月3日",
+      "topics": [
+        {
+          "title": "5 Startup Rules We Broke on the Way to Building a Successful Company",
+          "keywords": [
+            "反常識創業",
+            "規則打破",
+            "獨特定位",
+            "新創策略",
+            "另類成功"
+          ],
+          "innovationPoint": "創新點：一家公司透過刻意打破傳統創業的五大「黃金法則」，例如不盲目追求成長、不急著募資或挑戰既有市場慣例，反而找到獨特的利基與成長路徑，證明反向操作也能成功。"
+        }
+      ]
+    },
     {
       "date": "2026年10月2日",
       "topics": [
@@ -208,22 +224,6 @@
             "Penelope Health"
           ],
           "innovationPoint": "創新點：Penelope Health 透過其「即時政策與支付情報平台」，連接醫療服務提供者與支付方，將傳統冗長且複雜的醫療保險理賠與政策審核流程，轉化為類似電商的即時交易模式，覆蓋 2 億病患，顛覆慢動作的醫療支付產業。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月19日",
-      "topics": [
-        {
-          "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
-          "keywords": [
-            "AI藥物研發",
-            "虛擬公司",
-            "AI代理",
-            "生技創新",
-            "規模化協作"
-          ],
-          "innovationPoint": "創新點：這家虛擬生技公司反常識地運用37,000個AI代理組成「虛擬研發團隊」，在沒有實體實驗室和大量人力的情況下，大幅加速藥物研發進程，成功預測潛在癌症療法，證明AI能以「蜂群式」協作模式顛覆傳統高門檻產業。"
         }
       ]
     }
