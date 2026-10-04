@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-03",
+  "lastUpdated": "2026-10-04",
   "episodes": [
+    {
+      "date": "2026年10月4日",
+      "topics": [
+        {
+          "title": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
+          "keywords": [
+            "沙烏地",
+            "電動車",
+            "集團策略",
+            "內部競爭",
+            "資本佈局"
+          ],
+          "innovationPoint": "創新點：沙烏地主權基金同時持有並支持兩個相互競爭的電動車品牌，透過這種「左右手互搏」的策略，實現更深層的市場滲透與產業佈局，顛覆傳統商業中避免內部競爭的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年10月3日",
       "topics": [
@@ -207,23 +223,6 @@
             "流程再設計"
           ],
           "innovationPoint": "創新點：Unit1 Studio顛覆高門檻的「虛擬偶像演唱會」模式，目標將其從單一、高成本的「ABBA Voyage」等級體驗，透過標準化與技術革新，轉變為可大規模複製、多場地巡演的商業模式，讓虛擬娛樂普及化。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月20日",
-      "topics": [
-        {
-          "title": "With 200 million patients covered, Penelope Health secures a €87 million funding commitment",
-          "keywords": [
-            "醫療科技",
-            "支付創新",
-            "平台經濟",
-            "服務流程再造",
-            "傳統產業轉型",
-            "Penelope Health"
-          ],
-          "innovationPoint": "創新點：Penelope Health 透過其「即時政策與支付情報平台」，連接醫療服務提供者與支付方，將傳統冗長且複雜的醫療保險理賠與政策審核流程，轉化為類似電商的即時交易模式，覆蓋 2 億病患，顛覆慢動作的醫療支付產業。"
         }
       ]
     }
