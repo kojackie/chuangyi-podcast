@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                    <item>
+                                                                                                                                                      <item>
+    <title>AI解鎖法律研究：洞見藏在「數據基礎建設」</title>
+    <description><![CDATA[今天我們來聊聊一個滿有趣的案例，一家丹麥公司 Pandektes，專做法律科技，最近募到 1350 萬歐元，不算小數目。   法律科技？嗯，聽起來很專業。不過現在 AI 不是什麼都能做嗎？他們的「創新點」在哪裡？總不會只是把法律資料餵給 AI 這麼簡單吧？   其實他們出乎意料的地方就在這。一般人想到 AI 應用，都會想著模型要多厲害，但 Pandektes 卻專注在「數據基礎設施」上，尤其針對法...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-05.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-05.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 05 Oct 2026 10:10:22 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-05</guid>
+  </item>
+  <item>
     <title>左右互搏戰術？一基金同時養兩EV對手，背後盤算為何？</title>
     <description><![CDATA[嘿，你最近有沒有聽說沙烏地阿拉伯在電動車市場的最新動作？我覺得這件事挺有意思的，有點出乎意料。   嗯，你說的是他們那個新的電動車品牌 Ceer Motors 嗎？我大概看了一下，聽說他們的主權基金同時也是美國 Lucid 的大股東，這點是讓我有點疑問啦，怎麼會讓兩家有競爭關係的公司都跟自己有這麼深的連結？   對，就是這個。一般企業當然會想避免內部競爭，但沙烏地的主權基金，也就是 PIF，這次的...
 
