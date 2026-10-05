@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-04",
+  "lastUpdated": "2026-10-05",
   "episodes": [
+    {
+      "date": "2026年10月5日",
+      "topics": [
+        {
+          "title": "Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research",
+          "keywords": [
+            "AI數據基礎建設",
+            "法律科技",
+            "知識管理",
+            "數據治理",
+            "專業服務AI化"
+          ],
+          "innovationPoint": "創新點：Pandektes顛覆單純追求AI模型進步的思維，專注於為高度專業化的法律領域打造AI驅動的「數據基礎設施」，將數據前處理與知識圖譜視為AI應用的核心競爭力。"
+        }
+      ]
+    },
     {
       "date": "2026年10月4日",
       "topics": [
@@ -207,22 +223,6 @@
             "效率提升"
           ],
           "innovationPoint": "創新點：Primo 透過「自主 AI 代理」平台顛覆傳統 IT 管理模式，整合裝置、SaaS、身份與支援，將複雜的企業 IT 運維工作全面自動化，讓 IT 團隊從重複性任務中解放。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月21日",
-      "topics": [
-        {
-          "title": "London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model",
-          "keywords": [
-            "虛擬演唱會",
-            "娛樂創新",
-            "商業模式轉型",
-            "規模化服務",
-            "流程再設計"
-          ],
-          "innovationPoint": "創新點：Unit1 Studio顛覆高門檻的「虛擬偶像演唱會」模式，目標將其從單一、高成本的「ABBA Voyage」等級體驗，透過標準化與技術革新，轉變為可大規模複製、多場地巡演的商業模式，讓虛擬娛樂普及化。"
         }
       ]
     }
