@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                      <item>
+                                                                                                                                                        <item>
+    <title>破產邊緣切斷Subway，翻轉成5400萬美元！放棄大咖竟是爆發關鍵？</title>
+    <description><![CDATA[欸，你聽過那種，公司快要撐不下去的時候，反而做出一個你可能沒想到，甚至會覺得很瘋狂的決定，結果就翻身的故事嗎？   嗯，聽過一些傳說啦，但大部分都覺得是事後諸葛。真的會有人在快要破產時，還敢放棄一個知名的大品牌合作嗎？這聽起來有點天方夜譚。   就是有！今天這個案例的主角叫 Hero Bread。他們之前跟 Subway 合作，想把他們低碳、零糖的麵包產品推出去。結果呢？單位經濟效益根本不划算，公...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-06.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-06.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 06 Oct 2026 10:10:38 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-06</guid>
+  </item>
+  <item>
     <title>AI解鎖法律研究：洞見藏在「數據基礎建設」</title>
     <description><![CDATA[今天我們來聊聊一個滿有趣的案例，一家丹麥公司 Pandektes，專做法律科技，最近募到 1350 萬歐元，不算小數目。   法律科技？嗯，聽起來很專業。不過現在 AI 不是什麼都能做嗎？他們的「創新點」在哪裡？總不會只是把法律資料餵給 AI 這麼簡單吧？   其實他們出乎意料的地方就在這。一般人想到 AI 應用，都會想著模型要多厲害，但 Pandektes 卻專注在「數據基礎設施」上，尤其針對法...
 
