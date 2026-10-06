@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-06",
   "episodes": [
+    {
+      "date": "2026年10月6日",
+      "topics": [
+        {
+          "title": "The CEO of a Company That Cut Ties With Subway Reveals How It Went From Running Out of Cash to $54 Million a Year",
+          "keywords": [
+            "商業模式轉型",
+            "策略性切割",
+            "企業轉型",
+            "爆發性成長",
+            "反向操作"
+          ],
+          "innovationPoint": "創新點：一家公司在瀕臨破產時，反常識地選擇切斷與知名品牌Subway的合作關係，專注於自有品牌發展，最終實現從現金流枯竭到年營收5400萬美元的驚人轉變，證明策略性『捨棄』是成長的關鍵。"
+        }
+      ]
+    },
     {
       "date": "2026年10月5日",
       "topics": [
@@ -207,22 +223,6 @@
             "SaaS"
           ],
           "innovationPoint": "創新點：Mika 顛覆傳統稅務服務業，以 AI 原生平台取代傳統稅務事務所模式，將高度專業與人力的稅務申報與管理服務，轉化為自動化、高效的數位體驗，成功募資600萬歐元。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月22日",
-      "topics": [
-        {
-          "title": "Paris-based Primo raises €6.9 million to deploy autonomous AI agents for IT teams",
-          "keywords": [
-            "AI 自動化",
-            "IT 管理",
-            "企業服務",
-            "自主代理",
-            "效率提升"
-          ],
-          "innovationPoint": "創新點：Primo 透過「自主 AI 代理」平台顛覆傳統 IT 管理模式，整合裝置、SaaS、身份與支援，將複雜的企業 IT 運維工作全面自動化，讓 IT 團隊從重複性任務中解放。"
         }
       ]
     }
