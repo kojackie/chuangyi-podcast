@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                        <item>
+                                                                                                                                                          <item>
+    <title>自建AI agent沙盒：擺脫巨頭綁架，掌控AI開發成本與自由！</title>
+    <description><![CDATA[我今天看到一個蠻有意思的案例，叫做「Pi pod」。它在 Hacker News 上面被提出來，很有趣的一點是，現在大家談 AI agent 都覺得好像是巨頭的服務，需要一直燒錢。   嗯，對，而且很多時候你用那些服務，就等於把自己的資料、自己的模型都綁死在他們那裡。換個供應商可能又要重新來過。   沒錯，這「Pi pod」反而是鼓勵大家自己架設 AI agent 的環境，甚至提供開源程式碼。它讓...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-07.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-07.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 07 Oct 2026 10:10:09 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-07</guid>
+  </item>
+  <item>
     <title>破產邊緣切斷Subway，翻轉成5400萬美元！放棄大咖竟是爆發關鍵？</title>
     <description><![CDATA[欸，你聽過那種，公司快要撐不下去的時候，反而做出一個你可能沒想到，甚至會覺得很瘋狂的決定，結果就翻身的故事嗎？   嗯，聽過一些傳說啦，但大部分都覺得是事後諸葛。真的會有人在快要破產時，還敢放棄一個知名的大品牌合作嗎？這聽起來有點天方夜譚。   就是有！今天這個案例的主角叫 Hero Bread。他們之前跟 Subway 合作，想把他們低碳、零糖的麵包產品推出去。結果呢？單位經濟效益根本不划算，公...
 
