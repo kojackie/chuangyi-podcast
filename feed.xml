@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                          <item>
+                                                                                                                                                            <item>
+    <title>偷學迪士尼服務秘訣：頂級員工訓練，中小企業也能打造感動顧客的魔法</title>
+    <description><![CDATA[欸，你聽過迪士尼他們訓練員工的方式嗎？我最近看到一篇文章，發現很多地方跟我們想的不太一樣。   迪士尼的訓練？嗯，我猜啦，不就是那些強調「魔法」、「奇蹟」什麼的，把員工洗腦得很開心去服務顧客嘛。聽起來有點假。   其實我一開始也有點懷疑，但文章裡提到一個點很有意思。他們在佛羅里達的「迪士尼大學」裡，竟然蓋了假的飯店房間跟模擬大廳。   假的？這是幹嘛用的？演戲給誰看？成本划算嗎？   就是讓新進的...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-08.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-08.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 08 Oct 2026 10:11:04 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-08</guid>
+  </item>
+  <item>
     <title>自建AI agent沙盒：擺脫巨頭綁架，掌控AI開發成本與自由！</title>
     <description><![CDATA[我今天看到一個蠻有意思的案例，叫做「Pi pod」。它在 Hacker News 上面被提出來，很有趣的一點是，現在大家談 AI agent 都覺得好像是巨頭的服務，需要一直燒錢。   嗯，對，而且很多時候你用那些服務，就等於把自己的資料、自己的模型都綁死在他們那裡。換個供應商可能又要重新來過。   沒錯，這「Pi pod」反而是鼓勵大家自己架設 AI agent 的環境，甚至提供開源程式碼。它讓...
 
