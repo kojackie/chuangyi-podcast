@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-08",
+  "lastUpdated": "2026-10-09",
   "episodes": [
+    {
+      "date": "2026年10月9日",
+      "topics": [
+        {
+          "title": "The Business Case for Slowing Down When Everyone Is Rushing",
+          "keywords": [
+            "反常識策略",
+            "慢成長",
+            "永續經營",
+            "策略性放緩",
+            "企業文化"
+          ],
+          "innovationPoint": "創新點：在所有產業都追求快速成長、加速擴張的時代，反其道而行，提出「放慢腳步」反而能帶來長期競爭優勢與更深層次商業價值的策略，顛覆了傳統的『速度至上』思維。"
+        }
+      ]
+    },
     {
       "date": "2026年10月8日",
       "topics": [
@@ -208,22 +224,6 @@
             "個人創業"
           ],
           "innovationPoint": "創新點：個人或小團隊透過AI工具，反常識地「組建」出一個能執行多種行銷職能的「七人行銷團隊」，以極低成本和人力達成大型組織的行銷效果，顛覆傳統行銷團隊的建構模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月25日",
-      "topics": [
-        {
-          "title": "Amsterdam-based Duqu raises €1.5 million to unlock cash tied up in unpaid invoices",
-          "keywords": [
-            "應收帳款",
-            "AI金融",
-            "現金流",
-            "FinTech",
-            "商業模式創新"
-          ],
-          "innovationPoint": "創新點：Duqu透過其FinTech平台，讓企業能立即獲得被鎖定在未付發票中的資金，並結合AI自動化95%的信用評估流程，顛覆傳統應收帳款融資的緩慢與繁瑣，加速企業現金流。"
         }
       ]
     }
