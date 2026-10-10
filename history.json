@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-09",
+  "lastUpdated": "2026-10-10",
   "episodes": [
+    {
+      "date": "2026年10月10日",
+      "topics": [
+        {
+          "title": "Dutch greenhouse firms in China pivot to selling software",
+          "keywords": [
+            "傳統產業轉型",
+            "軟體即服務",
+            "農業科技",
+            "商業模式反轉",
+            "知識變現"
+          ],
+          "innovationPoint": "創新點：傳統荷蘭溫室硬體供應商在中國市場反其道而行，透過將農業專業知識軟體化，轉型為提供農業管理軟體服務，將硬體銷售轉為高價值的知識服務輸出。"
+        }
+      ]
+    },
     {
       "date": "2026年10月9日",
       "topics": [
@@ -208,22 +224,6 @@
             "日本案例"
           ],
           "innovationPoint": "創新點：日本野澤溫泉滑雪度假村反其道而行，刻意限制高樓飯店開發，透過「減法」而非「加法」策略，成功維護獨特文化與自然景觀，確保品牌價值與永續發展，顛覆觀光業盲目追求規模成長的常識。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月26日",
-      "topics": [
-        {
-          "title": "I Built a 7-Person Marketing Team Using AI. Here’s the Exact Setup.",
-          "keywords": [
-            "AI工具",
-            "行銷團隊",
-            "組織效率",
-            "低成本",
-            "個人創業"
-          ],
-          "innovationPoint": "創新點：個人或小團隊透過AI工具，反常識地「組建」出一個能執行多種行銷職能的「七人行銷團隊」，以極低成本和人力達成大型組織的行銷效果，顛覆傳統行銷團隊的建構模式。"
         }
       ]
     }
