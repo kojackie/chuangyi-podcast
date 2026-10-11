@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                <item>
+                                                                                                                                                                  <item>
+    <title>機器人咖啡師與K-pop舞者：AI實體服務如何顛覆餐飲娛樂？</title>
+    <description><![CDATA[這次這個韓國案例啊，我看了會想，真的有必要把 AI 做成實體機器人嗎？  我一開始也這樣想，畢竟現在 AI 都在雲端、手機裡，大家習慣了。但韓國的做法，是讓 AI 直接走到餐飲店、娛樂場所前面服務顧客，這點就出乎意料。  怎麼說呢？聽起來像是在炒話題，搞不好成本超高，根本撐不久。  其實原文有提到，他們不只是餐飲，還有像首爾今年八月才開幕的「Galaxy Robot Park」，裡面有機器人跳 K...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-11.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 11 Oct 2026 10:10:51 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-11</guid>
+  </item>
+  <item>
     <title>溫室巨頭不只賣設備：從硬體商轉型農業軟體服務的創新路徑</title>
     <description><![CDATA[哎，今天看到一個案例，讓我覺得有點意思。是說那些荷蘭的溫室公司，在中國市場的做法。   怎麼了？荷蘭溫室，我印象中就是技術很強，硬體蓋得很好啊，他們在中國也蓋了很多溫室吧？   對，一開始是這樣沒錯。他們傳統就是把整套溫室硬體出口到中國去。但現在狀況變了，他們開始轉型，不怎麼賣硬體了。   不賣硬體？那賣什麼？是賣裡面的種子，還是配套的肥料啊？這有點出乎意料耶。   他們現在主打的是「軟體」和「系...
 
