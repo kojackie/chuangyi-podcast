@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-10",
+  "lastUpdated": "2026-10-11",
   "episodes": [
+    {
+      "date": "2026年10月11日",
+      "topics": [
+        {
+          "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
+          "keywords": [
+            "AI機器人",
+            "實體場域",
+            "服務創新",
+            "餐飲零售",
+            "韓國"
+          ],
+          "innovationPoint": "創新點：南韓在餐飲、娛樂等實體場域大規模應用AI機器人，不僅提升服務效率與品質，更創造出新奇互動體驗和商業價值，讓AI從幕後走向前台，顛覆了傳統服務業的營運模式與顧客體驗。"
+        }
+      ]
+    },
     {
       "date": "2026年10月10日",
       "topics": [
@@ -208,22 +224,6 @@
             "創業賦能"
           ],
           "innovationPoint": "創新點：新創bilt.me透過其AI原生行動應用程式建構平台，讓非技術背景的個人或小團隊也能快速開發客製化App，以低成本、高效能的方式顛覆傳統App開發的高門檻模式，實現應用程式民主化。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月27日",
-      "topics": [
-        {
-          "title": "Japan's Nozawa Onsen ski resort curbs development of tall hotels",
-          "keywords": [
-            "服務設計創新",
-            "反常識商業策略",
-            "觀光永續",
-            "品牌定位",
-            "日本案例"
-          ],
-          "innovationPoint": "創新點：日本野澤溫泉滑雪度假村反其道而行，刻意限制高樓飯店開發，透過「減法」而非「加法」策略，成功維護獨特文化與自然景觀，確保品牌價值與永續發展，顛覆觀光業盲目追求規模成長的常識。"
         }
       ]
     }
