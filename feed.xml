@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                  <item>
+                                                                                                                                                                    <item>
+    <title>熬12年自給自足！法國新創先賺錢再募資，反轉創業遊戲規則</title>
+    <description><![CDATA[今天我們來聊一個很有意思的法國新創公司，叫做 Wiremind。它成立超過十年了，最近才完成第一輪募資，募到了 3500 萬歐元。   十年才募資？這聽起來有點出乎意料，現在的新創不是都求快，恨不得三五年就上市嗎？他們這十年都在做什麼？   他們這十年來一直堅持「自給自足」，也就是自己賺錢、自己燒錢，沒有拿外面一毛錢。更厲害的是，他們一直保持盈利狀態。   盈利了才募資，這做法確實跟主流創業模式很...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-12.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-12.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 12 Oct 2026 10:09:54 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-12</guid>
+  </item>
+  <item>
     <title>機器人咖啡師與K-pop舞者：AI實體服務如何顛覆餐飲娛樂？</title>
     <description><![CDATA[這次這個韓國案例啊，我看了會想，真的有必要把 AI 做成實體機器人嗎？  我一開始也這樣想，畢竟現在 AI 都在雲端、手機裡，大家習慣了。但韓國的做法，是讓 AI 直接走到餐飲店、娛樂場所前面服務顧客，這點就出乎意料。  怎麼說呢？聽起來像是在炒話題，搞不好成本超高，根本撐不久。  其實原文有提到，他們不只是餐飲，還有像首爾今年八月才開幕的「Galaxy Robot Park」，裡面有機器人跳 K...
 
