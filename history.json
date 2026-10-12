@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-12",
   "episodes": [
+    {
+      "date": "2026年10月12日",
+      "topics": [
+        {
+          "title": "Profitable French scale-up Wiremind raises €35 million after 12 years of bootstrapping",
+          "keywords": [
+            "自給自足",
+            "盈利創業",
+            "募資策略",
+            "永續成長",
+            "軟體服務"
+          ],
+          "innovationPoint": "創新點：一家法國新創公司Wiremind，在長達12年的時間裡堅持自給自足（bootstrapping）並實現盈利，才選擇募資3500萬歐元，顛覆了創業圈「快速募資、燒錢成長」的常規，證明了先建立穩健盈利模式再擴張的策略可行性。"
+        }
+      ]
+    },
     {
       "date": "2026年10月11日",
       "topics": [
@@ -208,22 +224,6 @@
             "效率提升"
           ],
           "innovationPoint": "創新點：顛覆「沒有大預算就做不到」的常識，揭示中小企業如何用低成本「借用」大型企業經過驗證的系統與策略，甚至利用免費工具和公開資訊，達成與巨頭比肩的效率和成果。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月28日",
-      "topics": [
-        {
-          "title": "Estonia&#8217;s bilt.me raises €615k with backing from Bolt and Lightyear founders to scale its AI-native mobile app builder",
-          "keywords": [
-            "AI原生",
-            "App開發",
-            "無程式碼",
-            "數位轉型",
-            "創業賦能"
-          ],
-          "innovationPoint": "創新點：新創bilt.me透過其AI原生行動應用程式建構平台，讓非技術背景的個人或小團隊也能快速開發客製化App，以低成本、高效能的方式顛覆傳統App開發的高門檻模式，實現應用程式民主化。"
         }
       ]
     }
