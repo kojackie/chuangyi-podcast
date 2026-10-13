@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-12",
+  "lastUpdated": "2026-10-13",
   "episodes": [
+    {
+      "date": "2026年10月13日",
+      "topics": [
+        {
+          "title": "AI labs are buying data from dead startups to train their models",
+          "keywords": [
+            "數據資產",
+            "廢棄數據",
+            "AI訓練",
+            "商業模式創新",
+            "非傳統資源"
+          ],
+          "innovationPoint": "創新點：AI實驗室反常識地從『倒閉新創公司』購買數據來訓練模型，將被視為無價值的廢棄數據轉化為高價資產，顛覆了傳統對數據來源和價值的認知。"
+        }
+      ]
+    },
     {
       "date": "2026年10月12日",
       "topics": [
@@ -208,22 +224,6 @@
             "財富發掘"
           ],
           "innovationPoint": "創新點：顛覆傳統資產定義，透過獨特服務模式協助客戶發掘並活化家中被忽略的「隱藏財富」，將無形價值轉化為超過1.5億美元的具體收益。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月29日",
-      "topics": [
-        {
-          "title": "You Don’t Need a Big Company’s Budget to Borrow Its Best Systems. Here’s How.",
-          "keywords": [
-            "借鑒策略",
-            "低成本創新",
-            "系統導入",
-            "中小企業",
-            "效率提升"
-          ],
-          "innovationPoint": "創新點：顛覆「沒有大預算就做不到」的常識，揭示中小企業如何用低成本「借用」大型企業經過驗證的系統與策略，甚至利用免費工具和公開資訊，達成與巨頭比肩的效率和成果。"
         }
       ]
     }
