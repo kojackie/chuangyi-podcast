@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                    <item>
+                                                                                                                                                                      <item>
+    <title>AI從倒閉新創淘金：死數據變訓練黃金</title>
+    <description><![CDATA[欸，你聽過那種公司倒閉後，資料居然還能賣錢的嗎？而且還是賣給 AI 實驗室。我最近看到一個消息，覺得蠻出乎意料的。   倒閉公司的資料？怎麼說？一般來說，公司結束營業不就是把所有東西清光，資料頂多是做銷毀處理嗎？誰會去買那種已經「過期」的資料？而且 AI 實驗室不是應該要最新、最乾淨的資料嗎？   這就是有趣的地方了。原文有提到一個叫 Keelan Miskell 的人，他的加密貨幣新創公司倒閉時...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-13.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-13.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 13 Oct 2026 10:10:53 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-13</guid>
+  </item>
+  <item>
     <title>熬12年自給自足！法國新創先賺錢再募資，反轉創業遊戲規則</title>
     <description><![CDATA[今天我們來聊一個很有意思的法國新創公司，叫做 Wiremind。它成立超過十年了，最近才完成第一輪募資，募到了 3500 萬歐元。   十年才募資？這聽起來有點出乎意料，現在的新創不是都求快，恨不得三五年就上市嗎？他們這十年都在做什麼？   他們這十年來一直堅持「自給自足」，也就是自己賺錢、自己燒錢，沒有拿外面一毛錢。更厲害的是，他們一直保持盈利狀態。   盈利了才募資，這做法確實跟主流創業模式很...
 
