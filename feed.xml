@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                      <item>
+                                                                                                                                                                        <item>
+    <title>造車巨頭反其道而行：自建船隊，掌控供應鏈終極武器</title>
+    <description><![CDATA[今天我們要聊一個很有意思的案例，是中國電動車巨頭比亞迪（BYD）的故事。他們做了一件你可能沒想到的事情，就是自己蓋船來運電動車。   蓋船？電動車公司蓋船？這聽起來很奇怪耶。現在的公司不都追求輕資產，把物流外包出去嗎？他們這樣不是把成本搞得很高嗎？   這就是重點啊！他們出乎意料的地方就在這裡。一般來說，為了靈活和降低風險，大公司確實會把物流外包。但比亞迪卻反其道而行。   那他們這樣做是為了什麼...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-14.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-14.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 14 Oct 2026 10:10:49 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-14</guid>
+  </item>
+  <item>
     <title>AI從倒閉新創淘金：死數據變訓練黃金</title>
     <description><![CDATA[欸，你聽過那種公司倒閉後，資料居然還能賣錢的嗎？而且還是賣給 AI 實驗室。我最近看到一個消息，覺得蠻出乎意料的。   倒閉公司的資料？怎麼說？一般來說，公司結束營業不就是把所有東西清光，資料頂多是做銷毀處理嗎？誰會去買那種已經「過期」的資料？而且 AI 實驗室不是應該要最新、最乾淨的資料嗎？   這就是有趣的地方了。原文有提到一個叫 Keelan Miskell 的人，他的加密貨幣新創公司倒閉時...
 
