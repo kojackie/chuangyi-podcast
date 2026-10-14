@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-13",
+  "lastUpdated": "2026-10-14",
   "episodes": [
+    {
+      "date": "2026年10月14日",
+      "topics": [
+        {
+          "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
+          "keywords": [
+            "垂直整合",
+            "供應鏈韌性",
+            "物流自主",
+            "地緣政治影響",
+            "製造業轉型"
+          ],
+          "innovationPoint": "創新點：電動車巨頭比亞迪（BYD）反常識地投入重資產，建立自有船隊來運輸電動車，顛覆了現代企業普遍追求輕資產、外包物流的常規，以應對地緣政治、高運費和供應鏈不穩定的挑戰。"
+        }
+      ]
+    },
     {
       "date": "2026年10月13日",
       "topics": [
@@ -208,22 +224,6 @@
             "法規挑戰"
           ],
           "innovationPoint": "創新點：面對大型儲能設施的嚴峻法規與部署困難，新創公司反其道而行，透過將小型電池分散佈署於意想不到的地點，為電網提供解決方案。"
-        }
-      ]
-    },
-    {
-      "date": "2026年9月30日",
-      "topics": [
-        {
-          "title": "She Founded a Company to Help People Find Wealth Hidden at Home. It’s Unlocked More Than $150 Million So Far: ‘The OG Asset Class.’",
-          "keywords": [
-            "隱藏資產",
-            "價值創新",
-            "服務設計",
-            "創業成功",
-            "財富發掘"
-          ],
-          "innovationPoint": "創新點：顛覆傳統資產定義，透過獨特服務模式協助客戶發掘並活化家中被忽略的「隱藏財富」，將無形價值轉化為超過1.5億美元的具體收益。"
         }
       ]
     }
