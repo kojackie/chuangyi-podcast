@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                        <item>
+                                                                                                                                                                          <item>
+    <title>你的收件箱只收一封信！反常識郵件App如何創造極致專注？</title>
+    <description><![CDATA[今天這個案例，我看到的時候其實有點出乎意料，因為它跟我們平常習慣的服務完全相反。   怎麼說？是什麼樣的服務？聽起來有點懸。   它是一個郵件應用程式，叫做「Hacker News」的 Show HN。最特別的地方在於，一個收件箱只能接受一個寄件人的郵件。其他寄件人的郵件，它會主動彈回去。   只能一個寄件人？等等，這裡我有疑問。這跟我們普遍認知太不一樣了。一般收件箱不是希望越多信越好，才不會漏掉...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-15.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-15.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 15 Oct 2026 10:10:02 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-15</guid>
+  </item>
+  <item>
     <title>造車巨頭反其道而行：自建船隊，掌控供應鏈終極武器</title>
     <description><![CDATA[今天我們要聊一個很有意思的案例，是中國電動車巨頭比亞迪（BYD）的故事。他們做了一件你可能沒想到的事情，就是自己蓋船來運電動車。   蓋船？電動車公司蓋船？這聽起來很奇怪耶。現在的公司不都追求輕資產，把物流外包出去嗎？他們這樣不是把成本搞得很高嗎？   這就是重點啊！他們出乎意料的地方就在這裡。一般來說，為了靈活和降低風險，大公司確實會把物流外包。但比亞迪卻反其道而行。   那他們這樣做是為了什麼...
 
