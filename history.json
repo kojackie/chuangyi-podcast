@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-15",
   "episodes": [
+    {
+      "date": "2026年10月15日",
+      "topics": [
+        {
+          "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+          "keywords": [
+            "反常識",
+            "郵件管理",
+            "單一收件人",
+            "效率工具",
+            "極簡主義"
+          ],
+          "innovationPoint": "創新點：該郵件應用徹底反轉了「通用收件箱」的常識，為每個收件箱設定單一寄件人限制，並主動彈回其他郵件，創造極致專注的溝通模式。"
+        }
+      ]
+    },
     {
       "date": "2026年10月14日",
       "topics": [
@@ -207,23 +223,6 @@
             "醫療創新"
           ],
           "innovationPoint": "創新點：這項競賽反常識地獎勵「變年輕」，透過將生物年齡數據化並以競賽形式激勵參與者改善健康，顛覆傳統對老化不可逆的認知，並開創健康管理新模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月1日",
-      "topics": [
-        {
-          "title": "How smaller, distributed batteries could help the grid",
-          "keywords": [
-            "分散式創新",
-            "反常識",
-            "能源儲存",
-            "電網",
-            "基礎設施",
-            "法規挑戰"
-          ],
-          "innovationPoint": "創新點：面對大型儲能設施的嚴峻法規與部署困難，新創公司反其道而行，透過將小型電池分散佈署於意想不到的地點，為電網提供解決方案。"
         }
       ]
     }
