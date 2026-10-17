@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                          <item>
+                                                                                                                                                                            <item>
+    <title>20人AI公司如何超車巨頭？小搏大策略曝光</title>
+    <description><![CDATA[今天這個案例，我其實看到標題就覺得很訝異。一家才20個人的AI新創公司，竟然說他們可以超越規模是他們三倍大的競爭對手？這聽起來是不是有點…出乎意料？   確實，一般人會覺得資源和人數就是硬實力，尤其在AI這種高技術門檻的領域。三倍的團隊規模，意味著更多的開發者、更多的資金，照理說他們應該更有能力去「出貨」，也就是更快地推出產品。   對啊，所以我第一個疑問就是，他們到底是怎麼做到的？難道真的是靠A...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-17.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-17.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 17 Oct 2026 10:10:49 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-17</guid>
+  </item>
+  <item>
     <title>你的收件箱只收一封信！反常識郵件App如何創造極致專注？</title>
     <description><![CDATA[今天這個案例，我看到的時候其實有點出乎意料，因為它跟我們平常習慣的服務完全相反。   怎麼說？是什麼樣的服務？聽起來有點懸。   它是一個郵件應用程式，叫做「Hacker News」的 Show HN。最特別的地方在於，一個收件箱只能接受一個寄件人的郵件。其他寄件人的郵件，它會主動彈回去。   只能一個寄件人？等等，這裡我有疑問。這跟我們普遍認知太不一樣了。一般收件箱不是希望越多信越好，才不會漏掉...
 
