@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-17",
   "episodes": [
+    {
+      "date": "2026年10月17日",
+      "topics": [
+        {
+          "title": "I Founded a 20-Person AI Company With Big Competitors — Here’s How to Out-Ship a Team 3 Times Your Size",
+          "keywords": [
+            "小公司",
+            "以小搏大",
+            "精實創業",
+            "競爭策略",
+            "AI新創"
+          ],
+          "innovationPoint": "創新點：一家僅20人的AI新創公司，反常識地分享他們如何以小搏大，在效率與交付速度上超越規模大三倍的競爭對手，顛覆了傳統上資源與規模決定勝負的思維。"
+        }
+      ]
+    },
     {
       "date": "2026年10月15日",
       "topics": [
@@ -207,22 +223,6 @@
             "另類成功"
           ],
           "innovationPoint": "創新點：一家公司透過刻意打破傳統創業的五大「黃金法則」，例如不盲目追求成長、不急著募資或挑戰既有市場慣例，反而找到獨特的利基與成長路徑，證明反向操作也能成功。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月2日",
-      "topics": [
-        {
-          "title": "A new contest pits competitors against each other in a race to biological youth",
-          "keywords": [
-            "生物年齡",
-            "健康競賽",
-            "反常識",
-            "行為激勵",
-            "醫療創新"
-          ],
-          "innovationPoint": "創新點：這項競賽反常識地獎勵「變年輕」，透過將生物年齡數據化並以競賽形式激勵參與者改善健康，顛覆傳統對老化不可逆的認知，並開創健康管理新模式。"
         }
       ]
     }
