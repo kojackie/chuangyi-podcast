@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-10-19",
   "episodes": [
+    {
+      "date": "2026年10月19日",
+      "topics": [
+        {
+          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "keywords": [
+            "品質管理",
+            "AI開發",
+            "風險控管",
+            "人員訓練",
+            "反常識SOP"
+          ],
+          "innovationPoint": "創新點：開發者推出一個工具，反常識地要求開發者在部署AI程式碼前，先「自我測驗」對程式碼的理解度，將程式碼的「透明度」與「可控度」的責任前置化，避免因不理解而導致的錯誤與風險。"
+        }
+      ]
+    },
     {
       "date": "2026年10月18日",
       "topics": [
@@ -207,22 +223,6 @@
             "專業服務AI化"
           ],
           "innovationPoint": "創新點：Pandektes顛覆單純追求AI模型進步的思維，專注於為高度專業化的法律領域打造AI驅動的「數據基礎設施」，將數據前處理與知識圖譜視為AI應用的核心競爭力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月4日",
-      "topics": [
-        {
-          "title": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
-          "keywords": [
-            "沙烏地",
-            "電動車",
-            "集團策略",
-            "內部競爭",
-            "資本佈局"
-          ],
-          "innovationPoint": "創新點：沙烏地主權基金同時持有並支持兩個相互競爭的電動車品牌，透過這種「左右手互搏」的策略，實現更深層的市場滲透與產業佈局，顛覆傳統商業中避免內部競爭的常識。"
         }
       ]
     }
