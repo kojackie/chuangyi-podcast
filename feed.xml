@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                              <item>
+                                                                                                                                                                                <item>
+    <title>程式上線前先考你？反直覺機制強化AI開發品質管理</title>
+    <description><![CDATA[今天想聊一個很有意思的工具，叫做 Sphinx。它是一個很特別的程式碼檢查機制。   怎麼說特別？不就是程式碼審核嗎？現在很多公司都有 Code Review 啊。   其實你可能沒想到的是，這個工具不是讓別人來審核，而是要求開發者在部署 AI 程式碼之前，先「自我測驗」一下，確保自己真的理解這段程式碼的功能。   等等，開發者寫的程式碼，他自己會不理解嗎？這不是很奇怪嗎？而且還要「測驗」，這不會...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-19.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-19.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 19 Oct 2026 11:50:07 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-19</guid>
+  </item>
+  <item>
     <title>買硬體前先「感受」AI速度？降低顧客決策摩擦的體驗設計巧思</title>
     <description><![CDATA[今天這個案例我覺得很有意思，一家叫 Llmspeed 的公司，他們做了一個工具，讓用戶在買硬體前，就能「感受」本地端LLM的運行速度。   喔，這個聽起來很有趣。怎麼說呢，這跟我們平常買東西的習慣有點不一樣。我們不是都習慣先買了，用了才知道好不好嗎？   對，這就是我覺得特別的地方。他們等於是把那種「試用」或「體驗」的概念，直接拉到「購買硬體」這個環節前面。畢竟大型語言模型跑起來快不快，很吃硬體。...
 
