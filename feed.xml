@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                <item>
+                                                                                                                                                                                  <item>
+    <title>悄悄改變飲食習慣：用「混和肉球」讓你少吃紅肉！</title>
+    <description><![CDATA[今天這個案例，我看到的時候其實有點訝異，因為它做的跟我們一般想像的很不一樣。   怎麼說？是什麼樣的創新，讓你覺得「不一般」？   就是這個叫 Joyn 的新創公司，他們做的是「混和肉」產品。你聽起來可能覺得沒什麼，但他們的做法，是把少量紅肉跟植物性蛋白混在一起，做出新的肉丸、漢堡肉。   嗯，混和肉不稀奇啊，市面上不是很多這種產品嗎？像什麼「未來肉」、「植物肉」漢堡排，強調健康環保，但銷售好像並...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-20.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-20.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 20 Oct 2026 10:11:26 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-20</guid>
+  </item>
+  <item>
     <title>程式上線前先考你？反直覺機制強化AI開發品質管理</title>
     <description><![CDATA[今天想聊一個很有意思的工具，叫做 Sphinx。它是一個很特別的程式碼檢查機制。   怎麼說特別？不就是程式碼審核嗎？現在很多公司都有 Code Review 啊。   其實你可能沒想到的是，這個工具不是讓別人來審核，而是要求開發者在部署 AI 程式碼之前，先「自我測驗」一下，確保自己真的理解這段程式碼的功能。   等等，開發者寫的程式碼，他自己會不理解嗎？這不是很奇怪嗎？而且還要「測驗」，這不會...
 
