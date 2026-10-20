@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "episodes": [
+    {
+      "date": "2026年10月20日",
+      "topics": [
+        {
+          "title": "These startups hope “blended” food will cut our appetite for red meat",
+          "keywords": [
+            "替代蛋白",
+            "飲食習慣改變",
+            "食品創新",
+            "漸進式轉型",
+            "消費者行為"
+          ],
+          "innovationPoint": "新創公司透過將少量紅肉與植物性蛋白「混和」成消費者不易察覺的新產品，以「循序漸進」的反常識策略，悄悄改變飲食習慣並減少紅肉消費。"
+        }
+      ]
+    },
     {
       "date": "2026年10月19日",
       "topics": [
@@ -207,22 +223,6 @@
             "反向操作"
           ],
           "innovationPoint": "創新點：一家公司在瀕臨破產時，反常識地選擇切斷與知名品牌Subway的合作關係，專注於自有品牌發展，最終實現從現金流枯竭到年營收5400萬美元的驚人轉變，證明策略性『捨棄』是成長的關鍵。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月5日",
-      "topics": [
-        {
-          "title": "Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research",
-          "keywords": [
-            "AI數據基礎建設",
-            "法律科技",
-            "知識管理",
-            "數據治理",
-            "專業服務AI化"
-          ],
-          "innovationPoint": "創新點：Pandektes顛覆單純追求AI模型進步的思維，專注於為高度專業化的法律領域打造AI驅動的「數據基礎設施」，將數據前處理與知識圖譜視為AI應用的核心競爭力。"
         }
       ]
     }
