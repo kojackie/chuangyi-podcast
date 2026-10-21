@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-20",
+  "lastUpdated": "2026-10-21",
   "episodes": [
+    {
+      "date": "2026年10月21日",
+      "topics": [
+        {
+          "title": "Show HN: SimCity, but with Permits",
+          "keywords": [
+            "遊戲化",
+            "服務設計",
+            "摩擦點設計",
+            "流程創新",
+            "反常識設計"
+          ],
+          "innovationPoint": "創新點：這款遊戲反常識地將「許可證」這種常見的行政摩擦，設計成遊戲的核心挑戰與樂趣來源，顛覆了傳統對流程複雜度的負面認知，轉化為有價值的體驗。"
+        }
+      ]
+    },
     {
       "date": "2026年10月20日",
       "topics": [
@@ -207,22 +223,6 @@
             "打破壟斷"
           ],
           "innovationPoint": "創新點：傳統AI開發環境多被巨頭鎖定、按量計費且缺乏自訂彈性，「Pi pod」反其道而行，提供自建沙盒與開放源碼解決方案，讓企業能自主部署AI agent，打破壟斷並大幅降低成本，實現AI工具的去中心化。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月6日",
-      "topics": [
-        {
-          "title": "The CEO of a Company That Cut Ties With Subway Reveals How It Went From Running Out of Cash to $54 Million a Year",
-          "keywords": [
-            "商業模式轉型",
-            "策略性切割",
-            "企業轉型",
-            "爆發性成長",
-            "反向操作"
-          ],
-          "innovationPoint": "創新點：一家公司在瀕臨破產時，反常識地選擇切斷與知名品牌Subway的合作關係，專注於自有品牌發展，最終實現從現金流枯竭到年營收5400萬美元的驚人轉變，證明策略性『捨棄』是成長的關鍵。"
         }
       ]
     }
