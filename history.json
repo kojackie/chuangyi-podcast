@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "episodes": [
+    {
+      "date": "2026年10月22日",
+      "topics": [
+        {
+          "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+          "keywords": [
+            "數位遺產",
+            "業務連續性",
+            "獨立開發者",
+            "自我託管",
+            "風險管理"
+          ],
+          "innovationPoint": "創新點：一位獨立開發者打造了一款「自託管式死亡開關」工具，反常識地將死亡或失能後的「數位資產移交與業務延續」問題，轉化為一套可預先部署、自動執行的解決方案，賦予個人對數位遺產的掌控權。"
+        }
+      ]
+    },
     {
       "date": "2026年10月21日",
       "topics": [
@@ -206,23 +222,6 @@
             "企業文化"
           ],
           "innovationPoint": "創新點：從迪士尼世界級的員工訓練中提煉出可複製的服務設計與顧客體驗策略，聚焦「賦能員工」與「創造難忘瞬間」，即使是中小企業也能應用。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月7日",
-      "topics": [
-        {
-          "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-          "keywords": [
-            "AI agents",
-            "自主部署",
-            "成本控制",
-            "開源",
-            "去中心化",
-            "打破壟斷"
-          ],
-          "innovationPoint": "創新點：傳統AI開發環境多被巨頭鎖定、按量計費且缺乏自訂彈性，「Pi pod」反其道而行，提供自建沙盒與開放源碼解決方案，讓企業能自主部署AI agent，打破壟斷並大幅降低成本，實現AI工具的去中心化。"
         }
       ]
     }
