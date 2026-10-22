@@ -30,15 +30,15 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                      <item>
-    <title>創業家專屬「死亡開關」：一份確保數位資產與業務永續的終極保險</title>
-    <description><![CDATA[今天想跟大家聊一個，你可能從來沒想過，但聽完會覺得「欸，真的有必要」的事情。一個叫做「死亡開關」的工具。   死亡開關？這聽起來有點沉重，跟我們創新趨勢的 Podcast 有什麼關係？是說，為什麼會突然提到這個？   其實這是一位獨立開發者彼得．畢肖普（Peter Bishop）的故事。他打造了一個叫做「Death Plan Switch」的工具。這個做法很有意思，他把大家通常會避而不談的「我萬一...
+                                                                                                                                                                                        <item>
+    <title>事業怕失傳？開發者自製「死人開關」，保證資產交接！</title>
+    <description><![CDATA[今天我們要聊一個有點出乎意料的創新案例。想像一下，你是個獨立的接案設計師或個人工作室老闆，你的事業全靠你一個人。如果有一天，你突然失蹤或發生意外，你的客戶、你的事業該怎麼辦？   對，這就是很多自雇者或小型企業主的痛點，但大家常常選擇不面對。因為聽起來太麻煩、太悲觀了，誰會想主動去想這些啊？   沒錯。所以這個案例特別的地方就在這裡。有個獨力開發者，Peter Bishop，他做了一個叫做「Dea...
 
 完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
     <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-22.mp3" type="audio/mpeg" length="0"/>
     <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-22.srt" type="application/srt"/>
     <itunes:duration>08:00</itunes:duration>
-    <pubDate>Thu, 22 Oct 2026 12:17:29 GMT</pubDate>
+    <pubDate>Thu, 22 Oct 2026 12:27:16 GMT</pubDate>
     <guid isPermaLink="false">chuangyi-2026-10-22</guid>
   </item>
   <item>
