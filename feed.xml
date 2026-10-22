@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                      <item>
+    <title>創業家專屬「死亡開關」：一份確保數位資產與業務永續的終極保險</title>
+    <description><![CDATA[今天想跟大家聊一個，你可能從來沒想過，但聽完會覺得「欸，真的有必要」的事情。一個叫做「死亡開關」的工具。   死亡開關？這聽起來有點沉重，跟我們創新趨勢的 Podcast 有什麼關係？是說，為什麼會突然提到這個？   其實這是一位獨立開發者彼得．畢肖普（Peter Bishop）的故事。他打造了一個叫做「Death Plan Switch」的工具。這個做法很有意思，他把大家通常會避而不談的「我萬一...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-22.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-22.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 22 Oct 2026 12:17:29 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-22</guid>
+  </item>
+  <item>
     <title>SimCity蓋房子要跑公文？把「麻煩」變「商機」，反常識的體驗設計</title>
     <description><![CDATA[今天我們來聊一個很有趣的遊戲，叫做「SimCity, but with Permits」，直白翻譯就是「模擬城市，但充滿許可證」。它最出乎意料的地方，就是把大家最討厭的行政流程摩擦，變成遊戲最核心的樂趣。   嗯，許可證？這聽起來就讓人頭痛。玩遊戲不是應該追求順暢感嗎？我會想，這會不會把玩家都嚇跑啊？一般公司應該避之唯恐不及吧？   其實這點就是它的厲害之處。它打破了傳統遊戲的設計模式，你不是像上...
 
