@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-26",
   "episodes": [
+    {
+      "date": "2026年10月26日",
+      "topics": [
+        {
+          "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+          "keywords": [
+            "市值",
+            "員工人數",
+            "Nvidia",
+            "Accenture",
+            "數據視覺化",
+            "商業模式洞察"
+          ],
+          "innovationPoint": "創新點：透過視覺化數據，反常識地揭露S&P 500巨頭（如Nvidia）與傳統大公司（如Accenture）在「人均市值」上的巨大差異，顛覆了公司價值與員工人數的正比認知。"
+        }
+      ]
+    },
     {
       "date": "2026年10月23日",
       "topics": [
@@ -206,22 +223,6 @@
             "知識變現"
           ],
           "innovationPoint": "創新點：傳統荷蘭溫室硬體供應商在中國市場反其道而行，透過將農業專業知識軟體化，轉型為提供農業管理軟體服務，將硬體銷售轉為高價值的知識服務輸出。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月9日",
-      "topics": [
-        {
-          "title": "The Business Case for Slowing Down When Everyone Is Rushing",
-          "keywords": [
-            "反常識策略",
-            "慢成長",
-            "永續經營",
-            "策略性放緩",
-            "企業文化"
-          ],
-          "innovationPoint": "創新點：在所有產業都追求快速成長、加速擴張的時代，反其道而行，提出「放慢腳步」反而能帶來長期競爭優勢與更深層次商業價值的策略，顛覆了傳統的『速度至上』思維。"
         }
       ]
     }
