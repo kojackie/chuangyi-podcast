@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                            <item>
+                                                                                                                                                                                              <item>
+    <title>AI也會分語言？非英語數據竟讓成本更高、理解更差！</title>
+    <description><![CDATA[欸，你最近有沒有聽說一個特別的事情？就是 AI 模型啊，處理非英語的資料時，費用會高很多，而且理解能力也比較差。   真的假的？AI 不是應該很厲害，什麼語言都能搞定嗎？我一直覺得 AI 嘛，就是能提升效率、降低成本的東西。你說會更貴，這點就讓我有點懷疑。   我一開始也覺得出乎意料，因為這跟我們普遍認知的 AI 普遍高效且普惠的常識不太一樣。原文有提到，這背後其實有個「隱藏成本」，他們稱之為「t...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 27 Oct 2026 10:11:48 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-27</guid>
+  </item>
+  <item>
     <title>市值百兆但員工稀少？一張圖顛覆你對公司價值的想像</title>
     <description><![CDATA[嘿，你最近有沒有看那個「Hacker News」上的新專案？關於S&P 500公司市值的視覺化圖表，然後把員工人數也放進去。   嗯，有大概掃過。怎麼說呢，就視覺化資料嘛，挺多這種東西的。有什麼特別的地方嗎？   特別的點就在這裡。它讓你看到，有些公司市值大到驚人，但裡面的「小人」（代表員工）卻少得可憐。像Nvidia，市值5.2兆美元，卻只有4萬2千名員工。   等等，Nvidia 5.2兆美元...
 
