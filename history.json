@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "episodes": [
+    {
+      "date": "2026年10月27日",
+      "topics": [
+        {
+          "title": "AI models cost more when you don’t use English",
+          "keywords": [
+            "AI偏見",
+            "多語言成本",
+            "數位落差",
+            "全球化策略",
+            "非英語市場"
+          ],
+          "innovationPoint": "創新點：AI模型存在語言偏見，導致非英語數據處理成本更高、語境理解受限，顛覆了AI普遍高效且普惠的常識。"
+        }
+      ]
+    },
     {
       "date": "2026年10月26日",
       "topics": [
@@ -207,22 +223,6 @@
             "韓國"
           ],
           "innovationPoint": "創新點：南韓在餐飲、娛樂等實體場域大規模應用AI機器人，不僅提升服務效率與品質，更創造出新奇互動體驗和商業價值，讓AI從幕後走向前台，顛覆了傳統服務業的營運模式與顧客體驗。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月10日",
-      "topics": [
-        {
-          "title": "Dutch greenhouse firms in China pivot to selling software",
-          "keywords": [
-            "傳統產業轉型",
-            "軟體即服務",
-            "農業科技",
-            "商業模式反轉",
-            "知識變現"
-          ],
-          "innovationPoint": "創新點：傳統荷蘭溫室硬體供應商在中國市場反其道而行，透過將農業專業知識軟體化，轉型為提供農業管理軟體服務，將硬體銷售轉為高價值的知識服務輸出。"
         }
       ]
     }
