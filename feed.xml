@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                              <item>
+                                                                                                                                                                                                <item>
+    <title>地方智慧變黃金！用「決策內容」策略創造80萬次曝光</title>
+    <description><![CDATA[嘿，你聽過那種把在地知識變成「決策型內容」的行銷手法嗎？我最近看到一個案例，覺得特別有意思。   決策型內容？怎麼說？聽起來有點拗口，一般公司不是都專注在教導消費者產品知識嗎？這有什麼不一樣？   對，這就是特別的地方。文章裡提到，他們幫一個房地產客戶做內容，結果四個月內就創造了81萬次曝光，追蹤者還成長了25%。他們不是去講什麼房貸利率、社區趨勢這種大家都在講的東西，而是直接把在地知識轉化成幫助...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-28.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-28.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 28 Oct 2026 10:11:30 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-28</guid>
+  </item>
+  <item>
     <title>AI也會分語言？非英語數據竟讓成本更高、理解更差！</title>
     <description><![CDATA[欸，你最近有沒有聽說一個特別的事情？就是 AI 模型啊，處理非英語的資料時，費用會高很多，而且理解能力也比較差。   真的假的？AI 不是應該很厲害，什麼語言都能搞定嗎？我一直覺得 AI 嘛，就是能提升效率、降低成本的東西。你說會更貴，這點就讓我有點懷疑。   我一開始也覺得出乎意料，因為這跟我們普遍認知的 AI 普遍高效且普惠的常識不太一樣。原文有提到，這背後其實有個「隱藏成本」，他們稱之為「t...
 
