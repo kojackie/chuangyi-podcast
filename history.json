@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "episodes": [
+    {
+      "date": "2026年10月29日",
+      "topics": [
+        {
+          "title": "Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity",
+          "keywords": [
+            "商業模式反轉",
+            "平台化",
+            "電信服務",
+            "品牌延伸",
+            "B2B2C"
+          ],
+          "innovationPoint": "創新點：這家荷蘭新創Braid反常識地讓任何品牌都能擁有自己的「電信服務」，將電信業的專業能力「平台化」，為品牌開創新的營收來源與客戶互動模式。"
+        }
+      ]
+    },
     {
       "date": "2026年10月28日",
       "topics": [
@@ -207,22 +223,6 @@
             "非傳統資源"
           ],
           "innovationPoint": "創新點：AI實驗室反常識地從『倒閉新創公司』購買數據來訓練模型，將被視為無價值的廢棄數據轉化為高價資產，顛覆了傳統對數據來源和價值的認知。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月12日",
-      "topics": [
-        {
-          "title": "Profitable French scale-up Wiremind raises €35 million after 12 years of bootstrapping",
-          "keywords": [
-            "自給自足",
-            "盈利創業",
-            "募資策略",
-            "永續成長",
-            "軟體服務"
-          ],
-          "innovationPoint": "創新點：一家法國新創公司Wiremind，在長達12年的時間裡堅持自給自足（bootstrapping）並實現盈利，才選擇募資3500萬歐元，顛覆了創業圈「快速募資、燒錢成長」的常規，證明了先建立穩健盈利模式再擴張的策略可行性。"
         }
       ]
     }
