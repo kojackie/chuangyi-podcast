@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                    <item>
+    <title>滑鼠不只是滑鼠？顛覆想像的Super Mouse</title>
+    <description><![CDATA[今天要聊的這個案例，是台灣一家新創公司推出的產品，叫「Super Mouse」。你可能沒想到，他們竟然把傳統滑鼠、觸控螢幕跟全尺寸鍵盤，通通整合在一起了。   嗯，等等，這裡我有疑問。滑鼠、鍵盤、螢幕，這三樣東西分開用不是挺好嗎？硬要整合在一起，真的會比較方便？會不會反而變得四不像？   其實這點就是它出乎意料的地方。這家公司是看到了某些特定族群的需求。原文有提到，主要是針對工作空間有限，或是需要...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-10-31.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-10-31.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 31 Oct 2026 10:10:55 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-10-31</guid>
+  </item>
+  <item>
     <title>你的品牌也能當電信公司？這平台幫你打造專屬行動服務</title>
     <description><![CDATA[今天我們來聊一個荷蘭的新創公司Braid，他們最近剛完成一輪 3413 萬歐元的 A 輪融資。最有意思的是，這家公司原本叫做 Next Communications。   喔？改名通常是為了轉型，還是說他們的業務模式有什麼特別之處？聽起來是做電信相關的，這塊門檻很高吧？   沒錯，電信業通常被認為是大企業的天下，門檻確實很高。但 Braid 出乎意料的地方就在於，他們讓任何品牌都能擁有自己的「電信...
 
