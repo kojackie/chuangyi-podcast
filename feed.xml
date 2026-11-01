@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                      <item>
+    <title>AI不只算數！讓AI學會會計「潛規則」，服務業效率大翻身</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得蠻有意思的案例，這家西班牙新創公司叫做 Talky，他們最近募到 150 萬歐元，最特別的是，他們要教 AI 學習會計的「潛規則」。  等等，潛規則？AI 不是應該處理那些有明確規定的東西嗎？會計的潛規則聽起來很抽象，怎麼讓 AI 去學這種非書面、非結構化的東西？這不是很出乎意料嗎？  對啊，這就是它厲害的地方。我們都知道，會計工作裡面很多判斷其實都靠經驗，不是教科書上寫的...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-01.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-01.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 01 Nov 2026 01:20:18 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-01</guid>
+  </item>
+  <item>
     <title>滑鼠不只是滑鼠？顛覆想像的Super Mouse</title>
     <description><![CDATA[今天要聊的這個案例，是台灣一家新創公司推出的產品，叫「Super Mouse」。你可能沒想到，他們竟然把傳統滑鼠、觸控螢幕跟全尺寸鍵盤，通通整合在一起了。   嗯，等等，這裡我有疑問。滑鼠、鍵盤、螢幕，這三樣東西分開用不是挺好嗎？硬要整合在一起，真的會比較方便？會不會反而變得四不像？   其實這點就是它出乎意料的地方。這家公司是看到了某些特定族群的需求。原文有提到，主要是針對工作空間有限，或是需要...
 
