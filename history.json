@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-31",
+  "lastUpdated": "2026-11-01",
   "episodes": [
+    {
+      "date": "2026年11月1日",
+      "topics": [
+        {
+          "title": "Madrid&#8217;s Talky raises €1.5 million to teach AI the unwritten rules of accounting",
+          "keywords": [
+            "AI應用",
+            "知識工作自動化",
+            "潛規則學習",
+            "會計科技",
+            "服務業創新"
+          ],
+          "innovationPoint": "創新點：這家公司反常識地將AI訓練成能理解並應用會計領域的「潛規則」與非書面知識，突破AI處理抽象、非結構化資訊的極限，將智能自動化推向更深層次的專業領域。"
+        }
+      ]
+    },
     {
       "date": "2026年10月31日",
       "topics": [
@@ -207,22 +223,6 @@
             "極簡主義"
           ],
           "innovationPoint": "創新點：該郵件應用徹底反轉了「通用收件箱」的常識，為每個收件箱設定單一寄件人限制，並主動彈回其他郵件，創造極致專注的溝通模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月14日",
-      "topics": [
-        {
-          "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
-          "keywords": [
-            "垂直整合",
-            "供應鏈韌性",
-            "物流自主",
-            "地緣政治影響",
-            "製造業轉型"
-          ],
-          "innovationPoint": "創新點：電動車巨頭比亞迪（BYD）反常識地投入重資產，建立自有船隊來運輸電動車，顛覆了現代企業普遍追求輕資產、外包物流的常規，以應對地緣政治、高運費和供應鏈不穩定的挑戰。"
         }
       ]
     }
