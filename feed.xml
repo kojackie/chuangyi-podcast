@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                        <item>
+    <title>唐吉訶德免退稅手續費：放手小利，如何引爆觀光客超額消費？</title>
+    <description><![CDATA[欸，你最近有沒有注意唐吉訶德的一個新變化？他們居然取消了觀光客退稅的服務費，你聽說了嗎？   嗯，我有看到這個消息。老實說，我一開始還覺得有點奇怪，這不是擺明少賺一筆嗎？一般商家哪會這麼做？   對啊，這點就是它出乎意料的地方。你想想看，以前我們去退稅，總要被收個 1% 或 2% 的手續費，雖然錢不多，但心理上就是一種摩擦。   沒錯，那種感覺就像是「好不容易省下一點點，結果又要被抽回去」。雖然是...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-02.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-02.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 02 Nov 2026 10:14:25 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-02</guid>
+  </item>
+  <item>
     <title>AI不只算數！讓AI學會會計「潛規則」，服務業效率大翻身</title>
     <description><![CDATA[今天想跟大家聊一個我覺得蠻有意思的案例，這家西班牙新創公司叫做 Talky，他們最近募到 150 萬歐元，最特別的是，他們要教 AI 學習會計的「潛規則」。  等等，潛規則？AI 不是應該處理那些有明確規定的東西嗎？會計的潛規則聽起來很抽象，怎麼讓 AI 去學這種非書面、非結構化的東西？這不是很出乎意料嗎？  對啊，這就是它厲害的地方。我們都知道，會計工作裡面很多判斷其實都靠經驗，不是教科書上寫的...
 
