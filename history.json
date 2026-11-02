@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-01",
+  "lastUpdated": "2026-11-02",
   "episodes": [
+    {
+      "date": "2026年11月2日",
+      "topics": [
+        {
+          "title": "Japan's Don Quijote drops refund fees for tourists to boost spending",
+          "keywords": [
+            "日本零售",
+            "服務設計",
+            "顧客體驗",
+            "免費策略",
+            "摩擦點"
+          ],
+          "innovationPoint": "創新點：唐吉訶德反常識地取消了觀光客退稅服務費，將看似微小的摩擦點轉化為提升顧客整體消費意願和體驗的槓桿，證明了「有時放手小利，能贏得大利」的服務設計哲學。"
+        }
+      ]
+    },
     {
       "date": "2026年11月1日",
       "topics": [
@@ -207,22 +223,6 @@
             "AI新創"
           ],
           "innovationPoint": "創新點：一家僅20人的AI新創公司，反常識地分享他們如何以小搏大，在效率與交付速度上超越規模大三倍的競爭對手，顛覆了傳統上資源與規模決定勝負的思維。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月15日",
-      "topics": [
-        {
-          "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-          "keywords": [
-            "反常識",
-            "郵件管理",
-            "單一收件人",
-            "效率工具",
-            "極簡主義"
-          ],
-          "innovationPoint": "創新點：該郵件應用徹底反轉了「通用收件箱」的常識，為每個收件箱設定單一寄件人限制，並主動彈回其他郵件，創造極致專注的溝通模式。"
         }
       ]
     }
