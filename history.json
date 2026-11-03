@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "episodes": [
+    {
+      "date": "2026年11月3日",
+      "topics": [
+        {
+          "title": "My Layoff Was a Blessing in Disguise. The Business I Started on Instagram Is on Track for $168,000 This Year.",
+          "keywords": [
+            "裁員轉機",
+            "Instagram創業",
+            "個人品牌",
+            "社群電商",
+            "小資本"
+          ],
+          "innovationPoint": "創新點：一位創業者反常識地將被裁員的困境轉化為契機，透過Instagram平台建立副業，並在一年內達到16.8萬美元的營收，顛覆了傳統創業途徑與社群平台的商業潛力。"
+        }
+      ]
+    },
     {
       "date": "2026年11月2日",
       "topics": [
@@ -207,22 +223,6 @@
             "顧客轉換率"
           ],
           "innovationPoint": "創新點：開發者推出一個工具，讓用戶在購買硬體前就能「感受」本地端LLM的運行速度，反常識地將抽象的性能體驗前置化，大幅降低顧客決策摩擦與試錯成本。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月17日",
-      "topics": [
-        {
-          "title": "I Founded a 20-Person AI Company With Big Competitors — Here’s How to Out-Ship a Team 3 Times Your Size",
-          "keywords": [
-            "小公司",
-            "以小搏大",
-            "精實創業",
-            "競爭策略",
-            "AI新創"
-          ],
-          "innovationPoint": "創新點：一家僅20人的AI新創公司，反常識地分享他們如何以小搏大，在效率與交付速度上超越規模大三倍的競爭對手，顛覆了傳統上資源與規模決定勝負的思維。"
         }
       ]
     }
