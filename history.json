@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-03",
+  "lastUpdated": "2026-11-04",
   "episodes": [
+    {
+      "date": "2026年11月4日",
+      "topics": [
+        {
+          "title": "He Left Google to Fix a ‘Really Stupid’ Household Product. The ‘Delightful’ Solution Has Generated $20 Million in Revenue.",
+          "keywords": [
+            "痛點解決",
+            "產品設計",
+            "反常識創業",
+            "家用產品",
+            "小公司大營收"
+          ],
+          "innovationPoint": "創新點：一位前Google員工反常識地放棄高薪，專注於解決一個看似「愚蠢」的日常家居用品痛點，透過「令人愉悅」的設計，成功創造2000萬美元營收，證明了「細微痛點」的巨大商機。"
+        }
+      ]
+    },
     {
       "date": "2026年11月3日",
       "topics": [
@@ -207,22 +223,6 @@
             "反常識SOP"
           ],
           "innovationPoint": "創新點：開發者推出一個工具，反常識地要求開發者在部署AI程式碼前，先「自我測驗」對程式碼的理解度，將程式碼的「透明度」與「可控度」的責任前置化，避免因不理解而導致的錯誤與風險。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月18日",
-      "topics": [
-        {
-          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "keywords": [
-            "決策摩擦",
-            "預先體驗",
-            "AI應用",
-            "服務設計",
-            "顧客轉換率"
-          ],
-          "innovationPoint": "創新點：開發者推出一個工具，讓用戶在購買硬體前就能「感受」本地端LLM的運行速度，反常識地將抽象的性能體驗前置化，大幅降低顧客決策摩擦與試錯成本。"
         }
       ]
     }
