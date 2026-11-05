@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "episodes": [
+    {
+      "date": "2026年11月5日",
+      "topics": [
+        {
+          "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+          "keywords": [
+            "AI應用",
+            "遊戲創新",
+            "反常識",
+            "互動體驗",
+            "LLM"
+          ],
+          "innovationPoint": "創新點：這款遊戲反常識地將AI「說謊」的能力轉化為核心玩法，創造出動態且具欺騙性的角色，徹底顛覆傳統AI追求真實的設定，為互動體驗開闢新維度。"
+        }
+      ]
+    },
     {
       "date": "2026年11月4日",
       "topics": [
@@ -207,22 +223,6 @@
             "消費者行為"
           ],
           "innovationPoint": "新創公司透過將少量紅肉與植物性蛋白「混和」成消費者不易察覺的新產品，以「循序漸進」的反常識策略，悄悄改變飲食習慣並減少紅肉消費。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月19日",
-      "topics": [
-        {
-          "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-          "keywords": [
-            "品質管理",
-            "AI開發",
-            "風險控管",
-            "人員訓練",
-            "反常識SOP"
-          ],
-          "innovationPoint": "創新點：開發者推出一個工具，反常識地要求開發者在部署AI程式碼前，先「自我測驗」對程式碼的理解度，將程式碼的「透明度」與「可控度」的責任前置化，避免因不理解而導致的錯誤與風險。"
         }
       ]
     }
