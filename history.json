@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-06",
   "episodes": [
+    {
+      "date": "2026年11月6日",
+      "topics": [
+        {
+          "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+          "keywords": [
+            "AI模型訓練",
+            "成本效益",
+            "小型團隊",
+            "開源AI",
+            "創意工具",
+            "AI民主化"
+          ],
+          "innovationPoint": "創新點：這家僅兩人的實驗室反常識地以2萬美元成本訓練出高效能文字轉圖像AI模型，並開源權重，顛覆了AI模型開發高昂門檻的認知，為小型團隊開闢AI應用新道路。"
+        }
+      ]
+    },
     {
       "date": "2026年11月5日",
       "topics": [
@@ -207,22 +224,6 @@
             "反常識設計"
           ],
           "innovationPoint": "創新點：這款遊戲反常識地將「許可證」這種常見的行政摩擦，設計成遊戲的核心挑戰與樂趣來源，顛覆了傳統對流程複雜度的負面認知，轉化為有價值的體驗。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月20日",
-      "topics": [
-        {
-          "title": "These startups hope “blended” food will cut our appetite for red meat",
-          "keywords": [
-            "替代蛋白",
-            "飲食習慣改變",
-            "食品創新",
-            "漸進式轉型",
-            "消費者行為"
-          ],
-          "innovationPoint": "新創公司透過將少量紅肉與植物性蛋白「混和」成消費者不易察覺的新產品，以「循序漸進」的反常識策略，悄悄改變飲食習慣並減少紅肉消費。"
         }
       ]
     }
