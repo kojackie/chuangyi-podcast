@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                <item>
+    <title>2萬美金！小團隊AI訓練，挑戰巨頭高牆</title>
+    <description><![CDATA[今天想聊一個出乎意料的 AI 案例。你知道嗎，現在訓練一個高效能的文字轉圖像 AI 模型，成本可能只要兩萬美元？   兩萬美元？這怎麼可能？一般我們聽到這種 AI 模型，動輒都是幾十萬、幾百萬美元在燒錢。你說的這數字也太低了吧，能做出什麼東西來？   我一開始也覺得不可思議。這是一個叫做「Linum」的實驗室做到的，他們其實只有兩個人。重點是他們不只訓練出來，還把權重都開源了，放到 GitHub ...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-06.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-06.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 06 Nov 2026 10:13:33 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-06</guid>
+  </item>
+  <item>
     <title>AI會說謊？偵探遊戲反用AI弱點，打造超逼真互動角色</title>
     <description><![CDATA[我今天看到一個遊戲案例，覺得很有意思。它叫「Uncracked City」，是一款偵探遊戲，要玩家去審問AI嫌犯，然後找出誰在說謊。   讓AI說謊？等等，這不是跟我們平時追求的AI要「準確、真實」的目標完全相反嗎？怎麼會有人想出這種點子？這不是把技術的缺點放大嗎？   對啊，這就是它最出乎意料的地方。一般公司都會想辦法讓AI別胡說八道，對吧？但這個遊戲反其道而行，直接利用AI會「說謊」的特點，把...
 
