@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                  <item>
+    <title>一人公司也能是獨角獸？AI代理人如何顛覆創業模式</title>
+    <description><![CDATA[欸，你聽過「獨角獸創業者」這個詞嗎？我最近看到一篇文章，說的是現在單一個人也能搞出市值十億美金的公司了，而且數量還在快速增加。   嗯，聽起來有點玄。一個人怎麼可能做到那麼大的規模？光是產品開發、市場推廣、客戶服務，隨便一項都需要團隊吧，這跟我們以前認知的不太一樣。   對啊，這就是出乎意料的地方。這篇文章提到，關鍵在於「AI代理人」技術。以前一個新創公司可能要花半年開發產品原型，先募資，還要組團...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-07.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-07.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 07 Nov 2026 10:13:30 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-07</guid>
+  </item>
+  <item>
     <title>2萬美金！小團隊AI訓練，挑戰巨頭高牆</title>
     <description><![CDATA[今天想聊一個出乎意料的 AI 案例。你知道嗎，現在訓練一個高效能的文字轉圖像 AI 模型，成本可能只要兩萬美元？   兩萬美元？這怎麼可能？一般我們聽到這種 AI 模型，動輒都是幾十萬、幾百萬美元在燒錢。你說的這數字也太低了吧，能做出什麼東西來？   我一開始也覺得不可思議。這是一個叫做「Linum」的實驗室做到的，他們其實只有兩個人。重點是他們不只訓練出來，還把權重都開源了，放到 GitHub ...
 
