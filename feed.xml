@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                    <item>
+    <title>超市冰箱變蜜罐！主動誘敵的資安反常識策略</title>
+    <description><![CDATA[今天我們來聊一個，你可能從沒想過會跟網路安全扯上關係的東西：超市的冰箱控制器。  超市冰箱控制器？這跟資安有什麼關係？聽起來就很冷門啊，一般公司根本不會去管這個吧？  沒錯，就是因為很冷門，所以才出乎意料！一位開發者做了一個名叫「Coldframe」的蜜罐系統，它完美偽裝成超市冰箱的控制器。  等等，蜜罐？那不就是引誘駭客的陷阱嗎？為什麼會想做成冰箱控制器？這聽起來有點天馬行空，有什麼用處嗎？  ...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-08.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-08.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sun, 08 Nov 2026 10:16:41 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-08</guid>
+  </item>
+  <item>
     <title>一人公司也能是獨角獸？AI代理人如何顛覆創業模式</title>
     <description><![CDATA[欸，你聽過「獨角獸創業者」這個詞嗎？我最近看到一篇文章，說的是現在單一個人也能搞出市值十億美金的公司了，而且數量還在快速增加。   嗯，聽起來有點玄。一個人怎麼可能做到那麼大的規模？光是產品開發、市場推廣、客戶服務，隨便一項都需要團隊吧，這跟我們以前認知的不太一樣。   對啊，這就是出乎意料的地方。這篇文章提到，關鍵在於「AI代理人」技術。以前一個新創公司可能要花半年開發產品原型，先募資，還要組團...
 
