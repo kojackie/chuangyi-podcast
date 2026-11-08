@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-08",
   "episodes": [
+    {
+      "date": "2026年11月8日",
+      "topics": [
+        {
+          "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+          "keywords": [
+            "資安防禦",
+            "蜜罐",
+            "工業控制系統",
+            "欺騙策略",
+            "反常識創新"
+          ],
+          "innovationPoint": "創新點：一位開發者反常識地建立了一個偽裝成超市冰箱控制器的蜜罐（honeypot），藉由極度擬真的假系統，主動誘使駭客攻擊並從中學習其手法，顛覆了傳統資安防禦的被動思維。"
+        }
+      ]
+    },
     {
       "date": "2026年11月7日",
       "topics": [
@@ -208,22 +224,6 @@
             "個人品牌"
           ],
           "innovationPoint": "創新點：一位28歲的上班族，在忙碌工作之餘，將個人需求轉化為解決專業人士痛點的副業產品，並反常識地將其從個人品牌成功推向Walmart等主流通路，達成180萬美元營收，展現了個人創業突破大市場的潛力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月22日",
-      "topics": [
-        {
-          "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-          "keywords": [
-            "數位遺產",
-            "業務連續性",
-            "獨立開發者",
-            "自我託管",
-            "風險管理"
-          ],
-          "innovationPoint": "創新點：一位獨立開發者打造了一款「自託管式死亡開關」工具，反常識地將死亡或失能後的「數位資產移交與業務延續」問題，轉化為一套可預先部署、自動執行的解決方案，賦予個人對數位遺產的掌控權。"
         }
       ]
     }
