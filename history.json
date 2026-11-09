@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-08",
+  "lastUpdated": "2026-11-09",
   "episodes": [
+    {
+      "date": "2026年11月9日",
+      "topics": [
+        {
+          "title": "Startups recalibrate Chinese AI for the West",
+          "keywords": [
+            "AI在地化",
+            "商業模式創新",
+            "地緣政治商機",
+            "文化適應",
+            "信任經濟"
+          ],
+          "innovationPoint": "創新點：這類新創公司反常識地將AI模型視為需要深度「文化與政治在地化」的產品，透過針對西方市場的審查與安全疑慮重新校準，將地緣政治風險轉化為開創全新AI服務商機的商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年11月8日",
       "topics": [
@@ -208,22 +224,6 @@
             "商業模式洞察"
           ],
           "innovationPoint": "創新點：透過視覺化數據，反常識地揭露S&P 500巨頭（如Nvidia）與傳統大公司（如Accenture）在「人均市值」上的巨大差異，顛覆了公司價值與員工人數的正比認知。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月23日",
-      "topics": [
-        {
-          "title": "This 28-Year-Old’s Busy 9-5 Inspired Her Side Hustle That Gives Professionals a Boost. Now It’s in Walmart Headed for $1.8M: ‘Pretty Surreal.’",
-          "keywords": [
-            "副業成功",
-            "小公司逆襲",
-            "通路策略",
-            "單一爆款",
-            "個人品牌"
-          ],
-          "innovationPoint": "創新點：一位28歲的上班族，在忙碌工作之餘，將個人需求轉化為解決專業人士痛點的副業產品，並反常識地將其從個人品牌成功推向Walmart等主流通路，達成180萬美元營收，展現了個人創業突破大市場的潛力。"
         }
       ]
     }
