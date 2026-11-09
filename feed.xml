@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                      <item>
+    <title>誰說AI全球化？新創把中國AI重新校準，賣給西方市場！</title>
+    <description><![CDATA[：今天我們來聊一個出乎意料的商業模式。我之前一直以為，AI模型就是技術導向的產品，效能好、成本低，大家就會用。 ：嗯，這也是一般人的想法，畢竟AI的核心就是演算法和數據嘛。但你剛才說的「出乎意料」，是哪方面？ ：就是有新創公司，它們反過來把「中國製」的AI模型，重新「校準」成西方市場能接受的版本。聽起來很奇怪對不對？ ：等等，這裡我有疑問。中國的AI模型不是因為成本低、能力強，所以很多西方公司都愛...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-09.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-09.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Mon, 09 Nov 2026 10:15:11 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-09</guid>
+  </item>
+  <item>
     <title>超市冰箱變蜜罐！主動誘敵的資安反常識策略</title>
     <description><![CDATA[今天我們來聊一個，你可能從沒想過會跟網路安全扯上關係的東西：超市的冰箱控制器。  超市冰箱控制器？這跟資安有什麼關係？聽起來就很冷門啊，一般公司根本不會去管這個吧？  沒錯，就是因為很冷門，所以才出乎意料！一位開發者做了一個名叫「Coldframe」的蜜罐系統，它完美偽裝成超市冰箱的控制器。  等等，蜜罐？那不就是引誘駭客的陷阱嗎？為什麼會想做成冰箱控制器？這聽起來有點天馬行空，有什麼用處嗎？  ...
 
