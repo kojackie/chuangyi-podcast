@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-10",
   "episodes": [
+    {
+      "date": "2026年11月10日",
+      "topics": [
+        {
+          "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+          "keywords": [
+            "反向鏡像",
+            "跨裝置互動",
+            "UI/UX創新",
+            "手機應用",
+            "反常識設計"
+          ],
+          "innovationPoint": "創新點：一位開發者反常識地將傳統螢幕「鏡像」的概念反轉，讓iPhone不只接收畫面，而是成為電腦的「反向鏡像」延伸顯示器與互動介面，徹底顛覆手機與電腦間的單向資訊流，開創跨裝置互動的新可能。"
+        }
+      ]
+    },
     {
       "date": "2026年11月9日",
       "topics": [
@@ -207,23 +223,6 @@
             "非英語市場"
           ],
           "innovationPoint": "創新點：AI模型存在語言偏見，導致非英語數據處理成本更高、語境理解受限，顛覆了AI普遍高效且普惠的常識。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月26日",
-      "topics": [
-        {
-          "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-          "keywords": [
-            "市值",
-            "員工人數",
-            "Nvidia",
-            "Accenture",
-            "數據視覺化",
-            "商業模式洞察"
-          ],
-          "innovationPoint": "創新點：透過視覺化數據，反常識地揭露S&P 500巨頭（如Nvidia）與傳統大公司（如Accenture）在「人均市值」上的巨大差異，顛覆了公司價值與員工人數的正比認知。"
         }
       ]
     }
