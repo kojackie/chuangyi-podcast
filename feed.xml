@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                        <item>
+    <title>手機成電腦反向鏡像？「逆向操作」開創互動新體驗</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得特別有意思的創新，它跟我們每天都在用的手機和電腦有關。一個開發者，他做了一個叫做「MeowDisplay」的東西，但你可能沒想到，它不是把手機畫面投到電腦，而是反過來。  反過來？你是說把電腦畫面投到手機上？這也不是什麼新鮮事吧，很多遠端桌面工具都能做到啊。  沒錯，但它厲害的地方就在於，不只是接收畫面，iPhone 還能變成電腦的「反向鏡像」延伸顯示器，而且能直接互動，等...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-10.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-10.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Tue, 10 Nov 2026 10:13:47 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-10</guid>
+  </item>
+  <item>
     <title>誰說AI全球化？新創把中國AI重新校準，賣給西方市場！</title>
     <description><![CDATA[：今天我們來聊一個出乎意料的商業模式。我之前一直以為，AI模型就是技術導向的產品，效能好、成本低，大家就會用。 ：嗯，這也是一般人的想法，畢竟AI的核心就是演算法和數據嘛。但你剛才說的「出乎意料」，是哪方面？ ：就是有新創公司，它們反過來把「中國製」的AI模型，重新「校準」成西方市場能接受的版本。聽起來很奇怪對不對？ ：等等，這裡我有疑問。中國的AI模型不是因為成本低、能力強，所以很多西方公司都愛...
 
