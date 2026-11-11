@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-11",
   "episodes": [
+    {
+      "date": "2026年11月11日",
+      "topics": [
+        {
+          "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+          "keywords": [
+            "自架媒體",
+            "輕量化軟體",
+            "效率創新",
+            "低成本",
+            "個人化服務"
+          ],
+          "innovationPoint": "創新點：一位開發者反常識地以僅15MB的極致輕量化，打造出具備Netflix和Spotify功能的自架媒體伺服器，顛覆了媒體服務必須龐大複雜的認知，為個人和中小企業提供高效能、低成本且自主可控的解決方案。"
+        }
+      ]
+    },
     {
       "date": "2026年11月10日",
       "topics": [
@@ -207,22 +223,6 @@
             "品牌曝光"
           ],
           "innovationPoint": "創新點：將在地知識與專業經驗轉化為「決策型內容」，並透過具體框架成功創造超過81萬次曝光，顛覆了傳統內容產製與在地化行銷的思維，證明深度內容的巨大影響力。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月27日",
-      "topics": [
-        {
-          "title": "AI models cost more when you don’t use English",
-          "keywords": [
-            "AI偏見",
-            "多語言成本",
-            "數位落差",
-            "全球化策略",
-            "非英語市場"
-          ],
-          "innovationPoint": "創新點：AI模型存在語言偏見，導致非英語數據處理成本更高、語境理解受限，顛覆了AI普遍高效且普惠的常識。"
         }
       ]
     }
