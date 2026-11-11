@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                          <item>
+    <title>15MB媒體伺服器，打造你的Netflix與Spotify</title>
+    <description><![CDATA[欸，你知道嗎？最近 Hacker News 上有一個自架媒體伺服器，出乎意料地輕量化，竟然只有 15MB，但功能卻能媲美 Netflix 和 Spotify。   15MB？這怎麼可能？現在隨便一個 App 都幾十上百 MB，更何況是這種要處理影音串流的服務，這數字會不會是少打一個零？聽起來不太可靠啊。   我一開始也跟你有一樣的疑問，但它確實在原文中提到，下載大小就是 14.9MB，我猜啦，可能...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-11.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-11.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 11 Nov 2026 10:12:38 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-11</guid>
+  </item>
+  <item>
     <title>手機成電腦反向鏡像？「逆向操作」開創互動新體驗</title>
     <description><![CDATA[今天想跟大家聊一個我覺得特別有意思的創新，它跟我們每天都在用的手機和電腦有關。一個開發者，他做了一個叫做「MeowDisplay」的東西，但你可能沒想到，它不是把手機畫面投到電腦，而是反過來。  反過來？你是說把電腦畫面投到手機上？這也不是什麼新鮮事吧，很多遠端桌面工具都能做到啊。  沒錯，但它厲害的地方就在於，不只是接收畫面，iPhone 還能變成電腦的「反向鏡像」延伸顯示器，而且能直接互動，等...
 
