@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-13",
   "episodes": [
+    {
+      "date": "2026年11月13日",
+      "topics": [
+        {
+          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+          "keywords": [
+            "訂閱經濟",
+            "反制策略",
+            "個人開發",
+            "硬體軟體整合",
+            "消費者主權"
+          ],
+          "innovationPoint": "創新點：一位個人開發者反常識地為一台僅300美元的家用刺繡機，因不滿原廠強制訂閱制，親手打造專屬應用程式，成功擺脫廠商鎖定，顛覆了硬體搭配訂閱服務的商業模式。"
+        }
+      ]
+    },
     {
       "date": "2026年11月11日",
       "topics": [
@@ -207,22 +223,6 @@
             "B2B2C"
           ],
           "innovationPoint": "創新點：這家荷蘭新創Braid反常識地讓任何品牌都能擁有自己的「電信服務」，將電信業的專業能力「平台化」，為品牌開創新的營收來源與客戶互動模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年10月28日",
-      "topics": [
-        {
-          "title": "We Turned Local Expertise Into Decision Content and Generated 818K Impressions. Here’s the Framework.",
-          "keywords": [
-            "在地知識",
-            "決策內容",
-            "內容行銷",
-            "中小企業",
-            "品牌曝光"
-          ],
-          "innovationPoint": "創新點：將在地知識與專業經驗轉化為「決策型內容」，並透過具體框架成功創造超過81萬次曝光，顛覆了傳統內容產製與在地化行銷的思維，證明深度內容的巨大影響力。"
         }
       ]
     }
