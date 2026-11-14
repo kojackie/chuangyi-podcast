@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                              <item>
+    <title>驗證心跳的社群網：穿戴裝置如何建立真實連結？</title>
+    <description><![CDATA[你知道現在社群網路為了防機器人帳號，搞得大家驗證來驗證去，有時候還會被鎖嗎？  嗯，真的煩。有時候想加個朋友，結果系統一直叫我證明不是機器人，結果就放棄了。  對啊，可是最近看到一個案例，讓我有點意外。一家做穿戴裝置的公司 Whoop，它竟然把生理數據拿來做社群認證。  等等，生理數據？你的意思是，它會掃描我的心跳，然後證明我不是機器人嗎？這聽起來有點…科幻。  沒錯，就是「驗證心跳」。他們的社群...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-14.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-14.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 14 Nov 2026 10:18:11 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-14</guid>
+  </item>
+  <item>
     <title>300美元刺繡機綁訂閱？他怒自製App，反擊品牌壟斷！</title>
     <description><![CDATA[欸，你還記得上次我們聊到那種，廠商把硬體賣你，但軟體卻要訂閱才能用的情況嗎？   當然記得啊，那時候你還說什麼，手機充電線也要訂閱才能充飽電就太扯了。這種模式真的很煩，把產品鎖死在自己的生態系裡，消費者根本沒選擇。   對！但今天這個案例，真的讓我出乎意料。它跟我們一般想法很不一樣。一個個人開發者，竟然為了一台才300美元的家用刺繡機，自己寫了一套App。   什麼？300美元的刺繡機？還訂閱制？...
 
