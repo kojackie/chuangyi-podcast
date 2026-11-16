@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-15",
+  "lastUpdated": "2026-11-16",
   "episodes": [
+    {
+      "date": "2026年11月16日",
+      "topics": [
+        {
+          "title": "OPINON: If AI marketing is easy for you, it&#8217;s easy for everyone",
+          "keywords": [
+            "AI行銷",
+            "內容飽和",
+            "差異化",
+            "競爭策略",
+            "注意力經濟"
+          ],
+          "innovationPoint": "創新點：這篇文章反常識地提出「如果AI行銷對你來說很容易，那對所有人來說也一樣容易」，顛覆了普遍認為AI能帶來輕易競爭優勢的看法，強調在AI普及時代，真正的競爭力來自差異化與策略深度，而非單純的工具應用。"
+        }
+      ]
+    },
     {
       "date": "2026年11月15日",
       "topics": [
@@ -207,22 +223,6 @@
             "摩擦點"
           ],
           "innovationPoint": "創新點：唐吉訶德反常識地取消了觀光客退稅服務費，將看似微小的摩擦點轉化為提升顧客整體消費意願和體驗的槓桿，證明了「有時放手小利，能贏得大利」的服務設計哲學。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月1日",
-      "topics": [
-        {
-          "title": "Madrid&#8217;s Talky raises €1.5 million to teach AI the unwritten rules of accounting",
-          "keywords": [
-            "AI應用",
-            "知識工作自動化",
-            "潛規則學習",
-            "會計科技",
-            "服務業創新"
-          ],
-          "innovationPoint": "創新點：這家公司反常識地將AI訓練成能理解並應用會計領域的「潛規則」與非書面知識，突破AI處理抽象、非結構化資訊的極限，將智能自動化推向更深層次的專業領域。"
         }
       ]
     }
