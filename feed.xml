@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                      <item>
+    <title>NTT大象跳舞：結盟AI重塑IT服務搶攻全球</title>
+    <description><![CDATA[說到大型傳統企業轉型，我一直覺得很難。特別是像日本的 NTT DATA 這種 IT 服務巨頭，感覺包袱很重，要動一下都很困難。   其實我一開始也有點懷疑，但這次 NTT DATA 的轉型方式確實很不一樣，讓人有些出乎意料。他們這次瞄準的是 AI 企業應用市場。   出乎意料？怎麼說？難道他們不是自己投入大筆資金研發 AI，然後再賣給客戶嗎？這不是傳統 IT 公司會做的事嗎？   這就是有趣的地方...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-18.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-18.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 18 Nov 2026 10:12:47 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-18</guid>
+  </item>
+  <item>
     <title>AI無人機巡邏居家安全，台灣新創助尋失蹤童</title>
     <description><![CDATA[欸，你可能沒想到，我們以前談到無人機，通常都是說戶外空拍，或者送貨。但最近亞馬遜跟台灣新創公司，把無人機帶進了室內。   室內無人機？這聽起來有點出乎意料耶。一般誰會在家裡或辦公室放一台無人機飛來飛去啊？感覺有點多餘，而且撞到東西怎麼辦？   這就是有趣的地方。他們做的不是單純的飛來飛去，而是讓監視器邁入「自主巡邏時代」。亞馬遜推出了AI室內無人機，然後台灣的新創公司把這個概念應用到尋找失蹤兒童上...
 
