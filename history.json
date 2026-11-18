@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "episodes": [
+    {
+      "date": "2026年11月18日",
+      "topics": [
+        {
+          "title": "結盟OpenAI等大語言模型 搶攻全球企業市場 AI大浪顛覆IT產業 NTT轉型新商模突圍 - 今周刊",
+          "keywords": [
+            "NTT",
+            "AI轉型",
+            "企業服務",
+            "商業模式創新",
+            "大型企業"
+          ],
+          "innovationPoint": "創新點：NTT這家大型傳統IT服務巨頭，反常識地透過與全球頂尖大語言模型廠商結盟，徹底翻轉其企業IT服務的商業模式，從提供傳統解決方案轉向全球AI企業應用，展現大象也能快速轉型的能力。"
+        }
+      ]
+    },
     {
       "date": "2026年11月17日",
       "topics": [
@@ -207,22 +223,6 @@
             "小公司大營收"
           ],
           "innovationPoint": "創新點：一位前Google員工反常識地放棄高薪，專注於解決一個看似「愚蠢」的日常家居用品痛點，透過「令人愉悅」的設計，成功創造2000萬美元營收，證明了「細微痛點」的巨大商機。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月3日",
-      "topics": [
-        {
-          "title": "My Layoff Was a Blessing in Disguise. The Business I Started on Instagram Is on Track for $168,000 This Year.",
-          "keywords": [
-            "裁員轉機",
-            "Instagram創業",
-            "個人品牌",
-            "社群電商",
-            "小資本"
-          ],
-          "innovationPoint": "創新點：一位創業者反常識地將被裁員的困境轉化為契機，透過Instagram平台建立副業，並在一年內達到16.8萬美元的營收，顛覆了傳統創業途徑與社群平台的商業潛力。"
         }
       ]
     }
