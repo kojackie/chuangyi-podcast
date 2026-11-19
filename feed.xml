@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                        <item>
+    <title>AI會聞香識味？顛覆感官！數位化嗅覺商機無限</title>
+    <description><![CDATA[今天要聊的這個創新案例，我聽到的時候真的覺得出乎意料，你可能沒想到，嗅覺這種這麼主觀的東西，竟然也能被數位化。   怎麼說？嗅覺不是憑個人感受嗎？聞起來香不香，每個人定義不一樣吧？這要怎麼數位化？難道是弄個機器鼻子嗎？   就是一家叫做 Osmo 的新創公司，他們透過訓練 AI，現在聲稱他們的 AI 鼻子已經可以跟人類的嗅覺能力匹敵了。   等等，這裡我有疑問。你說跟人類匹敵，這標準是怎麼定的？聞...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-19.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-19.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 19 Nov 2026 13:20:42 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-19</guid>
+  </item>
+  <item>
     <title>NTT大象跳舞：結盟AI重塑IT服務搶攻全球</title>
     <description><![CDATA[說到大型傳統企業轉型，我一直覺得很難。特別是像日本的 NTT DATA 這種 IT 服務巨頭，感覺包袱很重，要動一下都很困難。   其實我一開始也有點懷疑，但這次 NTT DATA 的轉型方式確實很不一樣，讓人有些出乎意料。他們這次瞄準的是 AI 企業應用市場。   出乎意料？怎麼說？難道他們不是自己投入大筆資金研發 AI，然後再賣給客戶嗎？這不是傳統 IT 公司會做的事嗎？   這就是有趣的地方...
 
