@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "episodes": [
+    {
+      "date": "2026年11月19日",
+      "topics": [
+        {
+          "title": "This smell startup says its AI nose is as good as a human’s",
+          "keywords": [
+            "AI嗅覺",
+            "感官數位化",
+            "反常識創新",
+            "新創",
+            "資料訓練"
+          ],
+          "innovationPoint": "創新點：一家新創公司反常識地透過訓練AI來數位化「嗅覺」，並聲稱其AI鼻子能與人類匹敵，顛覆了感官科學與商業應用，將高度主觀的感官數據轉化為可分析、可應用的商業價值。"
+        }
+      ]
+    },
     {
       "date": "2026年11月18日",
       "topics": [
@@ -207,22 +223,6 @@
             "LLM"
           ],
           "innovationPoint": "創新點：這款遊戲反常識地將AI「說謊」的能力轉化為核心玩法，創造出動態且具欺騙性的角色，徹底顛覆傳統AI追求真實的設定，為互動體驗開闢新維度。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月4日",
-      "topics": [
-        {
-          "title": "He Left Google to Fix a ‘Really Stupid’ Household Product. The ‘Delightful’ Solution Has Generated $20 Million in Revenue.",
-          "keywords": [
-            "痛點解決",
-            "產品設計",
-            "反常識創業",
-            "家用產品",
-            "小公司大營收"
-          ],
-          "innovationPoint": "創新點：一位前Google員工反常識地放棄高薪，專注於解決一個看似「愚蠢」的日常家居用品痛點，透過「令人愉悅」的設計，成功創造2000萬美元營收，證明了「細微痛點」的巨大商機。"
         }
       ]
     }
