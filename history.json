@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-19",
+  "lastUpdated": "2026-11-21",
   "episodes": [
+    {
+      "date": "2026年11月21日",
+      "topics": [
+        {
+          "title": "Japan stamp maker stomps into AI realm by authenticating videos on X",
+          "keywords": [
+            "傳統產業轉型",
+            "AI應用",
+            "品牌信任",
+            "跨界創新",
+            "影片認證"
+          ],
+          "innovationPoint": "創新點：一家傳統日本印章製造商，反常識地運用其「認證」的核心價值，跨界進入AI領域，為社群平台X上的影片提供真實性認證服務，將傳統信任資產賦能於數位內容驗證，顛覆產業邊界。"
+        }
+      ]
+    },
     {
       "date": "2026年11月19日",
       "topics": [
@@ -207,22 +223,6 @@
             "AI民主化"
           ],
           "innovationPoint": "創新點：這家僅兩人的實驗室反常識地以2萬美元成本訓練出高效能文字轉圖像AI模型，並開源權重，顛覆了AI模型開發高昂門檻的認知，為小型團隊開闢AI應用新道路。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月5日",
-      "topics": [
-        {
-          "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-          "keywords": [
-            "AI應用",
-            "遊戲創新",
-            "反常識",
-            "互動體驗",
-            "LLM"
-          ],
-          "innovationPoint": "創新點：這款遊戲反常識地將AI「說謊」的能力轉化為核心玩法，創造出動態且具欺騙性的角色，徹底顛覆傳統AI追求真實的設定，為互動體驗開闢新維度。"
         }
       ]
     }
