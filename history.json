@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-23",
   "episodes": [
+    {
+      "date": "2026年11月23日",
+      "topics": [
+        {
+          "title": "Japan's Ricoh shoots for younger buyers with stripped-down cameras",
+          "keywords": [
+            "減法創新",
+            "產品簡化",
+            "市場區隔",
+            "日本品牌",
+            "傳統產業轉型"
+          ],
+          "innovationPoint": "一家老牌相機製造商反其道而行，透過移除多餘功能推出「精簡版」相機，反而成功打入年輕市場，顛覆了功能越強越好的產品開發思維。"
+        }
+      ]
+    },
     {
       "date": "2026年11月21日",
       "topics": [
@@ -206,23 +222,6 @@
             "效率"
           ],
           "innovationPoint": "創新點：這篇文章描述了AI代理人如何讓「單人新創」也能達成獨角獸規模的商業模式變革，顛覆傳統公司需大量員工才能擴張的認知，開創個人化高效率創業新典範。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月6日",
-      "topics": [
-        {
-          "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-          "keywords": [
-            "AI模型訓練",
-            "成本效益",
-            "小型團隊",
-            "開源AI",
-            "創意工具",
-            "AI民主化"
-          ],
-          "innovationPoint": "創新點：這家僅兩人的實驗室反常識地以2萬美元成本訓練出高效能文字轉圖像AI模型，並開源權重，顛覆了AI模型開發高昂門檻的認知，為小型團隊開闢AI應用新道路。"
         }
       ]
     }
