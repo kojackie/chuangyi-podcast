@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                <item>
+    <title>AI客服「解決才收費」：顛覆SaaS定價，風險供應商扛</title>
+    <description><![CDATA[今天想跟大家聊一個我覺得很有意思的台灣創新，一家叫 Fidiora 的AI客服平台。他們做了一個跟一般軟體公司很不一樣的收費模式。   怎麼說？現在AI客服不是很多嗎？大部分都嘛是按月訂閱，或者看你用多少功能來計費。有什麼特別的嗎？   特別就在這裡。他們是「解決才計費」。也就是說，他們家的AI客服，要真的幫客戶解決問題，沒有人工介入，才算一次成功的「解決」，這時才會收費。   解決才計費？等等，...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-25.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-25.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Wed, 25 Nov 2026 10:12:23 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-25</guid>
+  </item>
+  <item>
     <title>重工業也能訂閱？熱能即服務翻轉工業設備商業模式！</title>
     <description><![CDATA[今天想聊一個很有意思的創新，它來自阿姆斯特丹，叫 Good Heat。這家公司做的是什麼呢？他們想用「熱能電池」取代工廠裡燒瓦斯的蒸汽鍋爐。   嗯，聽起來就是個綠能方案，但是這跟我們一般人有什麼關係？很多這種技術要嘛很貴，要嘛很難推動，特別是重工業。   這就是有趣的地方。他們出乎意料的做法是，把這種工業熱能變成一種訂閱服務，叫做「熱能即服務」（Heat as a Service）。工廠不用自己...
 
