@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                  <item>
+    <title>獎金越多工作越爛？反常識的管理實驗課</title>
+    <description><![CDATA[今天要分享的案例，其實一開始讓我很納悶，一個老闆給員工發獎金，鼓勵他們多做影片，結果品質反而變差，客戶抱怨變多，甚至有 13% 的客戶取消訂閱。   等等，這怎麼可能？老闆給獎金不是應該激勵大家嗎？多勞多得，不是天經地義的嗎？難道是老闆給的獎金不夠多？   不完全是獎金多寡的問題。這個老闆叫 Usman Qamar，他就是想提高產量，所以設定了一個很簡單的獎勵機制：完成固定數量的影片，就能拿到額外...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-26.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-26.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Thu, 26 Nov 2026 10:14:20 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-26</guid>
+  </item>
+  <item>
     <title>AI客服「解決才收費」：顛覆SaaS定價，風險供應商扛</title>
     <description><![CDATA[今天想跟大家聊一個我覺得很有意思的台灣創新，一家叫 Fidiora 的AI客服平台。他們做了一個跟一般軟體公司很不一樣的收費模式。   怎麼說？現在AI客服不是很多嗎？大部分都嘛是按月訂閱，或者看你用多少功能來計費。有什麼特別的嗎？   特別就在這裡。他們是「解決才計費」。也就是說，他們家的AI客服，要真的幫客戶解決問題，沒有人工介入，才算一次成功的「解決」，這時才會收費。   解決才計費？等等，...
 
