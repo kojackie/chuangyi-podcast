@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-25",
+  "lastUpdated": "2026-11-26",
   "episodes": [
+    {
+      "date": "2026年11月26日",
+      "topics": [
+        {
+          "title": "I Paid My Team a Bonus for Doing More — and the Work Got Worse. Here’s What It Taught Me.",
+          "keywords": [
+            "獎勵機制",
+            "績效管理",
+            "反常識",
+            "員工激勵",
+            "管理洞見"
+          ],
+          "innovationPoint": "創新點：一位企業主反常識地發現，提供額外獎金鼓勵員工多做，反而導致工作品質下降，顛覆了傳統獎勵機制總能提升績效的普遍認知。"
+        }
+      ]
+    },
     {
       "date": "2026年11月25日",
       "topics": [
@@ -206,22 +222,6 @@
             "反常識設計"
           ],
           "innovationPoint": "創新點：一位開發者反常識地將傳統螢幕「鏡像」的概念反轉，讓iPhone不只接收畫面，而是成為電腦的「反向鏡像」延伸顯示器與互動介面，徹底顛覆手機與電腦間的單向資訊流，開創跨裝置互動的新可能。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月9日",
-      "topics": [
-        {
-          "title": "Startups recalibrate Chinese AI for the West",
-          "keywords": [
-            "AI在地化",
-            "商業模式創新",
-            "地緣政治商機",
-            "文化適應",
-            "信任經濟"
-          ],
-          "innovationPoint": "創新點：這類新創公司反常識地將AI模型視為需要深度「文化與政治在地化」的產品，透過針對西方市場的審查與安全疑慮重新校準，將地緣政治風險轉化為開創全新AI服務商機的商業模式。"
         }
       ]
     }
