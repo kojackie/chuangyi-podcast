@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                    <item>
+    <title>耗時四年手寫Vim手冊：顛覆速食時代，深度內容終獲市場青睞</title>
+    <description><![CDATA[今天我們來聊一個很有意思的案例。在資訊爆炸的時代，大家都追求快速、片段的資訊，對吧？但卻有人反其道而行。  怎麼說？是那種老派的做法嗎？現在誰還有時間慢慢學東西，連看個新聞都希望三分鐘看完。  對，就是這種「老派」。有一位開發者叫做 Matthieu，他花了四年時間，手寫了一本完整的 Vim 教學手冊，叫做《Learning to Play Vim》。  四年？手寫？現在誰還會花四年寫一本書？而且...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-27.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-27.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Fri, 27 Nov 2026 10:13:37 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-27</guid>
+  </item>
+  <item>
     <title>獎金越多工作越爛？反常識的管理實驗課</title>
     <description><![CDATA[今天要分享的案例，其實一開始讓我很納悶，一個老闆給員工發獎金，鼓勵他們多做影片，結果品質反而變差，客戶抱怨變多，甚至有 13% 的客戶取消訂閱。   等等，這怎麼可能？老闆給獎金不是應該激勵大家嗎？多勞多得，不是天經地義的嗎？難道是老闆給的獎金不夠多？   不完全是獎金多寡的問題。這個老闆叫 Usman Qamar，他就是想提高產量，所以設定了一個很簡單的獎勵機制：完成固定數量的影片，就能拿到額外...
 
