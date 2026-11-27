@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "episodes": [
+    {
+      "date": "2026年11月27日",
+      "topics": [
+        {
+          "title": "Show HN: I wrote an entire Vim manual over 4 years",
+          "keywords": [
+            "深度內容",
+            "知識付費",
+            "小眾市場",
+            "職人精神",
+            "內容策展"
+          ],
+          "innovationPoint": "創新點：一位開發者反其道而行，耗時四年手寫一本完整的Vim教學手冊，顛覆數位時代追求快速、片段資訊的趨勢，證明市場對深度、系統性、從基礎到進階的知識內容仍有強烈需求。"
+        }
+      ]
+    },
     {
       "date": "2026年11月26日",
       "topics": [
@@ -206,22 +222,6 @@
             "個人化服務"
           ],
           "innovationPoint": "創新點：一位開發者反常識地以僅15MB的極致輕量化，打造出具備Netflix和Spotify功能的自架媒體伺服器，顛覆了媒體服務必須龐大複雜的認知，為個人和中小企業提供高效能、低成本且自主可控的解決方案。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月10日",
-      "topics": [
-        {
-          "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-          "keywords": [
-            "反向鏡像",
-            "跨裝置互動",
-            "UI/UX創新",
-            "手機應用",
-            "反常識設計"
-          ],
-          "innovationPoint": "創新點：一位開發者反常識地將傳統螢幕「鏡像」的概念反轉，讓iPhone不只接收畫面，而是成為電腦的「反向鏡像」延伸顯示器與互動介面，徹底顛覆手機與電腦間的單向資訊流，開創跨裝置互動的新可能。"
         }
       ]
     }
