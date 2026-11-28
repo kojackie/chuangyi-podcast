@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-27",
+  "lastUpdated": "2026-11-28",
   "episodes": [
+    {
+      "date": "2026年11月28日",
+      "topics": [
+        {
+          "title": "Century-old Hong Kong teahouse reinvents 'yum cha' after dark",
+          "keywords": [
+            "百年老店",
+            "飲茶",
+            "夜間服務",
+            "服務設計",
+            "餐飲創新"
+          ],
+          "innovationPoint": "創新點：香港一家百年老店反常識地顛覆傳統「飲茶」時間，將白天活動的點心服務延伸至夜間，成功透過「時間維度再設計」開拓新客群與消費場景。"
+        }
+      ]
+    },
     {
       "date": "2026年11月27日",
       "topics": [
@@ -206,22 +222,6 @@
             "消費者主權"
           ],
           "innovationPoint": "創新點：一位個人開發者反常識地為一台僅300美元的家用刺繡機，因不滿原廠強制訂閱制，親手打造專屬應用程式，成功擺脫廠商鎖定，顛覆了硬體搭配訂閱服務的商業模式。"
-        }
-      ]
-    },
-    {
-      "date": "2026年11月11日",
-      "topics": [
-        {
-          "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-          "keywords": [
-            "自架媒體",
-            "輕量化軟體",
-            "效率創新",
-            "低成本",
-            "個人化服務"
-          ],
-          "innovationPoint": "創新點：一位開發者反常識地以僅15MB的極致輕量化，打造出具備Netflix和Spotify功能的自架媒體伺服器，顛覆了媒體服務必須龐大複雜的認知，為個人和中小企業提供高效能、低成本且自主可控的解決方案。"
         }
       ]
     }
