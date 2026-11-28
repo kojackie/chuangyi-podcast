@@ -30,7 +30,18 @@
     </image>
     <atom:link href="https://kojackie.github.io/chuangyi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                      <item>
+    <title>百年茶樓夜間點心：顛覆時段創餐飲新藍海</title>
+    <description><![CDATA[香港有一家百年茶樓，原本面臨經營困境，沒想到他們做了一個出乎意料的決定，成功扭轉了局面。  百年老店？我猜是重新裝潢，或是推出什麼新菜色吧？這類故事聽多了，效果通常有限。  其實不是，他們做的更特別。這家茶樓把傳統的「飲茶」服務，延伸到了晚上。而且一個月有一次，甚至會變成夜店。  等等，夜店？茶樓變夜店，這模式聽起來會不會太跳痛？成本划算嗎？傳統老顧客不會反彈嗎？  根據報導，他們確實是這樣做的。...
+
+完整 Podcast 內容，請到 https://xiaoko.com 讀取文字版]]></description>
+    <enclosure url="https://pub-695fce5b9a7247b290c42969dd0e5fae.r2.dev/audio/episode-2026-11-28.mp3" type="audio/mpeg" length="0"/>
+    <podcast:transcript url="https://kojackie.github.io/chuangyi-podcast/transcripts/episode-2026-11-28.srt" type="application/srt"/>
+    <itunes:duration>08:00</itunes:duration>
+    <pubDate>Sat, 28 Nov 2026 10:14:33 GMT</pubDate>
+    <guid isPermaLink="false">chuangyi-2026-11-28</guid>
+  </item>
+  <item>
     <title>耗時四年手寫Vim手冊：顛覆速食時代，深度內容終獲市場青睞</title>
     <description><![CDATA[今天我們來聊一個很有意思的案例。在資訊爆炸的時代，大家都追求快速、片段的資訊，對吧？但卻有人反其道而行。  怎麼說？是那種老派的做法嗎？現在誰還有時間慢慢學東西，連看個新聞都希望三分鐘看完。  對，就是這種「老派」。有一位開發者叫做 Matthieu，他花了四年時間，手寫了一本完整的 Vim 教學手冊，叫做《Learning to Play Vim》。  四年？手寫？現在誰還會花四年寫一本書？而且...
 
